@@ -1,0 +1,704 @@
+[
+  {
+    "id": "org.pixelrush.moneyiq",
+    "name": "1Money: expense tracker budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq",
+    "iconUrl": "https://play-lh.googleusercontent.com/mCSV3gzQ_i2YewSXJQz0AM1Y9BHNjWtOISZz7Yeks4IyiZauer9Rv9wiMRYDkfxrzt_xzWh1RUMDTwxh5_Mb",
+    "developer": "Esin Dmitrii",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending, debts, and personal or family budgets.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "it.wellcode.balance",
+    "name": "Balance: Couple Budget & Money",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=it.wellcode.balance",
+    "iconUrl": "https://play-lh.googleusercontent.com/1rWOjONB-W2qJ16jHRV2pqjx7ux8Z9Hg0HVlo8gOrYmHkphA7DcQEvHOUfOXYFaTLbgj4gzf6HEDDeVwaNDUQjE",
+    "developer": "Wellcode S.r.l.s.",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks expenses, bills, and budgets for couples.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.beyondbudget",
+    "name": "Beyond Budget: Budget Planner",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.beyondbudget",
+    "iconUrl": "https://play-lh.googleusercontent.com/HBRusOObi9ZacBp71GxSFg-T8MOka_-UgtpgqFKQ39K-6uflVWWDVQU7ZSbNfuzhzqB4MMQBOEl2Y9YPyOsVcQ",
+    "developer": "Beyond Budget",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses, bills, debts, and savings goals on phone and web.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.rammigsoftware.bluecoins",
+    "name": "Bluecoins Finance & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.rammigsoftware.bluecoins",
+    "iconUrl": "https://play-lh.googleusercontent.com/VtTLn-4YSl8gAH16YUueVVS-n7UJSW5Dp-EdIxSYzz7OoecThN_KSu6RXqspBvP0Tt82B8IWxF0IlAW0XcvX5g",
+    "developer": "Mabuhay Software",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Organizes personal finances and budgets.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.fin.plan",
+    "name": "Budge・Savings & Budget Planner",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.fin.plan",
+    "iconUrl": "https://play-lh.googleusercontent.com/Q_SbttQEoMJiT_MXZWFriPtbo8IJ1kI60z0Qcd6uXzKBDXsebBgJfz_GIaugHwigWWobC9iZQUl3TxH9Z3-IcA",
+    "developer": "Vladimir Chernysh",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and plans monthly budgets and savings.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "app.monee",
+    "name": "Budget & Expense Tracker Monee",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=app.monee",
+    "iconUrl": "https://play-lh.googleusercontent.com/B9Uus65gv-vZcp69QPcZ4U3FNMvfb_7xk1XXOJavt6_7W_4GMYUzjIcMH2r2Aev4wZz56qeJfLJA-WFCb5zFcg",
+    "developer": "Stephan Lerner",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks expenses, income, and shared finances.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.pocketguard.android.app",
+    "name": "Budget App — PocketGuard",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.pocketguard.android.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/wxq1d5y3dV5hX6x0hL4znsTOG8PRgTVdF2RwL1WK5FupZzArxpg2_xLGJD5D576CvYXxhk3RCWPpdywPTHsIfaE",
+    "developer": "PocketGuard, Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and income and helps manage a personal budget.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.cleevio.spendee",
+    "name": "Budget Planner & App: Spendee",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.cleevio.spendee",
+    "iconUrl": "https://play-lh.googleusercontent.com/NrtVAZlPAlKfBzOmxEPrR6A248njycZCB8DtrOv1lNu3cdRStAwVdt-ghSc8h1ZThP238B1mcsFplqGwBaPSaw",
+    "developer": "SPENDEE a.s.",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks spending, plans budgets, and supports shared finances.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.thebudgetingapp.thebudgetingapp",
+    "name": "Budgeting App - Spend Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.thebudgetingapp.thebudgetingapp",
+    "iconUrl": "https://play-lh.googleusercontent.com/yIlsuOo3M2rthxd8QputTbLqQVqW0nMaOyGRhugbYeDrWJtlhPnNh5dQmLE53zeEDl2Hdt_bz7CghHkSafSj",
+    "developer": "The Budgeting App",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Combines budget planning and personal expense tracking.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "cashbook.cashbook",
+    "name": "Cash Book- daily expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=cashbook.cashbook",
+    "iconUrl": "https://play-lh.googleusercontent.com/6P-Gyx3KdtElH1n9tUxSUrntJ4AunoQ0Zo96LNTrc9e12k3DsF3JnzroY8r4ma2B6i5Zj77dh5clVJvhlR7iGw",
+    "developer": "ANKIT SARAF",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Keeps a cashbook and records day-to-day expenses.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.dimakukhta.diploma",
+    "name": "Casherwise: Budget & Expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.dimakukhta.diploma",
+    "iconUrl": "https://play-lh.googleusercontent.com/_Ec4T1Xz63qBE92DCSlYc-zgkngLP_Kx0CcscnlXHPFe4LwjzgR8Vv8gS9ZAgmRdbWg-2P7EnzR46A9SvvF1Tg",
+    "developer": "D.K. Studio",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks income and expenses alongside budget management.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.budget.tracker_app",
+    "name": "Cashew—Expense Budget Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.budget.tracker_app",
+    "iconUrl": "https://play-lh.googleusercontent.com/VQ1Nyf_vXLkr2anxhD0tHvtzpM93beJa5lZcSuDy52WTHEdidajo59pB-1RGHy9S8fBz6ylTUzGFD6V7hoK3elY",
+    "developer": "Dapper App Developer",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses and organizes personal budgets.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.budget.cloud",
+    "name": "Daily Expense — My Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.budget.cloud",
+    "iconUrl": "https://play-lh.googleusercontent.com/kZpCX0BPsK4WKT5NKAPdBze3v5zTwIsXHA9jTZa1A8GoZD2H1pEV1WuXMelVE9r_qAa-4T6OkJ79zG5xw-biR3g",
+    "developer": "2cLab",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Manages expenses, income, budgets, and savings.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.encodemx.gastosdiarios4",
+    "name": "Daily Expenses 4",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.encodemx.gastosdiarios4",
+    "iconUrl": "https://play-lh.googleusercontent.com/50o84Yb8KRGq0fEMAIjS6vOUM_N3DO36kkeKBF4MGNq8ArGgc--YvoY18Y4ijdXXrDuXxe01gq61eEQyqyxzrw",
+    "developer": "Michel Carvajal (encodemx)",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records daily expenses for personal finance management.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.everydollar.android",
+    "name": "EveryDollar: Budget Management",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.everydollar.android",
+    "iconUrl": "https://play-lh.googleusercontent.com/C37memiNHjc6GqARZQktgzlUVxAtPDfugMZEniOJiNYRLUjgghtaGZAVkhQHfcPyQhXrevVzG1E1k1JDj4GZ",
+    "developer": "Ramsey Solutions",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Plans monthly budgets around savings and other money goals.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "mediavision.handwallet",
+    "name": "Expense Manager",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=mediavision.handwallet",
+    "iconUrl": "https://play-lh.googleusercontent.com/M7BwgPzHyKGRaD3mXLh0oRuOXUYhr_ebRcSZpMecx8tK3V_XyTEfcyBxkIhyuhdTEats2FkYl8JG58pNx3fWBw",
+    "developer": "HandWallet Expense Manager",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses and helps plan a personal budget.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "org.me.mobiexpensifyg",
+    "name": "Expensify - Travel & Expense",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.me.mobiexpensifyg",
+    "iconUrl": "https://play-lh.googleusercontent.com/YXSOZ9ExlYrrvz370thuyB-kPU-UYfIwwr7xhtK_m3zdZy0Lrf9AAbWJXNZTUa1OAN3lM3yRdFueYQcGRvmi",
+    "developer": "Expensify Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Tracks business expenses, scans receipts, and manages reimbursements.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.blodhgard.easybudget",
+    "name": "Fast Budget - Expense Manager",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget",
+    "iconUrl": "https://play-lh.googleusercontent.com/DfKAxUGVn_EF3FIKTrte2S94Ve0-5kgAQ3lVaPIVOUl7zDnS0V3zJNv7EK9AtC0acl3huEe0mV7deqm9muIY2Q",
+    "developer": "AppFer SRL",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks personal expenses and manages budgets and accounts.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.dayspringtech.envelopes",
+    "name": "Goodbudget: Budget & Finance",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes",
+    "iconUrl": "https://play-lh.googleusercontent.com/MzTQ_58R1crU6zBb0g4IqOi-p9t1mDcV7xw3ayEQRBOMhTc9QlI-RbaViJsllALORVVSEC5l5t-3Y437HyUA",
+    "developer": "Dayspring Partners",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Uses envelope budgets to plan and share household spending.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "incomeexpense.incomeexpense",
+    "name": "Income Expense- daily expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=incomeexpense.incomeexpense",
+    "iconUrl": "https://play-lh.googleusercontent.com/JGsDGW6mIIRxvQnHDBWqZMsn2qdyhwy53nthWwgeqsmOn39V8fq66JQqVXJDh7uYHhSebWQzNUw5aaYYZavPjA",
+    "developer": "ANKIT SARAF",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records daily expenses and helps manage a monthly budget.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.ivy.wallet",
+    "name": "Ivy Wallet: money manager",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ivy.wallet",
+    "iconUrl": "https://play-lh.googleusercontent.com/FGMvjqlnZhA2M7NMLvWmcheUe6HlvvuIDoukdMZMEjRmR0rZ7uGy4CnSEH8uPyvG1N-slp3PjNNFO-E4q4CEhYg",
+    "developer": "Ivy Apps",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Tracks spending and organizes personal finances.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.wordpress.kuoyhuot.keepr",
+    "name": "Keepr: Money & Budget Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wordpress.kuoyhuot.keepr",
+    "iconUrl": "https://play-lh.googleusercontent.com/OuF5zWjM2Zuq47eYo79-ACsgyhaMOaT46wRLQpFvunXoDY-5vMIA8Z7JK6u9Hxjs7AHcikjUEOilCWsCboTQmw",
+    "developer": "Kuoy Huot",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Creates budgets and tracks personal spending.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.kittysplit",
+    "name": "Kittysplit: Bills & cost split",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kittysplit",
+    "iconUrl": "https://play-lh.googleusercontent.com/muJuaDZd_hwrDbnFdOyeP272hoLCDjyoKfVjWC4-M8IOYywVNEqDLWDMIQLXlSRb_DbgTnyf5zjICg4C0eORvg",
+    "developer": "Kittysplit",
+    "tags": [
+      "Shared expenses",
+      "Expenses"
+    ],
+    "description": "Splits group expenses for trips, events, and other shared costs.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.monarchmoney.mobile",
+    "name": "Monarch: Budget & Track Money",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.monarchmoney.mobile",
+    "iconUrl": "https://play-lh.googleusercontent.com/bgf8EBD7prIt2GCaRVQy2G1RYkitgkrniGl8TPrceMHFDq_5W5XRO1wzQg3JOrp6sSRWkkmocy0KzZov276Q0Lk",
+    "developer": "Monarch Money",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending, budgets, net worth, and investments.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.monefy.app.lite",
+    "name": "Monefy: Money & Budget App",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.monefy.app.lite",
+    "iconUrl": "https://play-lh.googleusercontent.com/3YvCk9EkKbEN1Apz1x0elK2EltNctGj1eTtgUZVSTQ87q3uhz0Qg923pJsrj3Qrg0BU6ZM0cQTrtdQlkK_r2tw",
+    "developer": "Reflective Technologies",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks personal expenses and helps plan a household budget.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.soft.znich.FlowmoPro",
+    "name": "Money Flow: Spending Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.soft.znich.FlowmoPro",
+    "iconUrl": "https://play-lh.googleusercontent.com/omCwBYIIHAsvne-N0NhRT5A-uLODGElLO35fuXSAVtDcdue5yEwK6RTi6Dgh2iRi5o6W2mppu3uIZpvGwcCXZA",
+    "developer": "Aleksey M.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses and helps forecast spending.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.bookmark.money",
+    "name": "Money Lover - Money Manager",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.bookmark.money",
+    "iconUrl": "https://play-lh.googleusercontent.com/W76rhj8gFl_qkHXq8PVGTqIXzOyprtL1xg5yZ2qm-Jf2JdPDDnk3wQxVfY8ZNBR972uxS32OaZOnghiT9FcZh34",
+    "developer": "Finsify",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and manages personal budgets.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "ru.innim.my_finance",
+    "name": "Money manager & expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.innim.my_finance",
+    "iconUrl": "https://play-lh.googleusercontent.com/Wbj2rjXYBQRZLnGLtL6zWNngzxt7hPsRp13ASJPLOL1w5zko_i49dPNK-d73NMMKXR05SW8LZo3NXCq_BpaLpnw",
+    "developer": "Cleaner + Antivirus + VPN company",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records personal expenses for everyday money management.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.realbyteapps.moneymanagerfree",
+    "name": "Money Manager Expense & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree",
+    "iconUrl": "https://play-lh.googleusercontent.com/YCRpZP_XCku3nb1fmkcAVAK-p8eaRkQNFzNSbVARSPGcaDotMOdMW_lyBTagYFGVm_VjnK9c7-PXHtw-4z_T",
+    "developer": "Realbyte Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Combines expense tracking with personal financial planning.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.happy.money_manager",
+    "name": "Money Manager: Bills & Budgets",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.happy.money_manager",
+    "iconUrl": "https://play-lh.googleusercontent.com/FCjCnYHMiCGqiswINBT4lIEXHIU4bMbI_KE8wwEPCRqZSenWPglTxeBoLeO6QNrM1TmV9aDLjYmivU5fQA9MWw",
+    "developer": "Wow Techs",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses, bills, and savings alongside a budget planner.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.ktwapps.walletmanager",
+    "name": "Money Manager: Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ktwapps.walletmanager",
+    "iconUrl": "https://play-lh.googleusercontent.com/tIhc0nvMCGkvSRkRBcXKRwMS0NX2nFXEqtTQUH4W3BMSH4CIvZUMyLeDXD8-lqqMkfzQNprB1v_gkbWFoXWHbA",
+    "developer": "KTW Apps",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and supports budget planning.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "moneytracker.expensetracker.budgetplanner.spendingtracker",
+    "name": "Money Tracker Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=moneytracker.expensetracker.budgetplanner.spendingtracker",
+    "iconUrl": "https://play-lh.googleusercontent.com/T6NEa029QkV2v6fJL9JzfU13DO-8HtMYMKnO7Xn8wG_wOkKKbKQh3UXrNM4rrUvvZgCoX7NdkUgcnwruOK06",
+    "developer": "Gulooloo Tech Co., Ltd.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Combines an expense tracker with budget planning.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.freeman.moneymanager",
+    "name": "Money Tracker-Expense & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.freeman.moneymanager",
+    "iconUrl": "https://play-lh.googleusercontent.com/rU6kAK8utoTV7NuYxidjxlArtNkzTE9DVIDBZcDcdZYBMB9Lk4NuzwU0aSSHu3dDaO2U0XEaFJjat4XWzkMwUYs",
+    "developer": "Horoscope365",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Combines money tracking, a cashbook, and bill organization.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.zotiger.accountbook",
+    "name": "Money+ Cute Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zotiger.accountbook",
+    "iconUrl": "https://play-lh.googleusercontent.com/Q_CPFHJmI9USH-dNDWlRUsQMWOPTLRj37G4cMEH1Yb_WXBSBeQ9nEd_4z1M8UQgnnH7iehviHcm84Y0AWIwDCw",
+    "developer": "zotiger studios",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Provides expense tracking and budgeting with a playful interface.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.komorebi.kakeibo",
+    "name": "MoneyNote: Expense & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.komorebi.kakeibo",
+    "iconUrl": "https://play-lh.googleusercontent.com/f925uWghTDMywnHCvW5Dc8O_k0cdpYVhOGf26CHHbYhZKtJjTPpj9dwAI5JQRgEazyrFmPBXSev1uy_ukQRb",
+    "developer": "Komorebi Inc.",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Logs daily spending with calendar and chart views.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.themoneytool.app",
+    "name": "MoneyTool – Budget Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.themoneytool.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/ApKlaIl5JiLs5YikSobLwXlRYS0E2J4mTfxn01XXM8_WA_ElZJzJtkAycqAr0FFqWRS5QDdtIHkfVqV2vAySZW0",
+    "developer": "CodeFX.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and manages budgets without an account login.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.raha.app.mymoney.free",
+    "name": "MyMoney—Track Expense & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free",
+    "iconUrl": "https://play-lh.googleusercontent.com/uIq-712cZvKbZo7uQoefCo000U2Y-qwDDzRf4PkvXEAcSm5FkJXYZlfILEiwLO7xNEGLMcnBvbGSS0ANUeIh0aE",
+    "developer": "Ananta Raha",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records daily expenses and helps manage a personal budget.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "app.pefi",
+    "name": "Pefi: Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=app.pefi",
+    "iconUrl": "https://play-lh.googleusercontent.com/KXo4trC9WjazB-nzllzDy3bF7C5u2402qEQ-rR4ydoR9skdAHtAcaUDFEHq5zd8AmY6HxLea6Uv8xlq_ljTdawo",
+    "developer": "Appok",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses and manages a personal budget.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.easyexpense",
+    "name": "Receipt Scanner: Easy Expense",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.easyexpense",
+    "iconUrl": "https://play-lh.googleusercontent.com/ogYdSPZLOVyoC236j_XQaxdzmiRdt2ExIs4n88cHvXM6fRw1mKiYwv63RqHxsNr8Ece84YWANqyMzI70yebkHuw",
+    "developer": "Easy Expense Tracker",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Scans receipts and manages business expenses for teams.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.truebill",
+    "name": "Rocket Money - Bills & Budgets",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.truebill",
+    "iconUrl": "https://play-lh.googleusercontent.com/1Vo_ixB4gB-cXR5MMr24xonI_6XVuvHzpDrmPJyZQaXBZUfv90OlxZmpAzthrm_hM64_ZCXbiQ0vgyKYhEYXxh8",
+    "developer": "Rocket Money - Bills & Budgets",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses and budgets and manages recurring bills and subscriptions.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.jc.rollymoneytracker",
+    "name": "Rolly: AI Budget Money Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.jc.rollymoneytracker",
+    "iconUrl": "https://play-lh.googleusercontent.com/AyqgQV6KyE4_PvgdtNAxqYVeBQYBkuw9RDJVs9v14JRl59VBjPiEMWEGXtKogrGSOJFiw4SNJnK78kH1PhDk3Q",
+    "developer": "Rolly AI",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and savings with budgeting tools.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "cz.destil.settleup",
+    "name": "Settle Up – Group Expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=cz.destil.settleup",
+    "iconUrl": "https://play-lh.googleusercontent.com/JVu0xZIMAws67VVL1mD4vtzPk-rmowBX18Urbtwg-iFxMO7dzBd3FvjwIvDY7I2klvbWfri0GasBA8TTTHM0QF0",
+    "developer": "Step Up Labs",
+    "tags": [
+      "Shared expenses",
+      "Expenses"
+    ],
+    "description": "Tracks group expenses and shared costs with friends.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.atharva.expensetracker",
+    "name": "Spendable: AI Money Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.atharva.expensetracker",
+    "iconUrl": "https://play-lh.googleusercontent.com/YMHwV258U6deR3YoDWyInYEgkAHekHiIOA3S2CVTMGuqJw76tLUrAXYtcXTVBifHvs-8K4XES0v5Rw0KewnDSiA",
+    "developer": "Atharva System",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Uses AI tools to help manage expenses and plan spending.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "splid.teamturtle.com.splid",
+    "name": "Splid – Split group bills",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=splid.teamturtle.com.splid",
+    "iconUrl": "https://play-lh.googleusercontent.com/vlU46zrSpe1S4C7pXuT1EXBT5qTydlXyIhNhRoXE08uhb66z7cligPqOPI5UDJgWqXzFKFkKtwUpzYZt8fM4Sg",
+    "developer": "Nico Jersch",
+    "tags": [
+      "Shared expenses",
+      "Expenses"
+    ],
+    "description": "Splits group bills for trips, shared households, and couples.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.Splitwise.SplitwiseMobile",
+    "name": "Splitwise",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile",
+    "iconUrl": "https://play-lh.googleusercontent.com/0H4UbwiIienhLb6jn_zs7wZ06Oqw2DtqZmoUw6puac1F5ZalD_Jja14N7gGk1seq78403uGUvdmtiVxqckMw",
+    "developer": "Splitwise",
+    "tags": [
+      "Shared expenses",
+      "Expenses"
+    ],
+    "description": "Splits expenses with friends, roommates, and travel groups.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.jojdevx.expense.tracker",
+    "name": "Sumlio: Expense & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker",
+    "iconUrl": "https://play-lh.googleusercontent.com/HGxetYiKOrgEZWfH675GZsawn9sOp_Z-V3f25mvSE7Bir2agw6Ofnofq4oKVxEbxIvvLVnZGdz8YrIz8MgwB",
+    "developer": "Oleksandr Kinakh",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Organizes expenses, budgets, and personal finances.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.tribab.tricount.android",
+    "name": "tricount: Split & Settle Bills",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.tribab.tricount.android",
+    "iconUrl": "https://play-lh.googleusercontent.com/Kq7jbps7O52eqyv5FzEyxOP9WDeLmaNSfOSBA3yTFrXt2uznOExiKyrhrZfSvloZ6ol9z2l-lMzIuIjKa1adkUU",
+    "developer": "bunq",
+    "tags": [
+      "Shared expenses",
+      "Expenses"
+    ],
+    "description": "Tracks shared expenses, splits bills, and calculates settlements.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.droid4you.application.wallet",
+    "name": "Wallet: Budget Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
+    "iconUrl": "https://play-lh.googleusercontent.com/dQlNIZVt_gF7PxshIiF4ZprRaZ3RL7ZsoUfF4jFyHvbweAoB-dqxXNOXmm2W6_xRVbUZgHpL18GV2AQYE6W2DA",
+    "developer": "BudgetBakers",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Organizes bills, spending, and personal budgets.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.youneedabudget.evergreen.app",
+    "name": "YNAB",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.youneedabudget.evergreen.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/I1GXQbHAp_57Lf1FvPQwrldN6oxBt11VePhH_jIhbFCauHVC7GxYxACl2XeRnB16iUnQVj_qyhNjcaxYls5_eA",
+    "developer": "ynab.com",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Plans personal spending with a shared budgeting system.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.zoho.expense",
+    "name": "Zoho Expense - Expense Reports",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zoho.expense",
+    "iconUrl": "https://play-lh.googleusercontent.com/RLgbI0hhRKnU9PBHPCr74022L_UlAYNgW2zb4jd2vYN6QTZQyzQpD7gHb5BzHj1MHBrqtmIiYmv2MVqXTg9BIwU",
+    "developer": "Zoho Corporation",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Scans receipts and manages business expenses, mileage, and travel.",
+    "verifiedAt": "2026-11-02"
+  }
+]
