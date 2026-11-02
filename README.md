@@ -26,8 +26,8 @@ Descriptions and tags are editorial summaries. This is a curated index, not a co
 
 ## GitHub Pages
 
-The deployment workflow builds the project and publishes `dist/` through GitHub Actions. In the repository, select **Settings → Pages → Build and deployment → Source → GitHub Actions**. The expected project URL is `https://sanyo4ever.github.io/tracker-count/`.
+The deployment workflow builds the project and publishes `dist/` through GitHub Actions on every push to `main`. Site URL: [sanyo4ever.github.io/tracker-count](https://sanyo4ever.github.io/tracker-count/).
 
-**Current deployment blocker:** the repository is private, and GitHub rejected Pages setup because the account's current plan does not support Pages for this repository. Keep it private and use an eligible paid plan, or explicitly authorize changing its visibility to public before enabling Pages. The site is not live until deployment succeeds.
+For a fork, enable **Settings → Pages → Build and deployment → Source → GitHub Actions**, then push to `main` or run the deployment workflow manually. Free GitHub Pages hosting requires a public repository. The workflow sets the Vite base path from the repository name; update the canonical and social-preview URLs in `index.html` if you deploy under a different owner or name.
 
 The social preview is `public/og-image.png` (1200 × 630), with an editable, font-embedded SVG source alongside it.
