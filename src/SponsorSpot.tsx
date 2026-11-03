@@ -1,13 +1,24 @@
 import { useState } from 'react';
-import { ArrowUpRight } from 'lucide-react';
+import { ArrowUpRight, Check, Copy } from 'lucide-react';
 import { useLocale } from './i18n';
 import './sponsor.css';
 
 type SponsorApp = { name: string; storeUrl: string; iconUrl?: string };
+const paypalEmail = 'sanyo4ever@gmail.com';
 
 export default function SponsorSpot({ app }: { app: SponsorApp }) {
   const { t } = useLocale();
   const [iconFailed, setIconFailed] = useState(false);
+  const [copyStatus, setCopyStatus] = useState<'idle' | 'copied' | 'error'>('idle');
+
+  async function copyPaypal() {
+    try {
+      await navigator.clipboard.writeText(paypalEmail);
+      setCopyStatus('copied');
+    } catch {
+      setCopyStatus('error');
+    }
+  }
 
   return <section className="sponsor-spot page-width" aria-labelledby="sponsor-heading">
     <div className="sponsor-disclosure">
@@ -37,5 +48,19 @@ export default function SponsorSpot({ app }: { app: SponsorApp }) {
       <span className="sponsor-ticket-stamp" aria-hidden="true">{t('VERY COMMERCIAL', 'ДУЖЕ КОМЕРЦІЙНО')}</span>
     </div>
     <p className="sponsor-policy"><ArrowUpRight size={13} aria-hidden="true"/><span><strong>{t('Donate more for your app. Get placed higher.', 'Задонатьте більше за свій застосунок — поставимо вище.')}</strong> {t('That’s the entire ranking algorithm.', 'Ось і весь алгоритм ранжування.')}</span></p>
+    <div className="sponsor-donate">
+      <div className="sponsor-donate-details">
+        <span className="sponsor-donate-label">{t('FUND THE ABSURDITY', 'ПРОФІНАНСУЙ ЦЕЙ АБСУРД')}</span>
+        <span className="sponsor-paypal-address"><strong>PayPal</strong><span>{paypalEmail}</span></span>
+      </div>
+      <button className="sponsor-copy" onClick={copyPaypal} aria-label={t('Copy PayPal email address', 'Скопіювати адресу PayPal')}>
+        {copyStatus === 'copied' ? <Check size={14} aria-hidden="true"/> : <Copy size={14} aria-hidden="true"/>}
+        <span aria-live="polite">{copyStatus === 'copied' ? t('Copied!', 'Скопійовано!') : t('Copy', 'Копіювати')}</span>
+      </button>
+      {copyStatus === 'error' && <label className="sponsor-copy-fallback" role="status">
+        {t('Copy this address manually:', 'Скопіюй цю адресу вручну:')}
+        <input readOnly aria-label={t('PayPal email address', 'Адреса PayPal')} value={paypalEmail} onFocus={event => event.target.select()} />
+      </label>}
+    </div>
   </section>;
 }
