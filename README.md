@@ -55,6 +55,10 @@ UI copy, accessibility labels, page titles, jokes, sponsorship disclosure, categ
 
 ## GitHub Pages
 
+The deployment gets its public URL and asset base path from GitHub Pages, so it works at either a project subpath or a custom domain root.
+
+To enable GA4, set the repository Actions variable `GA_MEASUREMENT_ID` to the project's web stream ID (`G-…`), then run the Pages workflow. Leave automatic page views based on browser history disabled in the stream's Enhanced Measurement settings: the site already sends one page view per hash route. Without the variable, no Analytics script loads.
+
 The deployment workflow builds the project and publishes `dist/` through GitHub Actions on every push to `main`. Site URL: [sanyo4ever.github.io/tracker-count](https://sanyo4ever.github.io/tracker-count/).
 
 For a fork, enable **Settings → Pages → Build and deployment → Source → GitHub Actions**, then push to `main` or run the deployment workflow manually. Free GitHub Pages hosting requires a public repository. The workflow sets the Vite base path from the repository name; update the canonical and social-preview URLs in `index.html` if you deploy under a different owner or name.

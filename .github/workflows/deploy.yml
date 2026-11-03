@@ -24,9 +24,12 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - uses: actions/configure-pages@v5
+        id: pages
       - run: pnpm build
         env:
-          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+          VITE_BASE_PATH: ${{ format('{0}/', steps.pages.outputs.base_path) }}
+          VITE_SITE_URL: ${{ steps.pages.outputs.base_url }}/
+          VITE_GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

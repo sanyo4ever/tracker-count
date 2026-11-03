@@ -4,6 +4,7 @@ import { ArrowDown, ArrowDownLeft, ArrowRight, ArrowUpRight, Check, ChevronDown,
 import ios from './data/ios.json';
 import android from './data/android.json';
 import SponsorSpot from './SponsorSpot';
+import { trackPage } from './analytics';
 import AboutPage from './About';
 import { appDescription, tagLabel, useLocale, type Locale } from './i18n';
 
@@ -173,6 +174,7 @@ export default function App() {
     document.title = route === '/ios' ? `${locale === 'uk' ? 'Колекція App Store' : 'App Store Collection'} — ${name}` : route === '/android' ? `${locale === 'uk' ? 'Колекція Google Play' : 'Google Play Collection'} — ${name}` : `${name} — ${locale === 'uk' ? 'Музей винайдених велосипедів' : 'A Museum of Reinvented Wheels'}`;
     const description = locale === 'uk' ? 'Хтось створив трекер трекерів витрат. Реальні застосунки в найбільш непотрібному музеї інтернету. Бо нам бракувало ще одного.' : "Someone built a tracker for expense trackers. Explore the entirely real collection at the internet's most unnecessary museum. Because apparently, we needed one more.";
     document.querySelector('meta[name="description"]')?.setAttribute('content', description);
+    trackPage(route);
   }, [route, locale]);
   const shareUrl = `${homeUrl}?lang=${locale}`;
   async function copyLink() { try { await navigator.clipboard.writeText(shareUrl); setCopied(true); setCopyFailed(false); } catch { setCopyFailed(true); } }
