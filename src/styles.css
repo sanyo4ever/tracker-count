@@ -89,3 +89,9 @@ html[lang="uk"] .rolling-number{font-family:'Barlow Condensed',Impact,sans-serif
   html[lang="uk"] .question-answer{font-size:17px}
   html[lang="uk"] .hero-sticker span{font-size:4px}
 }
+
+.site-footer{flex-wrap:wrap}
+.site-footer>.footer-patreon{display:inline-flex;align-items:center;gap:9px;min-height:40px;max-width:100%;padding:10px 13px;border:1px solid var(--ink);background:var(--lime);font-size:11px;font-weight:600;line-height:1.5}
+.site-footer>.footer-patreon:hover{background:var(--ink);color:var(--lime)}
+.footer-patreon>svg{flex-shrink:0}
+@media(max-width:760px){.site-footer>.footer-patreon{order:4;width:100%;justify-content:space-between;font-size:11px}}

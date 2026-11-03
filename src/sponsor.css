@@ -197,6 +197,9 @@
 .sponsor-paypal-address > span { overflow-wrap: anywhere; user-select: text; }
 .sponsor-copy { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 36px; padding: 8px 11px; border: 1px solid var(--ink); border-radius: 20px; font-size: 10px; font-weight: 600; }
 .sponsor-copy:hover { background: var(--lime); }
+.sponsor-donate-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+.sponsor-donate-link { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 36px; padding: 8px 13px; border: 1px solid var(--ink); border-radius: 20px; background: var(--lime); font-size: 11px; font-weight: 700; }
+.sponsor-donate-link:hover { background: var(--ink); color: var(--lime); }
 .sponsor-copy-fallback { flex-basis: 100%; font-size: 11px; line-height: 1.6; }
 .sponsor-copy-fallback input { display: block; max-width: 100%; width: 250px; margin-top: 5px; padding: 7px; border: 1px solid var(--ink); background: var(--paper); }
 
@@ -329,6 +332,7 @@
   }
 
   .sponsor-donate { grid-row: 5; gap: 10px; padding: 11px 0 13px; }
+  .sponsor-donate-details { flex-basis: 100%; }
   .sponsor-donate-label { font-size: 7px; letter-spacing: .5px; }
   .sponsor-paypal-address { font-size: 11px; gap: 3px 7px; }
 }
