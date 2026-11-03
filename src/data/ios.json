@@ -1,5 +1,47 @@
 [
   {
+    "id": "ios-6745705364",
+    "name": "2Wallet Budget Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/2wallet-budget-expense-tracker/id6745705364",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d6/40/b9d640af-7f06-fda6-d804-6a4af79f9ee4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Artem Demyanov",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses, income, and transfers across multicurrency accounts, with category charts, debt tracking, and searchable transaction history.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-370662888",
+    "name": "ABUKAI Expense Reports Receipt",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/abukai-expense-reports-receipt/id370662888",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/54/b3/1954b3cb-142a-9320-9878-54dd04e77c00/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Abukai, Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Processes receipt photos into expense reports with categorized costs, transaction dates, vendors, and other extracted receipt details.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-325834957",
+    "name": "Account Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/account-tracker/id325834957",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1e/45/2f1e45f3-d149-ad45-5835-9c7b9c8d7b35/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Graham Haley",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and balances across accounts, with recurring transactions, bill reminders, budgets, multicurrency support, and financial reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
     "id": "ios-738654899",
     "name": "Amounts Budget Expense Tracker",
     "platform": "ios",
@@ -11,7 +53,64 @@
       "Expenses"
     ],
     "description": "Logs categorized expenses, sets spending limits, and compares spending over daily, weekly, monthly, and yearly periods.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1537213226",
+    "name": "Balance Pro: Money & Budget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/balance-pro-money-budget/id1537213226",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/18/cd/9f18cd80-877f-ec59-2d99-70ef37e6a8f0/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
+    "developer": "Jordan Kennedy",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks transactions and cash flow, sets category budgets, monitors upcoming bills, and captures expense details from receipts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6739036460",
+    "name": "BeanLedger: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/beanledger-expense-tracker/id6739036460",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/85/a2/cf85a244-6100-6722-3d35-be30b7655cd2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "琦 黎",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records income, expenses, transfers, and refunds, with account balances, calendar views, category filters, and multicurrency bookkeeping.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1570659711",
+    "name": "Bilance - Your Money & Budget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/bilance-your-money-budget/id1570659711",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c7/6e/63c76ee5-3717-528e-29b8-5a280d671132/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Bilance Technology OÜ",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Connects supported bank accounts, categorizes expenses, creates monthly budgets, tracks recurring bills, and reports spending trends.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1059461492",
+    "name": "Bill Tracker Pro: Budget Saver",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/bill-tracker-pro-budget-saver/id1059461492",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/fc/4a/affc4a18-ec96-266e-d917-4a79d0fc2260/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Bill Tracker Pro, Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks bills, income, and spending, with bank synchronization, flexible budgets, payment reminders, and shared finances for partners.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-936422955",
@@ -26,7 +125,82 @@
       "Shared expenses"
     ],
     "description": "Plans personal or shared budgets, tracks income and spending, and splits expenses between partners or friends.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-625887028",
+    "name": "Budget & Expense: Moneyboard",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-expense-moneyboard/id625887028",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f7/1c/48f71c33-cc67-3d07-b380-c29d1ed5b13e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Damien Vieira",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks spending across multicurrency accounts, manages budgets and recurring entries, and shares accounts with family or friends.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6804068903",
+    "name": "Budget app - GoodMoney",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-app-goodmoney/id6804068903",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/52/f3/2d52f3dc-d8f2-4b08-745a-001d799b4b05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "BRAVESET LTD",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts",
+      "Shared expenses"
+    ],
+    "description": "Tracks expenses and bills in separate wallets, scans receipt items, and estimates remaining money after planned costs.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1525179720",
+    "name": "Budget app - spending tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-app-spending-tracker/id1525179720",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/81/97/1a8197d8-76ba-82dd-3bb2-839fbae151b2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "InnerGrow",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Receipts"
+    ],
+    "description": "Tracks spending across accounts, with category budgets, recurring transactions, shared ledgers, voice entry, and receipt scanning.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6754530724",
+    "name": "Budget app – Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-app-expense-tracker/id6754530724",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/5d/ff/895dff83-5d89-9031-35bf-1bf2639ee4b8/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+    "developer": "Omar Ahmed",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses, categorizes spending, sets monthly budgets, and provides bill reminders, charts, and savings goals.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1498172833",
+    "name": "Budget App : Budget planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-app-budget-planner/id1498172833",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/8a/54/268a547c-79d9-7202-24b9-b629cd0f891d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Nilu Technologies",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Organizes income and spending into separate accounts, with weekly, monthly, or yearly tracking and budget rollover.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1448335613",
@@ -42,7 +216,238 @@
       "Business"
     ],
     "description": "Bookipi Expense tracks personal and business spending with separate wallets, budgets, receipt scanning, and bank feeds.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6764815619",
+    "name": "Budget App: AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-app-ai-expense-tracker/id6764815619",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/d5/4e/6cd54e78-3377-6d95-ec69-92f714527a32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Giridhar Bandi",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs expenses from conversational messages, categorizes multiple purchases, answers spending questions, and calculates daily availability from monthly budgets.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1562877905",
+    "name": "Budget App: Expense Tracker.",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-app-expense-tracker/id1562877905",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e5/8e/2ee58ee9-f8f2-4fbb-11c6-b70d58dcbe9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "WALABOK LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks income and expenses, scans receipts, sets monthly budgets, and organizes recurring bills, savings goals, and spending charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1159345509",
+    "name": "Budget Calendar - Monelyze",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-calendar-monelyze/id1159345509",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5e/33/b45e33da-007e-b91c-6543-af51946e96e7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Monelyze Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records daily spending in a calendar, analyzes expenses with charts, and offers customizable categories and review reminders.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1640091876",
+    "name": "Budget Flow | Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-flow-expense-tracker/id1640091876",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/57/df/2a57dffd-0737-31b0-f547-9dd215e57cfd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Fabian Hasse",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Receipts"
+    ],
+    "description": "Tracks accounts and transactions, scans receipts, plans category budgets, and shares budget books through iCloud.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1533403452",
+    "name": "Budget Hound: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budget-hound-expense-tracker/id1533403452",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/1c/19/611c190c-c308-46a2-8a23-fab5701af014/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Aleksandr Romanov",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs categorized expenses, calculates daily spending limits, estimates monthly budgets, and tracks financial goals with spending analysis.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1495077102",
+    "name": "Budget Planner l Snoop Money",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/budget-planner-l-snoop-money/id1495077102",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/e8/10/0de810c5-a615-cae1-c782-a49645f82654/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "developer": "Usnoop Limited",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Connects accounts to track spending, set budgets, monitor bills and subscriptions, and project whether balances cover upcoming payments.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6737688797",
+    "name": "Budgetum - Budget Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/budgetum-budget-planner/id6737688797",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b5/d2/d0b5d294-f66f-cfbb-2c24-d3cf807a6cb3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Danylo Rudenko",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Plans monthly or payday budgets, logs spending, schedules recurring bills, and compares planned amounts with actual expenses.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-580812126",
+    "name": "BUDGT Personal Finance Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/budgt-personal-finance-tracker/id580812126",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0c/40/5e0c4070-0ba2-ce37-38ac-d1c47511828c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "S. Flückiger",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Calculates a daily spending limit from monthly funds, with expense logs, recurring costs, savings goals, and category summaries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6818394752",
+    "name": "Business Expense Tracker (BET)",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/business-expense-tracker-bet/id6818394752",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/60/5d/59605d8f-1791-1b21-e1c7-9f1291a44e6b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Deep Play Studio LTD",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Records business expenses and sales in a manual ledger, with receipt recognition, payment statuses, cash flow summaries, and exports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1437594497",
+    "name": "CalendarBudget: Budget Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/calendarbudget-budget-planner/id1437594497",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f2/06/99f206e2-5ea1-dcc3-e561-c4e6d6bfb504/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "CalendarBudget Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Places income, bills, and purchases on a calendar to track spending, forecast balances, and compare expenses with plans.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6780537780",
+    "name": "calmfinance: money manager",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/calmfinance-money-manager/id6780537780",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/6d/50/026d505f-90b3-074f-a2aa-04edc4fbb532/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Roman Datsiuk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks accounts, transactions, budgets, and savings goals, with receipt scanning, voice entry, bank file imports, and financial forecasts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1632006509",
+    "name": "Cash Book - Balance & Expense",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cash-book-balance-expense/id1632006509",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/22/f1/ec22f1f6-d984-66a8-bc6b-fc61c30c48db/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Ekeekaran Inc",
+    "tags": [
+      "Expenses",
+      "Business"
+    ],
+    "description": "Maintains digital cash ledgers, tracks balances and money movement, and exports business records as spreadsheet or PDF reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6463662930",
+    "name": "Cashew—Expense Budget Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6d/13/2a6d134b-96f4-7ec7-d396-4bd4e833eabe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "James Kokoska",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks daily income and expenses, creates budgets for custom periods, and compares spending trends with interactive charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6764078981",
+    "name": "Cashflowly Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/cashflowly-expense-tracker/id6764078981",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/51/1f/fa511f42-0fb0-e79d-8807-7db3fd4c4e46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Ostap Kuleba",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Manually records income and expenses, charts category spending, and plans monthly budgets, savings goals, and upcoming costs.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1380338176",
+    "name": "Cashinator – Split Bills",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cashinator-split-bills/id1380338176",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/62/15/3c62158c-5363-1726-5de8-5f9de37484d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Daniel Mikus",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Travel"
+    ],
+    "description": "Tracks group spending and budgets, converts travel currencies, and calculates settlements for friends, households, or trips.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6743153951",
+    "name": "CashLens: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cashlens-expense-tracker/id6743153951",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f9/70/f1f97033-fa54-5e68-c9fe-b7dac6ad446e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Rushiraj Jadeja",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Logs expenses with categories, notes, and payment methods, and tracks bills and subscriptions with due reminders.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-617849961",
@@ -56,7 +461,37 @@
       "Shared expenses"
     ],
     "description": "An expense and account tracker with multiple currencies, shared accounting, recurring entries, reminders, and reports.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-305418178",
+    "name": "CashTrails+: Personal Finance",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/cashtrails-personal-finance/id305418178",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/86/26/76862668-6ef1-65c2-d052-a86eded04cca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "developer": "Vasyl Smyrnov",
+    "tags": [
+      "Expenses",
+      "Business",
+      "Travel"
+    ],
+    "description": "Tracks income and expenses across accounts, with recurring entries, tags, trip groups, configurable reports, and CSV export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760214754",
+    "name": "Cenno: Offline Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cenno-offline-expense-tracker/id6760214754",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/a0/da74a07f-c59f-6ac6-9099-04c71e6ea2a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "明慧 张",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses with receipt attachments, manages monthly and category budgets, and tracks accounts, transfers, and refunds.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-484000695",
@@ -69,7 +504,65 @@
       "Expenses"
     ],
     "description": "Maintains account registers for spending and income, with recurring transactions, transfers, reports, and export formats.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6806383600",
+    "name": "Clio: AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/clio-ai-expense-tracker/id6806383600",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/31/02/1c310219-1772-fff0-61f3-1cdab74710de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Makar Kovtunov",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Shared expenses"
+    ],
+    "description": "Records personal and group expenses from text, voice, or receipts, with shared balances, recurring bills, and spending insights.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1525126979",
+    "name": "Coin Flow: Expense Manager",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/coin-flow-expense-manager/id1525126979",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/e2/67/38e2672f-4171-9977-0975-42cf230fddd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Serhiy Zastavnyy",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks purchases, accounts, transfers, and debts, with budget planning, recurring transaction templates, financial goals, and reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-849747345",
+    "name": "CoinKeeper: money manager",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/coinkeeper-money-manager/id849747345",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/86/77/8886773d-9019-8c6b-6df0-8cdd34327169/AppIcons-0-0-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg",
+    "developer": "Disrapp",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records income and expenses, plans monthly budgets, and supports family synchronization, recurring payment reminders, and spending statistics.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-572886919",
+    "name": "Coins - Spending Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/coins-spending-tracker/id572886919",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4d/ac/cd4dac6d-0ae2-1850-33ac-985cc5e69b99/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Yuzhou Zhu",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs income and expenses with gesture-based entry, home screen widgets, budget progress, and visual spending reports.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1447330651",
@@ -83,7 +576,36 @@
       "Expenses"
     ],
     "description": "A personal finance app for tracking spending, planning budgets, and monitoring investments and net worth.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-524132764",
+    "name": "Cost Split",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cost-split/id524132764",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1e/ff/e4/1effe40f-1724-24ee-9442-9106ebd2a89c/AppIcon-0-1x_U007emarketing-0-85-220-3.png/512x512bb.jpg",
+    "developer": "Jacob Ivstam",
+    "tags": [
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Shares group expense records across devices, handles unequal splits and currencies, and produces settlement summaries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-797459670",
+    "name": "Cost Track: your Money Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/cost-track-your-money-tracker/id797459670",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/08/5f/2b085f22-f0d5-4e77-401c-3f84c1607e6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Artezio LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Groups income and expenses into account or event sheets, with multicurrency balances, receipt attachments, and shared budget synchronization.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-651896614",
@@ -97,7 +619,63 @@
       "Expenses"
     ],
     "description": "Calculates a daily spending budget and helps plan larger purchases, with expense categories and optional analysis tools.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1453876415",
+    "name": "Daily Expense Tracker App",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/daily-expense-tracker-app/id1453876415",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/17/79/d81779cc-9cd4-6b2e-1fa6-84d03a279941/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "iComet",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs categorized expenses, sets monthly limits, and displays daily spending allowances, spending comparisons, and savings goals.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6761923290",
+    "name": "Daily Expenses Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/daily-expenses-tracker/id6761923290",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/2e/8a/182e8ab6-51d0-717d-e77f-7434d3338da0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Anand Sundaram",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs expenses by category, sets category budgets, and displays daily through monthly spending summaries and charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-566587079",
+    "name": "DailyCost － Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/dailycost-expense-tracker/id566587079",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/f5/da/bbf5daa6-3965-98c5-6a65-df1868da5eee/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/512x512bb.jpg",
+    "developer": "RSQUARED INVESTMENT PTE. LTD.",
+    "tags": [
+      "Expenses",
+      "Travel"
+    ],
+    "description": "Records daily expenses with categories, financial reports, multicurrency conversion, cloud synchronization, and CSV export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-882637543",
+    "name": "Debit & Credit",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/debit-credit/id882637543",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/93/f2/c593f2e7-2ed5-f08f-54b8-5e6f19800133/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Ivan Pavlov Pty Ltd",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks transactions across accounts, imports supported Apple financial accounts, and supports category budgets, scheduled transactions, and saved payees.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-418327708",
@@ -112,7 +690,22 @@
       "Business"
     ],
     "description": "Extracts and categorizes receipt and invoice data for business expense management and accounting workflows.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6765870838",
+    "name": "Dibsly: AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/dibsly-ai-expense-tracker/id6765870838",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/37/3f/f0373f76-ae0e-b6d2-169d-09bda6e313d9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Dmytro Melinevskyi",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks accounts, spending, debts, and budgets, with statement imports, receipt scanning, and recurring payment calendars.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1635280255",
@@ -126,21 +719,121 @@
       "Expenses"
     ],
     "description": "Tracks categorized expenses and recurring spending, with category budgets, iCloud synchronization, and home screen widgets.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1214299218",
+    "name": "Dollarbird - Budget Calendar",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/dollarbird-budget-calendar/id1214299218",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/79/d5/3479d54f-93b9-db88-87db-932bfc2c582d/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Dollarbird Apps SRL",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Uses a calendar to record transactions and forecast balances, with shared access for partners, families, or teams.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1438647102",
+    "name": "Dyme: Expenses, Budget & Save",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/dyme-expenses-budget-save/id1438647102",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/b4/e6/c9b4e63e-09b0-270a-8642-20d6370a1494/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Dyme B.V.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Categorizes connected bank transactions, tracks income and fixed costs, identifies subscriptions, and supports weekly or monthly budgets.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-862914097",
+    "name": "Easy Budget Money Tracker Zeny",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/easy-budget-money-tracker-zeny/id862914097",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/b4/31/44b431d5-3116-edae-d424-197bedaddf8c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Lemon LLC",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "A manual money tracker with quick entries, category charts, income and expense summaries, and optional recurring transactions.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1511515117",
+    "name": "Econozer: expenses tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/econozer-expenses-tracker/id1511515117",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/fb/bd/e1fbbdca-0693-8499-602c-133747b7f438/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Mykhailo Dovhyi",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks categorized income and expenses, sets category limits, records debts, provides payment reminders, and exports transaction reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6799674143",
+    "name": "Eluna Budget: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/eluna-budget-expense-tracker/id6799674143",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/1a/ea/751aeac7-b93b-c0ef-67ae-072135f17e47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Serhii Vakulenchyk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Offers category limits and envelope budgets, with receipt scanning, recurring transactions, balance forecasts, and bank statement imports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1270062373",
+    "name": "Emma - Budget Planner Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/emma-budget-planner-tracker/id1270062373",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/cc/a2/32cca210-d905-945f-7394-b79db4cacd20/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Emma Technologies LTD.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Brings accounts together for budgeting, subscription tracking, spending analysis, weekly reports, balance notifications, and overdraft alerts.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-942571931",
     "name": "EveryDollar: Budget Management",
     "platform": "ios",
     "storeUrl": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/1d/d0/911dd0e7-6895-439e-e5ad-f82b790d9458/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/d2/bf/06d2bf6f-2bd3-82de-4547-08af54108b22/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "developer": "The Lampo Group Incorporated",
     "tags": [
       "Budgeting",
       "Expenses"
     ],
     "description": "A personal budget planner for organizing spending, tracking transactions, and setting savings and debt repayment goals.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6498994436",
+    "name": "Expense - Trackers",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-trackers/id6498994436",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/33/3d/d6333d62-028e-cfb0-badd-84a14c5b23dd/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+    "developer": "i15tech",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks income and categorized expenses with notes and receipt attachments, plus spending reports, category budgets, and limit notifications.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-635861140",
@@ -156,7 +849,222 @@
       "Receipts"
     ],
     "description": "Organizes money into wallets and budgets, tracks categorized spending, and offers shared finances and receipt scanning.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1170797647",
+    "name": "Expense & Subscription Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-subscription-tracker/id1170797647",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/60/0a/60600aa0-991f-5d7c-1df4-d3833058bf1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "CREAM SOFTWARE",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Money Gone tracks expenses, income, subscriptions, and monthly budgets, with receipt scanning and remaining-spending estimates.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1104167285",
+    "name": "Expense manager -Money tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-manager-money-tracker/id1104167285",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/0e/a9/500ea988-3ef4-f89e-bcd6-0aeb14ce2df4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "developer": "Larisa Maria Berce",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Tracks income and expenses with custom categories, calendar views, recurring payment reminders, and reports over chosen periods.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1204316311",
+    "name": "Expense Manager, Money Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-manager-money-tracker/id1204316311",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/6b/f4/fa6bf43f-6d04-3d0f-c6f3-ac0ecabb3d4d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "developer": "Alin Sorin Cuc",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks income and expenses with monthly calendar views, interactive charts, an integrated calculator, and receipt photo attachments.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6762640176",
+    "name": "Expense Tracker - Boink",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-boink/id6762640176",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/03/e4/d303e426-7cc9-34f6-fbc3-1ad4f3d5b48e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Nina Jesusa Barayuga",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs categorized expenses, displays the remaining budget after purchases, and supports expense entry through Back Tap.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6761938917",
+    "name": "Expense Tracker - BudgetGo",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budgetgo/id6761938917",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/33/18/35331837-e0ff-f22a-3074-17a4d3c080ef/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "GRAPHLEAF LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Captures expenses from voice, receipts, or statements, categorizes purchases, and forecasts remaining daily spending within a budget.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6759282016",
+    "name": "Expense Tracker - BudgetPal",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budgetpal/id6759282016",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/c8/c3/d3c8c36d-cb23-dafc-f61e-c799d081cb3b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Naveen Vuppula",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts",
+      "Shared expenses"
+    ],
+    "description": "Records expenses manually, by voice, or from receipts, with category budgets and shared household spending summaries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6772283748",
+    "name": "Expense tracker - Cashly",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-cashly/id6772283748",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/f7/59/57f7598b-b5fc-ad2e-2903-1198cfaef683/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "ShapeeCloud JSC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records income and expenses, tracks monthly budgets and debts, and keeps shared family spending separate from personal records.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760328162",
+    "name": "Expense Tracker - DaTrack",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-datrack/id6760328162",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/f1/be/8ff1be2e-2414-ec9d-74a9-6bf08d710b74/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Quoc Phan",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses from text or receipt photos, categorizes transactions, imports spreadsheet history, and displays spending calendars and charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6444256139",
+    "name": "Expense Tracker - DollarBook",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-dollarbook/id6444256139",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/6b/fd/ec6bfd11-b403-51a5-4c96-2505a71bd75d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Mindlabs Systems",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks daily spending, sets budgets, and displays spending patterns through charts and reports for personal finance planning.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6790511454",
+    "name": "Expense Tracker - Left",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-left/id6790511454",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/ea/3e/a0ea3e40-c956-e6df-324d-04b971e558c0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "developer": "CoreFlowAI LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records categorized transactions manually or by voice, and tracks subscriptions, budgets, spending habits, and monthly remaining funds.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6764654142",
+    "name": "Expense Tracker - Luca",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-luca/id6764654142",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f5/af/23f5afb3-fd9a-56d9-e59c-b82f7d2ae225/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "CrispyApps LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs categorized spending and voice entries, with visual breakdowns, monthly budgets, and tracking for recurring bills.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6746187757",
+    "name": "Expense Tracker - manage money",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-manage-money/id6746187757",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/1d/8d/ff1d8d63-61d4-4b9e-e3b1-cbf661138915/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+    "developer": "IT WAVES",
+    "tags": [
+      "Expenses",
+      "Travel"
+    ],
+    "description": "Records income and expenses across purpose-specific accounts, with currency conversion, visual reports, and spending trend summaries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6741199384",
+    "name": "Expense Tracker - Mobile",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-mobile/id6741199384",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/eb/be/9aebbeae-35c5-dcb4-eace-0a2e83b87195/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Abduazim Islomjonov",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses and budgets, categorizes financial transactions, and provides reports for reviewing personal money management.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6739469411",
+    "name": "Expense tracker - Mocy",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-mocy/id6739469411",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/a7/d1/c7a7d1e6-4f49-4a0f-dbbc-da057c061da2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Nguyen Thanh Thien",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts",
+      "Shared expenses"
+    ],
+    "description": "Records expenses through voice and receipts, with recurring transactions, multiple currencies, savings goals, debts, and shared budgets.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6447112647",
+    "name": "Expense Tracker - MonAi",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-monai/id6447112647",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/e2/c5/1fe2c5c2-38f8-8eda-f5ab-e2139c480bd2/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Florian Vates",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses using voice or manual input, categorizes entries, and stores transaction data in personal iCloud.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1320730220",
@@ -170,7 +1078,359 @@
       "Expenses"
     ],
     "description": "A manual income and expense tracker with category budgets, a calendar, recurring entries, and export tools.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6804001291",
+    "name": "Expense Tracker - MoneyDot",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-moneydot/id6804001291",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f1/8c/fef18c02-7dad-bd69-2902-248b78301f9b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "PHYU THIN KYI",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Sets a monthly budget, logs categorized expenses, and represents remaining spending money with a grid of dots.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6769458156",
+    "name": "Expense Tracker - Monveo",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-monveo/id6769458156",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e7/3f/c1e73fcd-6c95-f243-4a63-e0003b38a3d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Shobrun Bagastio",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts",
+      "Shared expenses"
+    ],
+    "description": "Tracks expenses through voice, receipts, or manual entries, with category budgets, account reports, and shared financial spaces.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6743250788",
+    "name": "Expense Tracker - The Easy Way",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-the-easy-way/id6743250788",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/cc/08/27cc086e-4f6e-c7b3-4763-becfd9e693c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Samsuddin Ahmed Sohag",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Logs categorized expenses and payment methods, filters transaction history, and compares spending through reports and charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6824197046",
+    "name": "Expense Tracker - Thu Chi",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-thu-chi/id6824197046",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/e0/6a/b3e06a86-4976-0dc8-d5ca-9e4aeadd2dfd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Thanh Dam Van",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records categorized income and expenses, manages budgets, and displays spending charts with local backups and access protection.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6790082958",
+    "name": "Expense Tracker - TrackDad",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-trackdad/id6790082958",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9e/fb/af9efb5f-7341-ec46-2039-034db86d483c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Lothar Tjipueja",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Creates categorized expense entries from voice or manual input, with editable records and monthly budgets for individual categories.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6762070174",
+    "name": "Expense Tracker - WriteOff AI",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-writeoff-ai/id6762070174",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/bd/10/8dbd10b5-caaa-8800-5db8-138d703570bc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Pelican Budgeting LLC",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Tracks business expenses, receipts, and mileage, with voice entry, receipt recognition, and project folders for organizing records.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6757592649",
+    "name": "Expense Tracker – PayShare",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-payshare/id6757592649",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/74/3b/9f743bb6-9045-259d-3787-ee3897a9dedc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "BOGDAN-GEORGIAN ALEXA",
+    "tags": [
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks personal or shared spending through private iCloud records, with optional Apple Wallet entry using Shortcuts automation.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1626975151",
+    "name": "Expense Tracker & Budget App",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budget-app/id1626975151",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/0f/a6/030fa631-ff06-2382-9f62-b44dbc5cb853/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "DREAMTEAM APPS sp. z o.o.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks personal income and expenses across wallets and currencies, with category or wallet budgets and financial reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-760168900",
+    "name": "Expense tracker HomeMoney",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-homemoney/id760168900",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/17/61/b0/1761b095-f62e-2de9-ff1e-3c3b23ac2d08/AppIcon-1x_U007emarketing-85-220-3.png/512x512bb.jpg",
+    "developer": "Igor Andreichyn",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records categorized expenses, displays monthly and category totals, and synchronizes expense history across devices and a web app.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760648601",
+    "name": "Expense Tracker Minimalist",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-minimalist/id6760648601",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/0f/8d/df0f8d57-357a-a4da-9e73-73faf9f792ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Abhinaba Chatterjee",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses through draggable account categories, with spending statistics, multiple currencies, recurring transactions, and data import and export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6761222460",
+    "name": "Expense Tracker Simple",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-simple/id6761222460",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ab/b3/74abb31a-46af-0cc6-bf44-ee66b86c5974/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Vipul Vishnu AV",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Logs expenses by amount, category, and date, with custom categories, monthly history, and spending pie charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6762062334",
+    "name": "Expense Tracker: Bill Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-bill-planner/id6762062334",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/e1/49/64e1490c-154b-df1f-9e33-a1fccb1d6bc2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Hemant Kumar",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs expenses and income, tracks bills and debts, and provides spending breakdowns, budgets, and savings goals.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6797290644",
+    "name": "Expense Tracker: Budget & Save",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budget-save/id6797290644",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e9/e5/64e9e564-2f67-e2b5-2ce1-2a911595810b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Lakshmi Kalyani Kolimali",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks household income and expenses, splits group costs, and manages monthly budgets, recurring bills, and spending reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6781517172",
+    "name": "Expense Tracker: Budget App",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budget-app/id6781517172",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/c2/9b/57c29bc0-4af4-45be-476e-1c721a29fde0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Zehras Ahmele",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses using custom categories, sets monthly category limits, and displays spending charts and budget alerts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6762165253",
+    "name": "Expense Tracker: Budget Book",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budget-book/id6762165253",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/74/37/0074378d-4c7a-98c2-6039-0a6b10490d2c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "献慧 陈",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses from manual entries or payment screenshots, with monthly budgets, forecasts, spending charts, and searchable history.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6473705856",
+    "name": "Expense tracker: Budget stats",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-budget-stats/id6473705856",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/79/67/757967e3-f1bc-bedc-db56-446471437c93/icon_liquid-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Sergey Gusev",
+    "tags": [
+      "Expenses",
+      "Travel"
+    ],
+    "description": "Logs expenses, visualizes spending through charts, and supports multiple currencies with exchange-rate conversion for travel purchases.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6743357457",
+    "name": "Expense Tracker: Cashflow",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-cashflow/id6743357457",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/16/5d/f9165dd0-866f-eb89-5487-fea731975960/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Rodrigo Ibarra",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending and account balances locally, with shortcuts for expense entry and JSON export for backups.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6446326708",
+    "name": "Expense Tracker: Color Money",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-color-money/id6446326708",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/00/e1/4c00e170-56ac-f0bf-4185-5dd4a87ce43f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Huy Van",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records income and expenses on a calendar, scans receipts, tracks recurring transactions, and exports financial summaries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6572301026",
+    "name": "Expense Tracker: Debt & Loans",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-debt-loans/id6572301026",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/43/1c/85431ce0-2605-3dc7-6195-a121295557e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "WondaPro Co., Ltd",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses, sets category budgets, tracks debts and repayments, and provides daily through yearly reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1561516009",
+    "name": "Expense Tracker: EasyBudget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-easybudget/id1561516009",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/6b/88/e56b8852-5dcb-58d9-f794-3df6f71d084a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "茜 韦",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses with customizable categories, searchable transaction history, and monthly budget planning for daily spending.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-589432235",
+    "name": "Expense Tracker: Smart Receipt",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-smart-receipt/id589432235",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/1b/33/b61b33ec-dd25-7a61-e69e-b5e2b827261f/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+    "developer": "iCubemedia Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Tracks business expenses with receipt scanning, project and client categories, mileage logs, time tracking, and invoicing.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6806614497",
+    "name": "Expense Tracker: SMS & Voice",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-sms-voice/id6806614497",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/59/97/645997d5-294d-2605-98a5-89eae250839e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Mohamed Elatabany",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending, income, accounts, and bills, with payday budgets, voice entry, and optional SMS-based Shortcuts automation.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6779437134",
+    "name": "Expense Tracker: SpendSense",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-spendsense/id6779437134",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1e/95/4e1e9501-21be-9934-7a18-65185022e687/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Naveen Vijay",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Logs expenses, income, and savings, scans receipts, and tracks recurring bills with reminders and budget warnings.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760839670",
+    "name": "Expense Tracker: TodayExpenses",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/expense-tracker-todayexpenses/id6760839670",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/a7/d8/52a7d84a-c6e0-8a7e-e13f-d4ba106dc0d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Min Thet Maung",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Organizes income and expenses into daily notebook pages, with natural-language entry and editable amounts, currencies, and categories.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1669548999",
+    "name": "Expense: Budget Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/expense-budget-tracker/id1669548999",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/ee/d9/bceed91a-573e-a3e2-9dff-441ed4e6ca02/ExpenseIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Sviatoslav Belmeha",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks income and spending across multiple budgets, with recurring payments, planned purchases, charts, and shared budgets.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-932322041",
@@ -183,7 +1443,7 @@
       "Expenses"
     ],
     "description": "An expense log with categories, a home screen widget, spending charts, CSV export, and backups.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1492055171",
@@ -198,14 +1458,14 @@
       "Shared expenses"
     ],
     "description": "Records income and expenses in multiple currencies, scans receipts, and supports shared expense sheets with iCloud synchronization.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-471713959",
     "name": "Expensify - Travel & Expense",
     "platform": "ios",
     "storeUrl": "https://apps.apple.com/us/app/expensify-travel-expense/id471713959",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/75/7a/f0757a39-6ff8-5d0b-f2b8-8662cec313d8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/c1/e9/ebc1e96c-d9c8-efa9-a4c8-21e28a94c1de/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
     "developer": "Expensify, Inc.",
     "tags": [
       "Expenses",
@@ -213,7 +1473,91 @@
       "Business"
     ],
     "description": "Tracks business expenses, scans receipts, logs mileage, and supports expense reports, approvals, and employee reimbursements.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1178825025",
+    "name": "Fast Budget - Expense Manager",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/fast-budget-expense-manager/id1178825025",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/fc/65/58fc65be-31ae-6079-95fd-f04c15c0572b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
+    "developer": "AppFer S.R.L.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks accounts, credit cards, income, and expenses, with custom budgets, recurring transactions, charts, and optional bank connections.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6740288138",
+    "name": "Finans: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/finans-expense-tracker/id6740288138",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/66/a0/2a66a0a0-da10-fa0a-e41c-ac6f19c556dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "IT CAPITAL NETWORK WEBSITES DESIGNING - L.L.C. - S.P.C.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks income, expenses, and bills, with financial history, spending reports, transaction updates, and tools for planning money.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6781846083",
+    "name": "Fincend: Daily Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/fincend-daily-expense-tracker/id6781846083",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b9/27/dfb927a4-d208-97c6-331b-e2a39df486cf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Hakan Camoglu",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks income and expenses, sets monthly and category budgets, and schedules recurring bills with spending alerts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6504302154",
+    "name": "FinEye: Budget & Money Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/fineye-budget-money-tracker/id6504302154",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/9b/79/c99b79bb-e42a-ec54-f70c-c7cd1c80fddd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Vladyslav Kaida",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks accounts and spending, creates category budgets, and supports shared financial spaces, recurring payments, and bank file imports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6761264391",
+    "name": "Finro Budget & Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/finro-budget-expense-tracker/id6761264391",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/a0/82/27a082eb-7b9f-39b6-3ebf-10ba78e7869a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+    "developer": "FLOPSTER TOV",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records categorized income and expenses across accounts, with editable transactions, notes, dates, and optional photo attachments.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1599077337",
+    "name": "Five Cents: Monthly Budget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/five-cents-monthly-budget/id1599077337",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/14/15/bd141555-579c-ba31-5c86-cbfa5f3cd20f/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+    "developer": "Andrew Tanchuk",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records expenses and income manually, with weekly, monthly, and yearly spending views and charts for budget reviews.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1621020173",
@@ -228,7 +1572,95 @@
       "Shared expenses"
     ],
     "description": "Records income and expenses, sets category budgets, and tracks savings and debt with options for budgeting together.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6462989500",
+    "name": "Floney– Shared Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/floney-shared-expense-tracker/id6462989500",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/fd/6d/6ffd6d42-ceb1-4553-6882-b757467f2eff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "NAHYUN KIM",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records shared income and spending, tracks budgets, and calculates settlements from existing entries for roommates or other groups.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6477741670",
+    "name": "Flow: Expense tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/flow-expense-tracker/id6477741670",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/26/7f/ea267f9f-fc66-0d07-e3a0-7c919bea785f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Batmend Ganbaatar",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Tracks personal finances across multiple accounts and currencies, with financial statistics, offline records, and optional iCloud backups.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-721048897",
+    "name": "Foreceipt Receipt Tracker App",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/foreceipt-receipt-tracker-app/id721048897",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/bf/0e/c6bf0e1b-adf9-688d-4e83-8477581b0a54/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "developer": "Relayin Corporation",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Scans receipts, imports bank transactions, tracks income and recurring expenses, and generates expense reports across currencies.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1172713884",
+    "name": "Fortune City: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/fortune-city-expense-tracker/id1172713884",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/67/3d/a6673db2-317b-45cf-e56a-9ada689daec8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "SPARKFUL INC.",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records categorized income and expenses while building a virtual city, with multiple accounts, balance summaries, and spending charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1664719450",
+    "name": "Fudget: Monthly Budget Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/fudget-monthly-budget-planner/id1664719450",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/63/45/85634564-40a1-600d-a292-2d627430e665/fudget-icon-clear-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Danny Connell",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Organizes income and expenses into budget lists, tracks remaining balances, and supports shared budgeting and recurring entries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6741738534",
+    "name": "Fundeer: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/fundeer-expense-tracker/id6741738534",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/85/ee/0a85eee8-65e8-3c5f-9fe5-feb850ae593a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Andrii Zahreichuk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Receipts",
+      "Travel"
+    ],
+    "description": "Tracks spending and shared family budgets, scans receipts, and calculates settlements for trips with multiple currencies.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-471112395",
@@ -243,7 +1675,51 @@
       "Shared expenses"
     ],
     "description": "Uses digital envelopes to plan spending, track expenses and debt, and share a household budget across devices.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6759523889",
+    "name": "heap: Expense Tracker AI",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/heap-expense-tracker-ai/id6759523889",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e2/d6/b6e2d690-7334-2101-4fc7-4eb47c78f8cf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Danylo Strelchenia",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses, income, accounts, subscriptions, and budgets, with voice entry, categorized transactions, and visual cash flow analysis.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-306257910",
+    "name": "HomeBudget with Sync",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/homebudget-with-sync/id306257910",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/89/77/2c89777d-6e2e-e2b6-08c6-3252295d0e4f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Anishu, Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Connects household budgets, expense records, income, bills, and account balances, with family synchronization across devices.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-951737201",
+    "name": "Hurdlr Mileage, Expenses & Tax",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/hurdlr-mileage-expenses-tax/id951737201",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/89/a0/6589a0ea-8e17-9fce-450f-037cbc9219e9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Hurdlr, Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Tracks business mileage, income, and expenses, with receipt capture, connected transactions, and expense reports for self-employed users.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1225559794",
@@ -257,7 +1733,36 @@
       "Expenses"
     ],
     "description": "Tracks budgets, income, expenses, debts, and transfers across accounts with different currencies.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-584606479",
+    "name": "Intuit QuickBooks for Business",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/intuit-quickbooks-for-business/id584606479",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c3/d9/07c3d9e7-efca-6429-f5ba-fde42f689ab0/QBMAppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Intuit Inc.",
+    "tags": [
+      "Expenses",
+      "Business"
+    ],
+    "description": "Tracks business expenses alongside invoicing and bookkeeping, with cash flow reports and transaction details for small businesses.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1227088361",
+    "name": "iSaveMoneyGo – Budget Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/isavemoneygo-budget-tracker/id1227088361",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/4b/44/2f4b4430-6973-29b6-1942-89f9790bdc14/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
+    "developer": "Digit Leaf LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Creates personal or shared budgets, tracks income and spending, and supports recurring bills and savings goals.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-484100875",
@@ -270,7 +1775,190 @@
       "Expenses"
     ],
     "description": "Tracks categorized income and expenses, with daily through yearly summaries, transaction search, and spending graphs.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6738583305",
+    "name": "Kaspo: Budget Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/kaspo-budget-expense-tracker/id6738583305",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/13/e1/e513e1e6-0dab-d145-c872-734b1d78564d/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+    "developer": "Maksym Kyryliuk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses through text, voice, or receipts, categorizes purchases, and offers optional spending limits and category breakdowns.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6791050289",
+    "name": "Keel: Budget & Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/keel-budget-expense-tracker/id6791050289",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/99/8c/d8998ccb-7422-08a4-6d88-2619bc3423e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "飞 吕",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Uses double-entry bookkeeping to track spending, accounts, and transfers, with balance sheets, cash flow statements, and scheduled-payment forecasts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-445850671",
+    "name": "Kufu Zaim - Money Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/kufu-zaim-money-tracker/id445850671",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/ff/ba/8cffbade-1e01-2d52-0b38-5361de0a3ce7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Kufu Company Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "A household account book for recording income and expenses, assigning category budgets, and analyzing spending patterns.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6759791728",
+    "name": "Lira: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/lira-expense-tracker/id6759791728",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c0/1a/63c01a2b-200a-02d5-2fbf-82e32ffa5ade/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Hussein Abdallah",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records categorized expenses, shows monthly totals, and converts local-currency purchases into a primary currency using saved exchange rates.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760552716",
+    "name": "Lode: AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/lode-ai-expense-tracker/id6760552716",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ee/11/eaee111f-4639-4222-9e6c-56ef1555ee2a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Kyrylo Svystun",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Receipts",
+      "Travel"
+    ],
+    "description": "Records expenses from text, voice, or receipts, and manages category budgets, recurring bills, trips, and shared accounts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6748858584",
+    "name": "LuckyCat: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/luckycat-expense-tracker/id6748858584",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/15/19/3e1519eb-ce79-b2a6-b66a-1f2028b0f549/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Mona Studio",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records transactions through voice or payment screenshots, with spending charts, category budgets, multiple account books, and currencies.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6754805457",
+    "name": "Lumi: Budget & Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/lumi-budget-expense-tracker/id6754805457",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/e0/5a53e074-543b-90f0-c8ce-726312acfb2d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Andrii Hermanov",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Combines category budgets, receipt scanning, recurring payment reminders, savings goals, and forecasts based on recorded spending.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6739028463",
+    "name": "Lunch Money",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/lunch-money/id6739028463",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/cc/e7/38cce7fb-4dbc-1faf-4a0f-c51803097a5e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Lunchbag Labs Inc",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "A companion for registered Lunch Money users to review transactions, categorize spending, and view income and expense charts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6780538389",
+    "name": "M Budget: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/m-budget-expense-tracker/id6780538389",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/9c/3e/eb9c3e0a-0a6f-7198-1f6f-572c3a0fce3c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "海燕 赵",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs expenses, income, and transfers across accounts, with monthly and yearly budgets, spending charts, and forecasts.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-985378916",
+    "name": "Mileage Tracker by Everlance",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/mileage-tracker-by-everlance/id985378916",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/00/66/1300663c-c61d-a05e-b458-57146c29348f/EverlanceIconLG-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Everlance Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Records business mileage and expense receipts, separates work and personal trips, and generates reports for taxes or reimbursement.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1516472234",
+    "name": "MinExp - Mini Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/minexp-mini-expense-tracker/id1516472234",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d2/64/4ed264b9-92a7-3815-7d4b-091358cb3fe8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Happix Co., Ltd.",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records categorized income and expenses across accounts, with transaction fees, currency conversion, charts, and entry reminders.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-921838244",
+    "name": "Mobills - Budget Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/mobills-budget-planner/id921838244",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/fe/c6/03fec6dd-4dd9-ed15-9471-7e820fcdccf8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Toro Investimentos Ltda.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks income and spending, builds category budgets, and manages credit card balances, financial goals, and bill reminders.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6758336671",
+    "name": "Modo: The Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/modo-the-expense-tracker/id6758336671",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/6b/b3/dd6bb3e9-9899-7dd5-a29f-42bf3c44fd5d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "UMUT YENIDIL",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records income and expenses in multiple currencies, with home screen widgets showing balances and recent transactions.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1459319842",
@@ -285,7 +1973,21 @@
       "Shared expenses"
     ],
     "description": "Brings financial accounts together for expense tracking, budgeting, bill monitoring, and collaboration with a partner.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1617877213",
+    "name": "Monee - Budget Planner App",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/monee-budget-planner-app/id1617877213",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/2a/c1/db2ac1da-eeb3-3e07-4c78-5be34016cc0b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Stephan Lerner",
+    "tags": [
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks shared income and expenses across group accounts, with custom categories, recurring entries, transaction filters, and exports.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1212024409",
@@ -298,7 +2000,22 @@
       "Expenses"
     ],
     "description": "Records expenses and income across accounts and currencies, with category charts, recurring entries, and device synchronization.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-906363437",
+    "name": "Moneon – Budget & Expenses",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/moneon-budget-expenses/id906363437",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/40/51/e54051e0-4fe9-f24a-beeb-aa45c8d6dfd0/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
+    "developer": "CleverPumpkin Ltd.",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks income and expenses across wallets and currencies, with category budgets, recurring transactions, and shared family wallets.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1302304930",
@@ -312,7 +2029,21 @@
       "Expenses"
     ],
     "description": "Tracks expenses, income, debts, and transfers across multiple currencies, with categories and budget planning tools.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6773329338",
+    "name": "Money & Expense Tracker: Lichy",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-expense-tracker-lichy/id6773329338",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/64/f7da6458-ea40-6b6a-d303-6fc2b9a48b8f/AppIcon-red-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "TWOBIRDSTALK STUDIO",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Logs income and expenses from text, voice, or receipts, with spending charts, multicurrency records, and recurring bills.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-486312413",
@@ -326,7 +2057,7 @@
       "Expenses"
     ],
     "description": "Tracks money across wallets and currencies, with category budgets, bill reminders, debt management, and spending reports.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-560481810",
@@ -340,7 +2071,49 @@
       "Expenses"
     ],
     "description": "Manages accounts, income, expenses, and category budgets, with double-entry bookkeeping and spending statistics.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1510997753",
+    "name": "Money manager, expense tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-manager-expense-tracker/id1510997753",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/a7/db/91a7dbfe-1c5e-5bdd-9084-ac909d775c10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Orange Dog",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks income and expenses using customizable categories, with balance summaries, spending diagrams, and reports by period.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6753577383",
+    "name": "Money Manager: Daily Expenses",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-manager-daily-expenses/id6753577383",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/fc/97/abfc9727-b372-ce2a-195c-611985280492/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Gunawan Santoso",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses, accounts, and transfers, with flexible budget periods, recurring payments, custom categories, and multicurrency entries.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6784250762",
+    "name": "Money Meow: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-meow-expense-tracker/id6784250762",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/5a/7d/585a7db1-d569-329d-a164-a8d362efd9b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Daron Tancharoen",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending, accounts, and net worth with cat characters that respond to month-to-month changes in spending.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-537916781",
@@ -354,7 +2127,7 @@
       "Expenses"
     ],
     "description": "Organizes transactions, accounts, budgets, and bills, with recurring entries and budget rollover features.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-918609651",
@@ -369,7 +2142,105 @@
       "Shared expenses"
     ],
     "description": "Combines expense tracking, account management, and budgets, with recurring bills and family synchronization options.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1534244892",
+    "name": "Money Tracker:Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-tracker-expense-tracker/id1534244892",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/13/aa/5b/13aa5bc2-8dc1-f3ec-01a0-ef225f894232/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+    "developer": "APPS BAY LIMITED",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Organizes daily spending by category and displays monthly summaries and visual breakdowns of income and expenses.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1185488696",
+    "name": "Money: Budget, Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-budget-expense-tracker/id1185488696",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/62/12/ea621236-10e1-1e88-7822-3c6d734d9f55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Jumsoft",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Jumsoft Money tracks accounts, category budgets, transactions, and bills, with receipt attachments, recurring expenses, and spending reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1510760825",
+    "name": "Money+ Cute Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money-cute-expense-tracker/id1510760825",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/41/4e/ee414eac-32ef-1cbc-abc5-2ae36ce0abcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Chongqing Zhouhu Technology Co.,Ltd",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses in separate ledgers for daily life, work, or travel, with multiple accounts and calculator entry.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760418898",
+    "name": "Money2Time: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/money2time-expense-tracker/id6760418898",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/c3/bd/6ec3bd6d-6b5e-7d74-f439-d8d1ac685e1d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Leong Wai Gan",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses manually or from receipts and converts purchase costs into equivalent hours of work.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1186342586",
+    "name": "MoneyBe manager expense budget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/moneybe-manager-expense-budget/id1186342586",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/ca/e8/25cae86c-19a8-407b-2c5b-4e2bb71ca1dc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "developer": "Dmytro Obertynskyi",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks income and expenses across multicurrency accounts, with category budgets, project reports, transaction search, and CSV export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-989642198",
+    "name": "MoneyCoach AI Budget Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/moneycoach-ai-budget-planner/id989642198",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/ec/55/78ec55a0-946b-6782-17a9-ac05dcbe52dc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "MoneyCoach UG",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks transactions, budgets, savings goals, and accounts, with financial reports and optional family synchronization.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-465909912",
+    "name": "MoneyControl Spending Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/moneycontrol-spending-tracker/id465909912",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/1e/f9/7f1ef97d-651a-ed89-cba9-7162db264ceb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Priotecs IT GmbH",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses for household budgets, with recurring entries, upcoming-month previews, shortcuts, and visual financial charts.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1333174950",
@@ -384,7 +2255,7 @@
       "Shared expenses"
     ],
     "description": "Manages accounts and transactions, creates budgets, charts financial trends, and supports shared data and file imports.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1534255777",
@@ -398,7 +2269,129 @@
       "Receipts"
     ],
     "description": "Tracks accounts and credit card billing cycles, scans receipts, and summarizes spending by month and category.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1473785373",
+    "name": "MoneyTrack: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/moneytrack-expense-tracker/id1473785373",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/82/b4/a582b4e5-3017-67b3-5ea5-d5e3c42c8221/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "昱春 唐",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records transactions across asset accounts, organizes categories and subcategories, and summarizes income and spending through statistical reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1511185140",
+    "name": "MoneyWiz 2026 Personal Finance",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/moneywiz-2026-personal-finance/id1511185140",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/3e/01/c73e01a2-6e33-e84a-005e-5a1b74d3f181/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "SILVERWIZ LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks accounts, budgets, bills, and transactions, with bank connections, manual entry, financial reports, and device synchronization.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1626029996",
+    "name": "Moni Note • Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/moni-note-expense-tracker/id1626029996",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/3d/96/e53d96c3-283f-6839-8690-99367dcb5b87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Khang Nguyen Ho Truong",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records income and expense details, automatically categorizes spending, and supports cloud backups and synchronization across devices.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1637367459",
+    "name": "Monies Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/monies-expense-tracker/id1637367459",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/f2/96/0bf29615-f628-76f5-ec55-aa006b344baa/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+    "developer": "And a Dinosaur",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "A spreadsheet-style expense log for quick manual entries, with iCloud synchronization between iPhone and iPad.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-590327036",
+    "name": "Monny",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/monny/id590327036",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/d7/57/77d757f4-59f7-0442-42dc-0859cd2e9dad/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "developer": "Greamer",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records income and expenses across account books, with spending reports, charts, entry reminders, backups, and spreadsheet export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6670716062",
+    "name": "MONO - AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/mono-ai-expense-tracker/id6670716062",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/d8/ac/c0d8ac1e-0099-1ca4-427d-5e2afe0a85b9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Chengdu Weisen Quwan Technology Co., Ltd",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses from text, screenshots, receipt photos, or manual entry, with spending charts, currencies, and subscription reminders.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6760224247",
+    "name": "Monohroshi: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/monohroshi-expense-tracker/id6760224247",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/02/de/8b02de23-bf46-3222-5d86-b16bd8303c0d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Rostyslav Lytvyn",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records income and expenses, sets category limits, schedules recurring payments, and separates personal from shared financial spaces.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-482361839",
+    "name": "MT - Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/mt-expense-tracker/id482361839",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/8b/c3/0e8bc3da-f4af-2488-434b-bd792ab95eb3/AppIcon2-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "金 郭",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs categorized income and expenses, creates overall or category budgets, schedules recurring transactions, and imports financial records.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-579913972",
+    "name": "My Budget - Expense tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/my-budget-expense-tracker/id579913972",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/f7/e2/d9f7e215-3f41-4f52-235d-f7f5a7526b36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Sandro Stricker",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Tracks cash, bank, and card transactions, with account transfers, recurring entries, period reports, and CSV or OFX export.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-995661933",
@@ -411,7 +2404,224 @@
       "Expenses"
     ],
     "description": "Records income and expenses using custom categories, with reports and cloud synchronization.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6451499225",
+    "name": "My Budget: Spending Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/my-budget-spending-tracker/id6451499225",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/09/5a/c9095a12-54bf-b372-8062-b96eb3565dfa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Roman Servetnyk",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Manually records income and spending across accounts, with monthly category budgets, spending charts, transaction notes, and CSV export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6758177596",
+    "name": "my expenses simplified",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/my-expenses-simplified/id6758177596",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/ae/a2/deaea274-90d1-1419-c2f7-e96a55126cb4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "INFINITY CYBERTECH (PTY) LTD",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses with receipt attachments, displays spending summaries, and sets weekly, monthly, or yearly limits by category.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1616732749",
+    "name": "MyFin: expense tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/myfin-expense-tracker/id1616732749",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ca/8d/42ca8d7f-161b-8961-8836-f1d2d7a550ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Dmytro Gryn",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks expenses and account balances, creates budgets, displays spending charts, and exports financial records to Excel.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6755638548",
+    "name": "MySpend: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/myspend-expense-tracker/id6755638548",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/39/e6/9939e671-ff9b-b426-b870-566691d255f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Hassan Dofil",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses with amounts, categories, dates, and notes, and displays spending totals, category charts, and historical trends.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-284124560",
+    "name": "Nexonia Expenses",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/nexonia-expenses/id284124560",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/1d/3c/621d3c01-13a3-5548-8c79-6e0e8dc9d6d9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "developer": "Emburse, Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Lets existing Nexonia customers enter expenses, photograph receipts, and submit synchronized expense reports for approval.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1517339257",
+    "name": "Nudget: Spending Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/nudget-spending-tracker/id1517339257",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/e7/bf/6ce7bf41-59b5-c047-d9d6-79078607325f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "developer": "Sawyer Blatz",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "A manual spending tracker with expense insights, recurring transactions, and iCloud synchronization across iPhone and iPad.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6786991069",
+    "name": "O - Daily Budget & Expenses",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/o-daily-budget-expenses/id6786991069",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/df/bc/2adfbca4-f364-5067-4b84-a589987018a9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Serhii Romanchuk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Travel"
+    ],
+    "description": "Divides a trip or payday budget into daily amounts, records spending, and redistributes remaining funds across days.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1526973735",
+    "name": "OpenBudget - Budget and Save",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/openbudget-budget-and-save/id1526973735",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/0c/0b/420c0b33-4a62-2866-7b04-5fdeaea51684/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg",
+    "developer": "Khan Winter",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Uses envelope-style categories to allocate money, record spending, track subscriptions, and schedule future transactions.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-677699286",
+    "name": "Organizze Budget Planner",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/organizze-budget-planner/id677699286",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/c1/77/ccc17700-abbc-9412-e121-bf1156736389/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+    "developer": "Organizze Tecnologia LTDA",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks expenses, bank accounts, and credit card bills, with category budgets, financial reports, and shared records.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1637693312",
+    "name": "Origin: AI Budget and Track",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/origin-ai-budget-and-track/id1637693312",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b4/81/3ab481ef-e5ca-1ae0-8d73-5c07e842ce34/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Origin Financial",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Connects financial accounts to track spending, cash flow, bills, and budgets, with partner access and financial insights.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1161255926",
+    "name": "Our Expenses: Household Budget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/gb/app/our-expenses-household-budget/id1161255926",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/1f/17/671f17b1-f9cd-792a-3d58-9c3a934cabae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Sebmos Ltd",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks shared household expenses and balances, with custom split ratios, category budgets, recurring bills, and spreadsheet exports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-916741290",
+    "name": "Pennies: Budget & Bill Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/pennies-budget-bill-tracker/id916741290",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/88/00/62880042-faf3-476d-9bed-f334670dff50/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+    "developer": "The App Shop, Inc.",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks spending against flexible recurring or one-off budgets and adjusts the remaining daily allowance as expenses change.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6762556862",
+    "name": "PennyWise - Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/pennywise-expense-tracker/id6762556862",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e3/ad/2be3ad6a-8932-2a43-a192-f5295d8999bd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "developer": "Andrii Klymyshyn",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Scans receipts, imports statements, tracks recurring expenses, and sets monthly and category budgets with spending analysis.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-954944283",
+    "name": "Pennyworth: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/pennyworth-expense-tracker/id954944283",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/55/bd/4b55bd01-64b1-70ba-dfdf-a14aa7e1a002/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Jack Xuan",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records income and expenses in separate books, manages budgets, and shares selected financial books with family or partners.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6757503402",
+    "name": "Pocket Clear: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/pocket-clear-expense-tracker/id6757503402",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/fa/ce/3afacec4-a601-9874-72df-86e0317aedf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Aravind Srinivas C V",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Tracks expenses on a calendar, with manual entry and optional capture from payment messages, receipt images, and Shortcuts.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-424575621",
@@ -425,7 +2635,7 @@
       "Expenses"
     ],
     "description": "Tracks financial accounts, categorizes transactions, manages multiple budgets, and records bills and due dates.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-949414211",
@@ -439,7 +2649,38 @@
       "Expenses"
     ],
     "description": "Tracks income and spending, sets category budgets, and estimates available spending after bills and savings goals.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6763726732",
+    "name": "PocketMates: expense tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/pocketmates-expense-tracker/id6763726732",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/78/e6/bd78e671-b701-7a0b-318b-88d0e9656783/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Roman Fedyshyn",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Receipts"
+    ],
+    "description": "Tracks shared and private finances for couples, with receipt entry, category budgets, recurring bills, and savings goals.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6749017099",
+    "name": "Quanto: Budget Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/quanto-budget-expense-tracker/id6749017099",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a3/4a/50a34a96-8db6-a49b-1109-8a0298e254cb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Alejandro Ausejo",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records expenses through receipts, statements, voice, or manual entry, with category analysis, currency conversion, and monthly remaining totals.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1449777194",
@@ -453,7 +2694,22 @@
       "Expenses"
     ],
     "description": "Connects financial accounts for budgeting, spending reports, savings goals, bill alerts, and cash flow projections.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6780198495",
+    "name": "Quotra: Budget Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/quotra-budget-expense-tracker/id6780198495",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/95/01/059501ef-4b6d-42ed-68ef-4e1f8021eea2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Ruslan Bondarchuk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks income and expenses, forecasts balances, plans recurring payments, and supports shared budgets and Apple Pay logging.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1424280764",
@@ -468,7 +2724,50 @@
       "Business"
     ],
     "description": "Reads receipt details, categorizes expenses, and exports reports for personal records or business reimbursement.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6789563930",
+    "name": "Receipt Rabbit Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/receipt-rabbit-expense-tracker/id6789563930",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/86/27/85862755-1365-1534-8aea-562822ce7b28/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Pine River Labs LLC",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Scans receipts item by item, separates business and personal purchases, and sends categorized records to supported bookkeeping services.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1528787066",
+    "name": "Receipt Scanner: Easy Expense",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/receipt-scanner-easy-expense/id1528787066",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/70/e1/9170e155-4335-20b9-6bd3-1fdf40ccb7ee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Easy Expense Tracker LLC",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Extracts receipt details, organizes expenses by vendor and category, and creates reports for approval or client invoicing.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6762484933",
+    "name": "Reshta Money & Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/reshta-money-expense-tracker/id6762484933",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/3f/c5/4e3fc5a8-cfba-8229-dacb-83d54cead44e/Icon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "MYKYTA SOLOVIOV",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records income, spending, and account transfers through drag-and-drop categories, with currency conversion, notes, and transaction statistics.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1130616675",
@@ -482,7 +2781,51 @@
       "Expenses"
     ],
     "description": "Combines spending categories, monthly budgets, bill tracking, and subscription management in a personal finance dashboard.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-512207629",
+    "name": "Rydoo",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/rydoo/id512207629",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c0/f3/1fc0f37a-ffb4-9046-03ce-b87567aa0350/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Rydoo",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Manages employee expenses with receipt capture, mileage records, daily allowances, company policies, and approval workflows.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-335023774",
+    "name": "SAP Concur",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/sap-concur/id335023774",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/2c/9b/652c9b77-7635-f31f-a57f-0040b5c0864e/AppIconConcur-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Concur",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "A companion for existing SAP Concur customers to capture receipts, manage expense reports, and review approvals.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6746731207",
+    "name": "Scanomy: AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/scanomy-ai-expense-tracker/id6746731207",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/29/02/b1290214-5dbf-7684-0d0a-8deac03c5822/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+    "developer": "Yaroslav Andriichuk",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Reads receipt items from photos, documents, or dictation, categorizes spending, and exports expense reports with spending analysis.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-737534985",
@@ -496,7 +2839,35 @@
       "Shared expenses"
     ],
     "description": "Tracks group expenses and debts, calculates settlements, and supports multiple currencies, offline entries, and shared group links.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-322143854",
+    "name": "Shoeboxed: Mileage Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/shoeboxed-mileage-tracker/id322143854",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/37/be/3937be8b-e035-dc84-e758-2582476815a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Shoeboxed.com",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Captures and organizes business receipts, tracks mileage, and creates expense reports for bookkeeping and reimbursement.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6769626633",
+    "name": "SimpleSpend: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/simplespend-expense-tracker/id6769626633",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/87/07/db8707e9-f4e9-d6ba-d389-b9a02b575481/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "杭 李",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records transactions manually or by voice, with custom categories, recurring bills, and projections for future subscription charges.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1538521095",
@@ -511,7 +2882,92 @@
       "Business"
     ],
     "description": "Scans and categorizes receipts, organizes expense records, and creates reports that can be exported for bookkeeping.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6795880230",
+    "name": "Skarbo: Budget Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/skarbo-budget-expense-tracker/id6795880230",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/28/fd/ec28fd43-fb53-b90b-c67f-360aad93d3a4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Ihor Roma",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Scans receipts and imports bank statements, categorizes spending, sets monthly budgets, and identifies recurring bills.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-905698613",
+    "name": "Smart Receipts: Expenses & Tax",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/smart-receipts-expenses-tax/id905698613",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/08/b0/5308b039-b920-ca96-234f-0a645c769ebc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "REACTIVE APPS CORP.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Scans receipts, organizes categorized expenses, tracks mileage, and exports customizable reports for bookkeeping and reimbursement.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6756229152",
+    "name": "Snapto: Photo Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/snapto-photo-expense-tracker/id6756229152",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/b3/a9/77b3a939-68f5-bbad-0750-306f8c7bb7bc/2dot0-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "永鹏 裴",
+    "tags": [
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Turns photos and screenshots into expenses, with visual purchase timelines and location-based maps of recorded spending.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1446549608",
+    "name": "Spend Together",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/spend-together/id1446549608",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/5f/df/dd/5fdfdd31-625c-f563-28ea-f8c5bfe17abb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "developer": "Hanna Shylenko",
+    "tags": [
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records shared bills, calculates group debts and settlements, and reports each participant's spending across categories.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6763279576",
+    "name": "Spendback: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/spendback-expense-tracker/id6763279576",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/a2/48/f6a24821-3a3b-0650-5bab-9bbb9992310b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "developer": "Scrambly",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Logs purchases and income using customizable spending categories, with daily and monthly summaries for reviewing expenses.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-717831365",
+    "name": "Spending 2",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/spending-2/id717831365",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/4a/0a/9e4a0a6d-7b29-5ff7-1b9e-282a33e66b29/AppIcon-Spending2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "平 邱",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs spending across multiple accounts and currencies, with budgets, recurring transactions, category reports, and iCloud synchronization.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-548615579",
@@ -525,14 +2981,28 @@
       "Expenses"
     ],
     "description": "Logs income and expenses by category, with spending charts and optional budgets for weekly, monthly, or yearly periods.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6739849182",
+    "name": "Spending Tracker - Budgeting",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/spending-tracker-budgeting/id6739849182",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/96/ed/b196ed88-c9db-e26b-427d-2b1a4724c089/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Martin Mitrevski",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Logs categorized income and expenses, sets monthly category budgets, and provides recurring transactions and customizable reports.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-865818973",
     "name": "Spending Tracker-Money Manager",
     "platform": "ios",
     "storeUrl": "https://apps.apple.com/us/app/spending-tracker-money-manager/id865818973",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/8d/fa/bc8dfa03-8916-b111-c24d-24f97c292e3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e4/ba/10e4ba8e-c1ed-2fa8-6961-a88e2b3789b7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "developer": "MISA JSC",
     "tags": [
       "Budgeting",
@@ -541,7 +3011,64 @@
       "Receipts"
     ],
     "description": "MISA Money Keeper tracks spending and budgets, with shared accounts, receipt scanning, and financial reports.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1439556350",
+    "name": "Spentify: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/spentify-expense-tracker/id1439556350",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/12/77/fe127712-ee29-a81c-8c67-a919a409a523/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "Choun Rothana",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Records income and expenses across wallets, sets monthly category budgets, and tracks savings goals with cash flow reports.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-991473495",
+    "name": "Splid – Split group bills",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/splid-split-group-bills/id991473495",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a7/74/20a7740a-ff41-45e0-8ce0-77d2d5b60bcd/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Nicolas Jersch",
+    "tags": [
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks group spending online or offline, supports unequal splits and currency conversion, and calculates settlement payments.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1573115695",
+    "name": "Splitkaro: Split Expenses",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/splitkaro-split-expenses/id1573115695",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/29/c8/8b29c8c9-5b45-549f-c28c-1c8fc5084220/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Splitkaro Private Limited",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Tracks personal and shared expenses, splits bills by amounts or items, and records group balances and payments.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-588332804",
+    "name": "Splittr - Expense Splitting",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/splittr-expense-splitting/id588332804",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/cc/46/0ecc46e2-d64d-a416-1bca-cf8cbc1f2106/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "developer": "RWichmann GmbH",
+    "tags": [
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Records group expenses, supports unequal splits and multiple currencies, and calculates payments needed to settle balances.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-458023433",
@@ -555,7 +3082,76 @@
       "Shared expenses"
     ],
     "description": "Tracks group bills and individual balances for households, trips, and friends, including unequal splits and settlement records.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6757820811",
+    "name": "SUM+= Simple Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/sum-simple-expense-tracker/id6757820811",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/a0/f981a062-e335-f8a6-e96a-1a14bbce0824/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Jonas Zimmermann",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses locally with simplified data entry, and prepares financial records for optional analysis using external AI tools.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6738668365",
+    "name": "Sumlio: Expense & Budget",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/sumlio-expense-budget/id6738668365",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/0a/b5/400ab53c-407f-1532-7185-728a5660cef3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Oleksandr Kinakh",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Tracks categorized income and expenses across wallets and currencies, with adjustable daily, monthly, or annual budgets.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1578612881",
+    "name": "Surplus: Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/surplus-expense-tracker/id1578612881",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/4d/09/2d4d0942-5273-8fff-9dd7-7242b6f89bba/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Dev Harvest LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Combines income, expenses, and upcoming payments to estimate leftover spending, with categorized transactions, reports, and CSV export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6777520962",
+    "name": "Tappy - Daily Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/tappy-daily-expense-tracker/id6777520962",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/8a/12/7a8a12de-e66b-05cd-4954-6a8c8ae75aad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "developer": "Arranged Social LLP",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Records expenses through Siri, widgets, or Back Tap, with custom categories, spending history, and CSV export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1593868439",
+    "name": "Today's Budget: Saving is fun!",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/todays-budget-saving-is-fun/id1593868439",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/ad/62/24ad626a-67be-9e34-f40c-6391bf471576/piggyGlassIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Ruttinger Software GmbH",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Calculates a daily allowance from income, bills, and savings goals, with manual expense tracking and shared wallets.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-921590251",
@@ -569,7 +3165,38 @@
       "Expenses"
     ],
     "description": "Tracks accounts and cash with manual or connected transactions, category budgets, bill reminders, and spending charts.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1457443074",
+    "name": "TravelBudget - Expense tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/travelbudget-expense-tracker/id1457443074",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/5f/01/d45f0180-1f7c-3226-32e6-b3d21bf1f53c/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Andrea Giavatto",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Travel"
+    ],
+    "description": "Tracks travel spending against trip budgets, with currency conversion, offline entries, spending graphs, and CSV import and export.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1434284824",
+    "name": "TravelSpend: Travel Budget App",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/travelspend-travel-budget-app/id1434284824",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/dd/a0/62dda0c7-d8ff-1598-099c-8f3c5fe67432/travelspend-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "developer": "Ori App Studio GmbH",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Travel"
+    ],
+    "description": "Tracks travel budgets and spending, converts currencies, shares trips, and calculates balances between traveling companions.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-349866256",
@@ -583,7 +3210,36 @@
       "Shared expenses"
     ],
     "description": "Records shared costs, calculates balances between participants, and supports unequal splits and multiple currencies.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1140864080",
+    "name": "V-Soft Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/v-soft-expense-tracker/id1140864080",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/f8/2b/0df82b93-1b65-da0e-62bc-e31cb87c299e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+    "developer": "V-Soft Consulting Group, Inc.",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Organizes enterprise expenses into categories, attaches bills and receipts, and submits expense records for departmental approval.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-458571562",
+    "name": "Visual Budget - Finances",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/visual-budget-finances/id458571562",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/54/61/d35461c3-0e1e-55f0-215e-385962370a9e/VisualBudget-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Pascal Meziat",
+    "tags": [
+      "Budgeting",
+      "Expenses"
+    ],
+    "description": "Manages accounts and category budgets, imports transactions, and charts income, expenses, balances, and budget progress.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1032467659",
@@ -598,7 +3254,35 @@
       "Shared expenses"
     ],
     "description": "Tracks accounts, expenses, budgets, bills, and debts, with bank synchronization and features for shared finances.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6547831903",
+    "name": "Wallet - Expense Journal",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/ua/app/wallet-expense-journal/id6547831903",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/27/be/9e27bee0-ba08-082d-13d8-6d7149102bdb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Vitalii Vovchok",
+    "tags": [
+      "Expenses"
+    ],
+    "description": "Organizes income and expenses using custom categories and multicurrency accounts, with currency conversion, debt records, and transaction search.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-1460038809",
+    "name": "Weekly: Budget Planner & Bills",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/weekly-budget-planner-bills/id1460038809",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/03/59/73035969-28ff-2d53-0a66-80c8a40573f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "developer": "Weekly, LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses"
+    ],
+    "description": "Calculates a weekly spending allowance from income, bills, and savings goals, with expense tracking and shared budgets.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-467936485",
@@ -612,7 +3296,51 @@
       "Expenses"
     ],
     "description": "Provides manual expense entry, daily through monthly views, category statistics, budget management, and card spending analysis.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6479275107",
+    "name": "Windfall - Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/windfall-expense-tracker/id6479275107",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/79/218e798f-c949-a350-9d33-abe94428fafe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "developer": "Swapnanil Dhol",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records income and expenses from text, Siri, or receipts, with recurring bills, budgets, and Apple Watch entry.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-6769266191",
+    "name": "WriteOff — AI Expense Tracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/writeoff-ai-expense-tracker/id6769266191",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/d4/4f2fd452-f8ad-824d-7a69-4359c5fc7710/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+    "developer": "Cory Larro",
+    "tags": [
+      "Expenses",
+      "Business"
+    ],
+    "description": "Records business expenses from plain-language entries, categorizes purchases, and organizes deduction information for freelancers and solo founders.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-290874373",
+    "name": "XpenseTracker",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/xpensetracker/id290874373",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/03/4a/a6/034aa6d6-5951-312a-debd-680ede1a6c13/AppIconXT-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "developer": "Silverware Software, LLC",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Tracks expenses and mileage, attaches receipt photos, and exports expense reports for personal records or business reporting.",
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-1010865877",
@@ -627,7 +3355,7 @@
       "Shared expenses"
     ],
     "description": "A budgeting app with spending categories, manual or imported transactions, shared plans, and debt planning tools.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
   },
   {
     "id": "ios-905934786",
@@ -640,6 +3368,21 @@
       "Expenses"
     ],
     "description": "Imports and categorizes transactions from supported banks, with income, spending, and savings analysis across accounts.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "ios-966094166",
+    "name": "Zoho Expense: Travel & Expense",
+    "platform": "ios",
+    "storeUrl": "https://apps.apple.com/us/app/zoho-expense-travel-expense/id966094166",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/50/95/15509582-9b62-448b-db54-530daab36904/ZohoExpenseIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "developer": "Zoho Corporation",
+    "tags": [
+      "Expenses",
+      "Receipts",
+      "Business"
+    ],
+    "description": "Tracks business expenses and mileage, scans receipts, imports card transactions, and manages expense approvals and reimbursements.",
+    "verifiedAt": "2026-11-03"
   }
 ]

@@ -1,60 +1,2712 @@
 {
-  "verifiedAt": "2026-11-02",
-  "storefront": "us",
-  "source": "Apple iTunes Search API",
-  "verification": "Each included App Store ID was returned by Apple's public lookup API. Descriptions and tags are concise editorial summaries of listing metadata.",
-  "scope": "Curated index of 45 iOS apps, not a complete App Store census. Listing verification does not test app functionality or availability in other countries.",
-  "lookupUrl": "https://itunes.apple.com/lookup?id=548615579,471713959,1492055171,932322041,560481810,942571931,1130616675,471112395,1447330651,1320730220,635861140,1459319842,1212024409,936422955,1538521095,484100875,1032467659,1424280764,467936485,418327708,484000695,738654899,1225559794,995661933,537916781,424575621,905934786,865818973,1302304930,1333174950,1448335613,1534255777,617849961,1010865877,921590251,486312413,651896614,458023433,349866256,737534985,918609651,1635280255,949414211,1449777194,1621020173&country=us&entity=software",
+  "updatedAt": "2026-11-03",
+  "source": "Apple public iTunes Search and Lookup APIs; official App Store page for Lichy",
+  "indexedCount": 237,
+  "previousIndexedCount": 45,
+  "addedCount": 192,
+  "refreshedExistingCount": 45,
+  "verification": "Each included ID was returned by a fresh Apple public API response and lists iPhone support. Names, developers, icons and store URLs come from that response. Summaries describe listing claims, not hands-on testing.",
+  "scope": "A curated, incomplete index of distinct App Store listings. This is not the number of expense trackers in the App Store. Search rankings, storefront availability and manual selection limit coverage.",
+  "discovery": {
+    "searchTerms": [
+      "expense tracker",
+      "spending tracker",
+      "budget planner",
+      "money manager",
+      "receipt expenses",
+      "bill split"
+    ],
+    "storefronts": [
+      "us",
+      "ua",
+      "gb"
+    ],
+    "broadSearchRequests": 18,
+    "broadSearchUniqueCandidates": 1780,
+    "namedChecks": [
+      "MoneyWiz",
+      "Today's Budget",
+      "Lunch Money"
+    ],
+    "candidateCountMeaning": "Raw distinct IDs across broad search responses, including unrelated and unreviewed apps. Not a relevant-app count or store census.",
+    "requestPolicy": "Sequential discovery requests with a 3.25-second pause. Stop on API errors; no scraping protection bypass.",
+    "repeatableCommand": "node scripts/discover-ios.mjs --output <candidate-file-outside-src/data.json>",
+    "publication": "The discovery script only writes unreviewed candidates. Catalog additions require title and description review."
+  },
+  "selection": {
+    "includes": [
+      "personal expense logs",
+      "budget planners",
+      "household and shared expense trackers",
+      "travel spending trackers",
+      "business expense and receipt tools"
+    ],
+    "excludes": [
+      "banking or payment apps without a central expense-tracking use",
+      "lending and buy-now-pay-later services",
+      "trading and investment-only tools",
+      "generic calculators and tip-only tools",
+      "unrelated planners and journals",
+      "obvious paid/pro duplicates of an already included product"
+    ],
+    "reviewedPools": "Original 45 listings; first 145 US discovery candidates; selected UA/GB discoveries; additional named, travel, budgeting, receipt and shared-expense listings. Not every raw candidate was reviewed.",
+    "excludedExamples": [
+      {
+        "id": "ios-306026134",
+        "name": "Daily Tracker Journal & Diary",
+        "reason": "General journal rather than a dedicated expense tracker"
+      },
+      {
+        "id": "ios-564730202",
+        "name": "Money Manager (Remove Ads)",
+        "reason": "Paid duplicate of the included Realbyte product"
+      },
+      {
+        "id": "ios-290803600",
+        "name": "TDF Tracker",
+        "reason": "Outside selected personal and business expense-tracker scope"
+      },
+      {
+        "id": "ios-1174471607",
+        "name": "NerdWallet: Smart Money App",
+        "reason": "General financial recommendations app rather than a focused tracker"
+      }
+    ]
+  },
+  "verificationDates": {
+    "originalListingVerification": "2026-11-02",
+    "originalListingRefresh": "2026-11-03",
+    "addedListingVerification": "2026-11-03",
+    "retainedStaleListingVerifications": 0,
+    "note": "Original summaries are retained from the first review; listing identity, developer, icon, URL and iPhone support were refreshed. Record evidence keeps the previous date."
+  },
   "omittedFields": [
     "ratings",
     "ratingCounts",
     "prices"
   ],
-  "ids": [
-    "ios-738654899",
-    "ios-936422955",
-    "ios-1448335613",
-    "ios-617849961",
-    "ios-484000695",
-    "ios-1447330651",
-    "ios-651896614",
-    "ios-418327708",
-    "ios-1635280255",
-    "ios-942571931",
-    "ios-635861140",
-    "ios-1320730220",
-    "ios-932322041",
-    "ios-1492055171",
-    "ios-471713959",
-    "ios-1621020173",
-    "ios-471112395",
-    "ios-1225559794",
-    "ios-484100875",
-    "ios-1459319842",
-    "ios-1212024409",
-    "ios-1302304930",
-    "ios-486312413",
-    "ios-560481810",
-    "ios-537916781",
-    "ios-918609651",
-    "ios-1333174950",
-    "ios-1534255777",
-    "ios-995661933",
-    "ios-424575621",
-    "ios-949414211",
-    "ios-1449777194",
-    "ios-1424280764",
-    "ios-1130616675",
-    "ios-737534985",
-    "ios-1538521095",
-    "ios-548615579",
-    "ios-865818973",
-    "ios-458023433",
-    "ios-921590251",
-    "ios-349866256",
-    "ios-1032467659",
-    "ios-467936485",
-    "ios-1010865877",
-    "ios-905934786"
+  "sources": [
+    {
+      "id": "search-1",
+      "kind": "search",
+      "term": "expense tracker",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=expense+tracker&country=us&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:18:42.573Z",
+      "resultCount": 192
+    },
+    {
+      "id": "search-2",
+      "kind": "search",
+      "term": "spending tracker",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=spending+tracker&country=us&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:18:45.955Z",
+      "resultCount": 192
+    },
+    {
+      "id": "search-3",
+      "kind": "search",
+      "term": "budget planner",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=budget+planner&country=us&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:18:49.352Z",
+      "resultCount": 191
+    },
+    {
+      "id": "search-4",
+      "kind": "search",
+      "term": "money manager",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=money+manager&country=us&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:18:52.731Z",
+      "resultCount": 192
+    },
+    {
+      "id": "search-5",
+      "kind": "search",
+      "term": "receipt expenses",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=receipt+expenses&country=us&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:00.080Z",
+      "resultCount": 190
+    },
+    {
+      "id": "search-6",
+      "kind": "search",
+      "term": "bill split",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=bill+split&country=us&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:07.429Z",
+      "resultCount": 184
+    },
+    {
+      "id": "search-7",
+      "kind": "search",
+      "term": "expense tracker",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=expense+tracker&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:15.301Z",
+      "resultCount": 193
+    },
+    {
+      "id": "search-8",
+      "kind": "search",
+      "term": "spending tracker",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=spending+tracker&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:22.853Z",
+      "resultCount": 193
+    },
+    {
+      "id": "search-9",
+      "kind": "search",
+      "term": "budget planner",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=budget+planner&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:30.626Z",
+      "resultCount": 189
+    },
+    {
+      "id": "search-10",
+      "kind": "search",
+      "term": "money manager",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=money+manager&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:38.176Z",
+      "resultCount": 189
+    },
+    {
+      "id": "search-11",
+      "kind": "search",
+      "term": "receipt expenses",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=receipt+expenses&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:45.689Z",
+      "resultCount": 194
+    },
+    {
+      "id": "search-12",
+      "kind": "search",
+      "term": "bill split",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=bill+split&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:52.832Z",
+      "resultCount": 193
+    },
+    {
+      "id": "search-13",
+      "kind": "search",
+      "term": "expense tracker",
+      "country": "gb",
+      "url": "https://itunes.apple.com/search?term=expense+tracker&country=gb&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:56.185Z",
+      "resultCount": 193
+    },
+    {
+      "id": "search-14",
+      "kind": "search",
+      "term": "spending tracker",
+      "country": "gb",
+      "url": "https://itunes.apple.com/search?term=spending+tracker&country=gb&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:19:59.536Z",
+      "resultCount": 195
+    },
+    {
+      "id": "search-15",
+      "kind": "search",
+      "term": "budget planner",
+      "country": "gb",
+      "url": "https://itunes.apple.com/search?term=budget+planner&country=gb&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:20:02.960Z",
+      "resultCount": 184
+    },
+    {
+      "id": "search-16",
+      "kind": "search",
+      "term": "money manager",
+      "country": "gb",
+      "url": "https://itunes.apple.com/search?term=money+manager&country=gb&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:20:10.373Z",
+      "resultCount": 190
+    },
+    {
+      "id": "search-17",
+      "kind": "search",
+      "term": "receipt expenses",
+      "country": "gb",
+      "url": "https://itunes.apple.com/search?term=receipt+expenses&country=gb&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:20:17.928Z",
+      "resultCount": 186
+    },
+    {
+      "id": "search-18",
+      "kind": "search",
+      "term": "bill split",
+      "country": "gb",
+      "url": "https://itunes.apple.com/search?term=bill+split&country=gb&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:20:24.868Z",
+      "resultCount": 181
+    },
+    {
+      "id": "named-search-1",
+      "kind": "search",
+      "term": "MoneyWiz",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=MoneyWiz&country=us&entity=software&limit=5",
+      "resultCount": 4,
+      "verifiedAt": "2026-11-03"
+    },
+    {
+      "id": "named-search-2",
+      "kind": "search",
+      "term": "Today's Budget",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=Today%27s%20Budget&country=us&entity=software&limit=5",
+      "resultCount": 5,
+      "verifiedAt": "2026-11-03"
+    },
+    {
+      "id": "named-search-3",
+      "kind": "search",
+      "term": "Lunch Money",
+      "country": "us",
+      "url": "https://itunes.apple.com/search?term=Lunch%20Money&country=us&entity=software&limit=5",
+      "resultCount": 5,
+      "verifiedAt": "2026-11-03"
+    },
+    {
+      "id": "refresh-and-lichy",
+      "kind": "lookup",
+      "country": "us",
+      "verifiedAt": "2026-11-03",
+      "capturedAt": "2026-11-03T16:19:39.889Z",
+      "resultCount": 46,
+      "url": "https://itunes.apple.com/lookup?id=738654899,936422955,1448335613,617849961,484000695,1447330651,651896614,418327708,1635280255,942571931,635861140,1320730220,932322041,1492055171,471713959,1621020173,471112395,1225559794,484100875,1459319842,1212024409,1302304930,486312413,560481810,537916781,918609651,1333174950,1534255777,995661933,424575621,949414211,1449777194,1424280764,1130616675,737534985,1538521095,548615579,865818973,458023433,921590251,349866256,1032467659,467936485,1010865877,905934786,6773329338&country=us&entity=software"
+    },
+    {
+      "id": "lichy-page",
+      "kind": "official-store-page",
+      "verifiedAt": "2026-11-03",
+      "url": "https://apps.apple.com/us/app/money-expense-tracker-lichy/id6773329338"
+    }
+  ],
+  "records": [
+    {
+      "id": "ios-1010865877",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1032467659",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1059461492",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1104167285",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1130616675",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1140864080",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1159345509",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1161255926",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-13"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1170797647",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1172713884",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1178825025",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1185488696",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1186342586",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1204316311",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1212024409",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1214299218",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1225559794",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1227088361",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1270062373",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1302304930",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1320730220",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1333174950",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1380338176",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-6"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1424280764",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1434284824",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1437594497",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-14"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1438647102",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1439556350",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1446549608",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-6"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1447330651",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1448335613",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1449777194",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1453876415",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1457443074",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1459319842",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1460038809",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1473785373",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1492055171",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1495077102",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-13"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1498172833",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1510760825",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1510997753",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1511185140",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "named-search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1511515117",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-13"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1516472234",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1517339257",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1525126979",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1525179720",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1526973735",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1528787066",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1533403452",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1534244892",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1534255777",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1537213226",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1538521095",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1561516009",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1562877905",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1570659711",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-14"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1573115695",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-6"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1578612881",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1593868439",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "named-search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1599077337",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1616732749",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1617877213",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1621020173",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1626029996",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1626975151",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1632006509",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1635280255",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-1637367459",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1637693312",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1640091876",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1664719450",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1669548999",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-284124560",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-290874373",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-305418178",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-306257910",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-322143854",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-325834957",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-13"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-335023774",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-349866256",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-370662888",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-418327708",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-424575621",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-445850671",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-458023433",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-458571562",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-465909912",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-467936485",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-471112395",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-471713959",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-482361839",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-484000695",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-484100875",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-486312413",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-512207629",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-524132764",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-6"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-537916781",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-548615579",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-560481810",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-566587079",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-572886919",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-579913972",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-580812126",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-584606479",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-588332804",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-589432235",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-590327036",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-14"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-617849961",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-625887028",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-635861140",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-6444256139",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6446326708",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6447112647",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6451499225",
+      "verifiedAt": "2026-11-03",
+      "storefront": "gb",
+      "sourceRefs": [
+        "search-14"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6462989500",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6463662930",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6473705856",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6477741670",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6479275107",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6498994436",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6504302154",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-651896614",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-6547831903",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6572301026",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6670716062",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6737688797",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6738583305",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6738668365",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6739028463",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "named-search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6739036460",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6739469411",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6739849182",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6740288138",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6741199384",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6741738534",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6743153951",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6743250788",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6743357457",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6745705364",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6746187757",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6746731207",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6748858584",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6749017099",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6753577383",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6754530724",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6754805457",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6755638548",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6756229152",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6757503402",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6757592649",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6757820811",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6758177596",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6758336671",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6759282016",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6759523889",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6759791728",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760214754",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760224247",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760328162",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760418898",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760552716",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760648601",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760839670",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6761222460",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6761264391",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6761923290",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6761938917",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762062334",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762070174",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762165253",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762484933",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762556862",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762640176",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6763279576",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6763726732",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6764078981",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6764654142",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6764815619",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6765870838",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6769266191",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6769458156",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6769626633",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6772283748",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6773329338",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy",
+        "lichy-page"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-677699286",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6777520962",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6779437134",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6780198495",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6780537780",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6780538389",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6781517172",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6781846083",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6784250762",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6786991069",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6789563930",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6790082958",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6790511454",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6791050289",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6795880230",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6797290644",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6799674143",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "search-7"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6804001291",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6804068903",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6806383600",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6806614497",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6818394752",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6824197046",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-717831365",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-721048897",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-737534985",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-738654899",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-760168900",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-797459670",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-849747345",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-862914097",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-865818973",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-882637543",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-905698613",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-905934786",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-906363437",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-916741290",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-918609651",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-921590251",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-921838244",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-932322041",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-936422955",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-942571931",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-949414211",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    },
+    {
+      "id": "ios-951737201",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-954944283",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-966094166",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-985378916",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-989642198",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-991473495",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-995661933",
+      "verifiedAt": "2026-11-03",
+      "storefront": "us",
+      "sourceRefs": [
+        "refresh-and-lichy"
+      ],
+      "firstIndexedAt": "2026-11-02",
+      "previousVerifiedAt": "2026-11-02",
+      "editorialSummaryRetainedFrom": "2026-11-02"
+    }
   ]
 }
