@@ -47,6 +47,12 @@ The iOS script runs broad searches in US, Ukrainian, and UK storefronts, plus fi
 
 The homepage labels Lichy's ₴100 placement as an advertisement. Its icon and App Store link come from the verified catalog record. The donation-ranking line is the promotional premise; there is no payment processing or automatic bidding system. Directory sorting and indexed counts still derive from the catalog, independently of this placement.
 
+## Languages
+
+The header switches between Ukrainian and English without clearing the open collection, search, or filters. Initial language priority is `?lang=uk` / `?lang=en`, a saved browser preference, then the first supported browser language (English fallback). The choice persists when browser storage is available; share links carry the selected language.
+
+UI copy, accessibility labels, page titles, jokes, sponsorship disclosure, categories, and catalog descriptions are localized. Original product and developer names stay unchanged. Ukrainian descriptions live in `src/data/ios-uk.json` and `src/data/android-uk.json`, keyed by exact catalog IDs; include a translation when adding a listing. Search matches both languages and documented aliases. Ukrainian typography uses locally bundled Roboto and Roboto Condensed fonts.
+
 ## GitHub Pages
 
 The deployment workflow builds the project and publishes `dist/` through GitHub Actions on every push to `main`. Site URL: [sanyo4ever.github.io/tracker-count](https://sanyo4ever.github.io/tracker-count/).

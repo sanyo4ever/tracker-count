@@ -314,3 +314,36 @@
     transition: none;
   }
 }
+
+html[lang="uk"] .sponsor-heading {
+  font-size: clamp(27px, 2.6vw, 36px);
+  line-height: 1.04;
+}
+
+html[lang="uk"] .sponsor-disclosure {
+  letter-spacing: .8px;
+}
+
+html[lang="uk"] .sponsor-policy {
+  font-size: 10px;
+}
+
+html[lang="uk"] .sponsor-ticket > strong {
+  font-family: 'Barlow Condensed', Impact, sans-serif;
+}
+
+@media (max-width: 760px) {
+  html[lang="uk"] .sponsor-heading {
+    font-size: 26px;
+    line-height: 1.06;
+  }
+
+  html[lang="uk"] .sponsor-policy {
+    font-size: 9px;
+    line-height: 1.55;
+  }
+
+  html[lang="uk"] .sponsor-ticket-stamp {
+    letter-spacing: .2px;
+  }
+}
