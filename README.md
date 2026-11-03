@@ -26,6 +26,12 @@ Descriptions and tags are editorial summaries. Store search results are limited 
 
 To suggest a missing app, [open an issue](https://github.com/sanyo4ever/tracker-count/issues/new) with its official store URL. Review the listing's relevance, deduplicate by Apple app ID or Android package ID, and record its source and verification date before adding it. Discovery results must be reviewed before publication.
 
+## Ukrainian coverage
+
+The **Ukrainian-made** filter requires evidence of a Ukrainian developer or team connection, such as an official developer-country disclosure, a creator statement, or a documented Ukrainian product listing. Ukrainian language support, Ukrainian storefront availability, and a developer's name alone are insufficient. Each tagged record has a `ukrainianOrigin` evidence object in its platform's provenance file; personal street addresses are not copied.
+
+`src/data/ukrainian-audit.json` records the targeted search scope, sources, and candidate dispositions, including web-only, prerelease, and unresolved cases. The audit is not an exhaustive registry of every Ukrainian developer. Optional `aliases` make official Ukrainian titles and documented former names searchable; renamed apps keep one store ID and do not inflate the counters.
+
 ## Repeatable discovery
 
 These dependency-free scripts query public store search results at a modest pace and output **unreviewed candidates**. They do not update the published catalog:
@@ -35,7 +41,11 @@ node scripts/discover-ios.mjs --output ios-candidates.json
 node scripts/discover-android.mjs > android-candidates.json
 ```
 
-The iOS script searches six terms in US, Ukrainian, and UK storefronts. The Android script searches eight terms in the US English storefront; custom terms can be passed as quoted arguments. Candidate files are ignored by Git. Check each relevant listing and record its verification in the corresponding provenance file before adding it to `src/data/`.
+The iOS script runs broad searches in US, Ukrainian, and UK storefronts, plus five Ukrainian-language searches in Ukraine and named-app checks. The Android script searches eight terms in the US English storefront; custom terms can be passed as quoted arguments. Candidate files are ignored by Git. Check each relevant listing and record its verification in the corresponding provenance file before adding it to `src/data/`.
+
+## Sponsored homepage placement
+
+The homepage labels Lichy's ₴100 placement as an advertisement. Its icon and App Store link come from the verified catalog record. The donation-ranking line is the promotional premise; there is no payment processing or automatic bidding system. Directory sorting and indexed counts still derive from the catalog, independently of this placement.
 
 ## GitHub Pages
 

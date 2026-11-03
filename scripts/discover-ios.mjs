@@ -14,6 +14,10 @@ if (output && /(?:^|[\\/])src[\\/]data[\\/]/i.test(resolve(output))) {
 const terms = ['expense tracker', 'spending tracker', 'budget planner', 'money manager', 'receipt expenses', 'bill split'];
 const countries = ['us', 'ua', 'gb'];
 const queries = countries.flatMap(country => terms.map(term => ({ country, term, limit: '200' })));
+// Native-language discovery complements English rankings; language is not origin evidence.
+for (const term of ['облік витрат', 'сімейний бюджет', 'фінанси', 'бюджет', 'витрати']) {
+  queries.push({ country: 'ua', term, limit: '200' });
+}
 // Named checks complement ranked broad searches; this remains an incomplete index.
 for (const term of ['MoneyWiz', "Today's Budget", 'Lunch Money']) {
   queries.push({ country: 'us', term, limit: '5' });

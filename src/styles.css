@@ -6,3 +6,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.marquee>div{transform:none}.live-dot{box-shadow:none}}
 
 .index-coverage{font-size:12px;line-height:1.7;color:#686a60;margin-top:18px}.index-coverage a{text-decoration:underline;text-underline-offset:3px;white-space:nowrap;color:var(--ink);margin-left:5px}.missing-app-link{display:flex;align-items:center;gap:6px;font-size:12px;text-decoration:underline;text-underline-offset:3px}@media(max-width:760px){.index-coverage{font-size:10px;line-height:1.7}.index-coverage a{display:inline-block;margin-left:0}}
+
+.filter-count{display:inline-block;margin-left:6px;font-size:9px;opacity:.7}.app-tags>.ukrainian-tag{background:var(--lime);color:var(--ink);border-color:#9abb3c}

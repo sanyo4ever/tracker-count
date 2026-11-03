@@ -1,9 +1,9 @@
 {
   "updatedAt": "2026-11-03",
-  "source": "Apple public iTunes Search and Lookup APIs; official App Store page for Lichy",
-  "indexedCount": 237,
+  "source": "Apple public iTunes Search and Lookup APIs; official store provider disclosures; linked creator and Ukrainian product sources for origin evidence",
+  "indexedCount": 276,
   "previousIndexedCount": 45,
-  "addedCount": 192,
+  "addedCount": 231,
   "refreshedExistingCount": 45,
   "verification": "Each included ID was returned by a fresh Apple public API response and lists iPhone support. Names, developers, icons and store URLs come from that response. Summaries describe listing claims, not hands-on testing.",
   "scope": "A curated, incomplete index of distinct App Store listings. This is not the number of expense trackers in the App Store. Search rankings, storefront availability and manual selection limit coverage.",
@@ -289,6 +289,75 @@
       "kind": "official-store-page",
       "verifiedAt": "2026-11-03",
       "url": "https://apps.apple.com/us/app/money-expense-tracker-lichy/id6773329338"
+    },
+    {
+      "id": "ukrainian-search-1",
+      "kind": "search",
+      "term": "облік витрат",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%20%D0%B2%D0%B8%D1%82%D1%80%D0%B0%D1%82&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:30:16.0750234Z",
+      "resultCount": 193
+    },
+    {
+      "id": "ukrainian-search-2",
+      "kind": "search",
+      "term": "сімейний бюджет",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=%D1%81%D1%96%D0%BC%D0%B5%D0%B9%D0%BD%D0%B8%D0%B9%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:30:23.1562620Z",
+      "resultCount": 139
+    },
+    {
+      "id": "ukrainian-search-3",
+      "kind": "search",
+      "term": "фінанси",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=%D1%84%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D0%B8&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:30:30.6476236Z",
+      "resultCount": 186
+    },
+    {
+      "id": "ukrainian-search-4",
+      "kind": "search",
+      "term": "бюджет",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:30:38.4701161Z",
+      "resultCount": 191
+    },
+    {
+      "id": "ukrainian-search-5",
+      "kind": "search",
+      "term": "витрати",
+      "country": "ua",
+      "url": "https://itunes.apple.com/search?term=%D0%B2%D0%B8%D1%82%D1%80%D0%B0%D1%82%D0%B8&country=ua&entity=software&limit=200",
+      "fetchedAt": "2026-11-03T16:30:46.0883307Z",
+      "resultCount": 191
+    },
+    {
+      "id": "ukrainian-named-lookup-1",
+      "kind": "lookup",
+      "country": "ua",
+      "url": "https://itunes.apple.com/lookup?id=6758392205,6770952176,6774619775,1593860816,1491162880,623230941,6471476183,6762463402,6759090504,1605388450,760168900&country=ua&entity=software",
+      "fetchedAt": "2026-11-03T16:34:19.4420772Z",
+      "resultCount": 11
+    },
+    {
+      "id": "ukrainian-named-lookup-2",
+      "kind": "lookup",
+      "country": "ua",
+      "url": "https://itunes.apple.com/lookup?id=6502789158,6761293548&country=ua&entity=software",
+      "fetchedAt": "2026-11-03T16:36:52.0045896Z",
+      "resultCount": 2
+    },
+    {
+      "id": "ukrainian-named-lookup-3",
+      "kind": "lookup",
+      "country": "ua",
+      "url": "https://itunes.apple.com/lookup?id=1542338653,6770595359,6806298730,6738668365&country=ua",
+      "fetchedAt": "2026-11-03T16:39:31.4403086Z",
+      "resultCount": 4
     }
   ],
   "records": [
@@ -542,6 +611,25 @@
       "editorialSummaryRetainedFrom": "2026-11-02"
     },
     {
+      "id": "ios-1429939748",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-3",
+        "ukrainian-search-4"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The creator states that Sintra was made by two developers from Dnipro, Ukraine; its official App Store provider disclosure also states Ukraine.",
+        "sourceUrls": [
+          "https://dou.ua/forums/topic/42675/",
+          "https://apps.apple.com/pl/app/id1429939748"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-1434284824",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -676,6 +764,27 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-1491162880",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Rubryka identifies the developer as Ukrainian.",
+        "sourceUrls": [
+          "https://rubryka.com/article/dlya-kontrolyu-vytrat/"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-1492055171",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -774,7 +883,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Rubryka identifies the developer as Ukrainian and links both official stores.",
+        "sourceUrls": [
+          "https://rubryka.com/article/dlya-kontrolyu-vytrat/"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-1525179720",
@@ -859,6 +975,17 @@
       "editorialSummaryRetainedFrom": "2026-11-02"
     },
     {
+      "id": "ios-1542338653",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-4",
+        "ukrainian-named-lookup-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
       "id": "ios-1561516009",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -867,6 +994,24 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-1562232508",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id1562232508"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-1562877905",
@@ -909,6 +1054,31 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-1593860816",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Rubryka identifies the developer as Ukrainian and links this product.",
+        "sourceUrls": [
+          "https://rubryka.com/article/dlya-kontrolyu-vytrat/"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "aliasSourceUrls": [
+        "https://apps.apple.com/ua/app/id1593860816"
+      ]
+    },
+    {
       "id": "ios-1593868439",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -926,7 +1096,35 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id1599077337"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-1605388450",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Finmap identifies itself as a Ukrainian company in its official founder-authored article about the Google for Startups Ukraine Support Fund.",
+        "sourceUrls": [
+          "https://finmap.online/blog/google-invested-in-finmap"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-1616732749",
@@ -1048,7 +1246,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id1669548999"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-284124560",
@@ -1078,7 +1283,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id305418178"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-306257910",
@@ -1425,6 +1637,24 @@
       "editorialSummaryRetainedFrom": "2026-11-02"
     },
     {
+      "id": "ios-623230941",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Rubryka identifies the developer as Ukrainian and links Igor Andreichyn's app.",
+        "sourceUrls": [
+          "https://rubryka.com/article/dlya-kontrolyu-vytrat/",
+          "https://homemoney.ua/android/"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-625887028",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -1454,6 +1684,24 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6445957924",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-3",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6445957924"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6446326708",
@@ -1486,6 +1734,42 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6458838279",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-2",
+        "ukrainian-search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6458838279"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6461161458",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6461161458"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6462989500",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -1504,6 +1788,26 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6471476183",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-4",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Rubryka identifies the Ukrainian developers and includes their explanation of creating the app.",
+        "sourceUrls": [
+          "https://rubryka.com/article/dlya-kontrolyu-vytrat/",
+          "https://osyo.app/product/right-budget"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6473705856",
@@ -1546,6 +1850,47 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6499044750",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6499044750"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6502789158",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-search-5",
+        "ukrainian-named-lookup-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Official Google Play listing identifies WISEWALLET LLC in Ukraine.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.kindgeek.wisewallet",
+          "https://osyo.app/product/wisewallet"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6504302154",
       "verifiedAt": "2026-11-03",
       "storefront": "ua",
@@ -1553,7 +1898,34 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Official privacy policy identifies the operator as registered in Mykolaiv, Ukraine.",
+        "sourceUrls": [
+          "https://fineye.app/privacy-policy"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6504926654",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6504926654"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-651896614",
@@ -1604,7 +1976,34 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6737688797"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6737805653",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6737805653"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6738583305",
@@ -1624,7 +2023,19 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Official Play developer country is Ukraine. SPEKA's Ukrainian Mony article links the same package now titled Sumlio.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker",
+          "https://speka.ua/ratings/top-7-zastosunkiv-dlya-osobistix-finansiv-zamist-rosiiskix-yakimi-vi-koristuvalisya-dosi-v78nqp/amp"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "aliasSourceUrls": [
+        "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker",
+        "https://speka.ua/ratings/top-7-zastosunkiv-dlya-osobistix-finansiv-zamist-rosiiskix-yakimi-vi-koristuvalisya-dosi-v78nqp/amp"
+      ]
     },
     {
       "id": "ios-6739028463",
@@ -1694,7 +2105,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6741738534"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6743153951",
@@ -1757,6 +2175,40 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6747180547",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-4"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6747180547"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6748323038",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6748323038"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6748858584",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -1775,6 +2227,26 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6752348124",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6752348124"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6753577383",
@@ -1877,6 +2349,43 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6758392205",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-5",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "AppMap identifies this expense tracker as a Ukrainian product from Lviv.",
+        "sourceUrls": [
+          "https://appmap.propellercrew.com/p/expensa-58xqzr36"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6759090504",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Ukrainian creator directory describes BuddyPay as a Ukrainian shared-expense app; official website links both stores.",
+        "sourceUrls": [
+          "https://osyo.app/collections/ukrainski-zastosunky-dlia-biudzhetu",
+          "https://osyo.app/product/buddypay"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6759282016",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -1894,7 +2403,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "AppMap identifies the product as Ukrainian and locates its team in Khrustalnyi.",
+        "sourceUrls": [
+          "https://appmap.propellercrew.com/p/heap-hqqihhmk"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6759791728",
@@ -1924,7 +2440,15 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official terms identify the Monohroshi operator as based in Lviv, Ukraine; the App Store provider disclosure also states Ukraine.",
+        "sourceUrls": [
+          "https://app.monohroshi.com/terms",
+          "https://apps.apple.com/pl/app/id6760224247"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6760328162",
@@ -1945,6 +2469,23 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6760475262",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-4"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6760475262"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6760552716",
@@ -1987,6 +2528,23 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6761251964",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6761251964"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6761264391",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -1995,6 +2553,28 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6761293548",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-named-lookup-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store description explicitly states that Midni was created in Ukraine; its provider country disclosure also states Ukraine.",
+        "sourceUrls": [
+          "https://apps.apple.com/ua/app/id6761293548",
+          "https://apps.apple.com/pl/app/id6761293548"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6761923290",
@@ -2045,6 +2625,24 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6762463402",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6762463402"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6762484933",
@@ -2134,7 +2732,32 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6765870838"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6766315622",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6766315622"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6769266191",
@@ -2167,6 +2790,36 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6770595359",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-named-lookup-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6770952176",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official STATOK website explicitly states that the product was built in Ukraine.",
+        "sourceUrls": [
+          "https://statok.io/",
+          "https://appmap.propellercrew.com/p/statok-rdi4tf7i"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6772283748",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -2185,7 +2838,34 @@
         "lichy-page"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "AppMap identifies the product as Ukrainian and locates its team in Lviv.",
+        "sourceUrls": [
+          "https://appmap.propellercrew.com/p/lichy-paw3ciuf"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6774619775",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-named-lookup-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official Dyvo Apps creator website states that its apps are made in Ukraine; the App Store provider disclosure also states Ukraine.",
+        "sourceUrls": [
+          "https://dyvoapps.com/budget",
+          "https://apps.apple.com/pl/app/id6774619775"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-677699286",
@@ -2225,7 +2905,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "AppMap identifies this budget tracker as a Ukrainian product from Odesa.",
+        "sourceUrls": [
+          "https://appmap.propellercrew.com/p/quotra-zresbmam"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6780537780",
@@ -2278,6 +2965,25 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6785203849",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6785203849"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6786991069",
       "verifiedAt": "2026-11-03",
       "storefront": "ua",
@@ -2285,7 +2991,14 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer country is Ukraine.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.romanchuk.o&hl=de"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6789563930",
@@ -2328,6 +3041,24 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6792098184",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6792098184"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6795880230",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -2335,7 +3066,31 @@
         "search-1"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6795880230"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6796025441",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6796025441"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6797290644",
@@ -2348,6 +3103,26 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6799525961",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6799525961"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6799674143",
       "verifiedAt": "2026-11-03",
       "storefront": "ua",
@@ -2355,7 +3130,33 @@
         "search-7"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6799674143"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6803676814",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-2",
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6803676814"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6804001291",
@@ -2368,11 +3169,44 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6804055937",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-2",
+        "ukrainian-search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6804055937"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6804068903",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
       "sourceRefs": [
         "search-1"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6806298730",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-2",
+        "ukrainian-search-3",
+        "ukrainian-search-4",
+        "ukrainian-search-5",
+        "ukrainian-named-lookup-3"
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
@@ -2398,6 +3232,59 @@
       "editorialSummaryReviewedAt": "2026-11-03"
     },
     {
+      "id": "ios-6814629454",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-2"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6814629454"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6814912059",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-5"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6814912059"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "ios-6816715251",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-1",
+        "ukrainian-search-3",
+        "ukrainian-search-4"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6816715251"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
       "id": "ios-6818394752",
       "verifiedAt": "2026-11-03",
       "storefront": "us",
@@ -2406,6 +3293,23 @@
       ],
       "firstIndexedAt": "2026-11-03",
       "editorialSummaryReviewedAt": "2026-11-03"
+    },
+    {
+      "id": "ios-6820016726",
+      "verifiedAt": "2026-11-03",
+      "storefront": "ua",
+      "sourceRefs": [
+        "ukrainian-search-3"
+      ],
+      "firstIndexedAt": "2026-11-03",
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id6820016726"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-6824197046",
@@ -2467,7 +3371,14 @@
         "search-1"
       ],
       "firstIndexedAt": "2026-11-03",
-      "editorialSummaryReviewedAt": "2026-11-03"
+      "editorialSummaryReviewedAt": "2026-11-03",
+      "ukrainianOrigin": {
+        "basis": "The official App Store provider disclosure identifies the developer country as Ukraine. Only the country is retained; Ukrainian localization alone was not used as origin evidence.",
+        "sourceUrls": [
+          "https://apps.apple.com/pl/app/id760168900"
+        ],
+        "checkedAt": "2026-11-03"
+      }
     },
     {
       "id": "ios-797459670",
@@ -2708,5 +3619,45 @@
       "previousVerifiedAt": "2026-11-02",
       "editorialSummaryRetainedFrom": "2026-11-02"
     }
-  ]
+  ],
+  "ukrainianAudit": {
+    "checkedAt": "2026-11-03",
+    "previousIndexedCount": 237,
+    "addedCount": 39,
+    "indexedUkrainianMadeCount": 53,
+    "searchTerms": [
+      "облік витрат",
+      "сімейний бюджет",
+      "фінанси",
+      "бюджет",
+      "витрати"
+    ],
+    "storefronts": [
+      "ua"
+    ],
+    "searchRequests": 5,
+    "rawUniqueCandidates": 556,
+    "providerCountryChecks": 263,
+    "explicitUkraineProviderDisclosures": 39,
+    "method": "Reviewed five Ukrainian-language public API searches, prioritized 213 previously unindexed tracker candidates with Ukrainian language support, and checked their official provider disclosures plus 14 existing leads. Combined explicit Ukraine disclosures with named leads from Ukrainian product directories, creator announcements, and official product websites. Reviewed listing descriptions for expense/budget relevance. Language and names were discovery aids, never origin proof. Also checked the remaining 36 already-indexed listings with Ukrainian language support returned by the same five queries.",
+    "requestPolicy": "Public API requests and sequential official store page requests; provider checks paused 500 ms between requests and stopped on any HTTP 403/429. No protections bypassed.",
+    "originStandard": "Explicit creator/team origin statement, official developer/operator country disclosure, or a cited Ukrainian product source. Directory assertions and current developer country are evidence of a Ukrainian connection, not certification of every contributor or present legal domicile.",
+    "exclusions": [
+      {
+        "id": "ios-6758353454",
+        "name": "Quartal Finance",
+        "reason": "Confirmed Ukrainian provider but listing establishes income/tax/invoicing features, not expense tracking or spending budgets."
+      }
+    ],
+    "unresolvedOriginIds": [
+      "ios-6761264391",
+      "ios-6738583305",
+      "ios-6762484933",
+      "ios-1542338653",
+      "ios-6770595359",
+      "ios-6806298730"
+    ],
+    "limitations": "This is a bounded multi-source audit, not an exhaustive registry. Search rankings can omit listings; Ukrainian-created apps without Ukrainian localization or public origin disclosures can be missed. Missing or non-Ukrainian current provider disclosures do not prove non-Ukrainian origin. Beta-only, web-only, unavailable, and out-of-scope leads are not counted as public iOS tracker listings.",
+    "additionalExistingListingCountryChecks": 36
+  }
 }

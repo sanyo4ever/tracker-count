@@ -1,7 +1,7 @@
 {
   "method": "Official Google Play app detail pages fetched sequentially without authentication. Public SoftwareApplication JSON-LD supplied names, developers, icons and short summaries. Search and related-app links supplied discovery. No ratings, review counts or prices imported.",
   "locale": "en-US",
-  "limitations": "A curated, incomplete catalog. Discovery used eight ranked English Google Play searches with gl=US plus official-domain web searches; it does not enumerate every store listing. Reachability does not guarantee availability in other countries, device compatibility, ongoing maintenance, or the accuracy of publisher feature claims. Ratings, review counts and prices are not imported. Listing names can differ by locale.",
+  "limitations": "Curated, incomplete catalog combining ranked English-US and Ukrainian-UA Play searches, official creator sources, and Ukrainian product directories. Reachability does not guarantee availability in other countries, device compatibility, maintenance, or publisher feature claims. Names can vary by locale. Ratings, review counts, and prices are not imported. Ukrainian origin requires recorded creator, operator, or developer-country evidence rather than language support.",
   "entries": [
     {
       "id": "com.monefy.app.lite",
@@ -11,7 +11,13 @@
       "sourceSummary": "Expense tracker & budgeting: Money & budget planner for your personal finance.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.monefy.app.lite&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.monefy.app.lite&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.cleevio.spendee",
@@ -21,7 +27,13 @@
       "sourceSummary": "Money tracker & expense tracker. Plan budgets, track spending & save money!",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.cleevio.spendee&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.cleevio.spendee&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "mediavision.handwallet",
@@ -31,7 +43,13 @@
       "sourceSummary": "Expense Manager - track spending, expenses, finance & budget. Save money easily",
       "sourceUrl": "https://play.google.com/store/apps/details?id=mediavision.handwallet&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=mediavision.handwallet&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.realbyteapps.moneymanagerfree",
@@ -41,7 +59,13 @@
       "sourceSummary": "The #1 financial planning, expense tracking and personal finance management app!",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "cashbook.cashbook",
@@ -51,7 +75,13 @@
       "sourceSummary": "Simple expense tracker, money manager, and cashbook for daily expenses.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=cashbook.cashbook&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=cashbook.cashbook&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.rammigsoftware.bluecoins",
@@ -61,7 +91,13 @@
       "sourceSummary": "Live freely! Manage your finance, grow your money and budget effortlessly.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.rammigsoftware.bluecoins&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.rammigsoftware.bluecoins&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.wordpress.kuoyhuot.keepr",
@@ -71,7 +107,13 @@
       "sourceSummary": "Personal finance manager: Create budgets, track your spending, and save money",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.wordpress.kuoyhuot.keepr&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.wordpress.kuoyhuot.keepr&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "moneytracker.expensetracker.budgetplanner.spendingtracker",
@@ -81,7 +123,13 @@
       "sourceSummary": "Budget app, Budget planner, Budget tracker, Expense tracker, Spending tracker",
       "sourceUrl": "https://play.google.com/store/apps/details?id=moneytracker.expensetracker.budgetplanner.spendingtracker&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=moneytracker.expensetracker.budgetplanner.spendingtracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "app.pefi",
@@ -91,7 +139,13 @@
       "sourceSummary": "Pefi: Budget App & Money Tracker",
       "sourceUrl": "https://play.google.com/store/apps/details?id=app.pefi&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=app.pefi&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "incomeexpense.incomeexpense",
@@ -101,7 +155,13 @@
       "sourceSummary": "Expense manager app for personal finance, day to day expenses and monthly budget",
       "sourceUrl": "https://play.google.com/store/apps/details?id=incomeexpense.incomeexpense&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=incomeexpense.incomeexpense&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.freeman.moneymanager",
@@ -111,7 +171,13 @@
       "sourceSummary": "Money management made simple. Money manager, cash book and bill organizer.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.freeman.moneymanager&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.freeman.moneymanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.ktwapps.walletmanager",
@@ -121,7 +187,13 @@
       "sourceSummary": "Money management app – track spending, budgets planning & manage your money.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.ktwapps.walletmanager&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.ktwapps.walletmanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.kittysplit",
@@ -131,7 +203,13 @@
       "sourceSummary": "Easy splitting of group expenses. Calculate costs for travel, events and groups.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.kittysplit&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.kittysplit&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.happy.money_manager",
@@ -141,7 +219,13 @@
       "sourceSummary": "Ad-free expense tracker & budget planner. Track spending, bills and savings.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.happy.money_manager&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.happy.money_manager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.raha.app.mymoney.free",
@@ -151,7 +235,13 @@
       "sourceSummary": "Daily Expense Tracker, Personal Finance Manager & Budgeting App - simple & easy.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.droid4you.application.wallet",
@@ -161,7 +251,13 @@
       "sourceSummary": "All-in-one money manager. Organize bills, optimize spending, and grow savings.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.komorebi.kakeibo",
@@ -171,7 +267,13 @@
       "sourceSummary": "Log daily spending with ease. Calendar and charts show where your money goes.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.komorebi.kakeibo&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.komorebi.kakeibo&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.atharva.expensetracker",
@@ -181,7 +283,13 @@
       "sourceSummary": "AI-Powered Expense Manager: Plan how to use every dollar you earn!",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.atharva.expensetracker&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.atharva.expensetracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.bookmark.money",
@@ -191,7 +299,13 @@
       "sourceSummary": "Simple expense tracker, money manager app! Track spending easily, budget smartly",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.bookmark.money&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.bookmark.money&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "ru.innim.my_finance",
@@ -201,7 +315,13 @@
       "sourceSummary": "Money manager: easy and user-friendly app for tracking of your expenses",
       "sourceUrl": "https://play.google.com/store/apps/details?id=ru.innim.my_finance&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=ru.innim.my_finance&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.beyondbudget",
@@ -211,7 +331,13 @@
       "sourceSummary": "Budget planner & expense tracker: bills, debts, savings goals, on phone and web",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.beyondbudget&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.beyondbudget&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.soft.znich.FlowmoPro",
@@ -221,7 +347,13 @@
       "sourceSummary": "Expense tracker & budget app. Forecast your spending and plan ahead.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.soft.znich.FlowmoPro&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.soft.znich.FlowmoPro&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.jc.rollymoneytracker",
@@ -231,7 +363,13 @@
       "sourceSummary": "Expense Tracker & Financial Planner. Track Spending & Savings. Budgeting App.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.jc.rollymoneytracker&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.jc.rollymoneytracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.budget.cloud",
@@ -241,7 +379,13 @@
       "sourceSummary": "Your app to manage expenses, incomes, budget and savings",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.budget.cloud&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.budget.cloud&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.encodemx.gastosdiarios4",
@@ -251,7 +395,13 @@
       "sourceSummary": "Take FULL CONTROL of your FINANCES",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.encodemx.gastosdiarios4&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.encodemx.gastosdiarios4&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.dimakukhta.diploma",
@@ -261,7 +411,13 @@
       "sourceSummary": "Budget manager, an easy and efficient expense and income tracker",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.dimakukhta.diploma&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.dimakukhta.diploma&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.budget.tracker_app",
@@ -271,7 +427,13 @@
       "sourceSummary": "An expense tracker designed for you!",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.budget.tracker_app&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.budget.tracker_app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "app.monee",
@@ -281,7 +443,13 @@
       "sourceSummary": "Simple budget app to track expenses, income and shared finances",
       "sourceUrl": "https://play.google.com/store/apps/details?id=app.monee&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=app.monee&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.fin.plan",
@@ -291,7 +459,28 @@
       "sourceSummary": "Your budgeting app to track spending, manage your monthly budget, and save money",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.fin.plan&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.fin.plan&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": true
+      },
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.fin.plan&hl=en&gl=US"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Budge: Витрати & бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.fin.plan&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
     },
     {
       "id": "com.jojdevx.expense.tracker",
@@ -301,7 +490,36 @@
       "sourceSummary": "Accounting for expenses, budgets, money management, personal finance tracking",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": true
+      },
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker&hl=en&gl=US"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Sumlio: Витрати та Бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ],
+      "previousNames": [
+        {
+          "name": "Mony: Budget & Expense Tracker",
+          "sourceUrl": "https://speka.ua/ratings/top-7-zastosunkiv-dlya-osobistix-finansiv-zamist-rosiiskix-yakimi-vi-koristuvalisya-dosi-v78nqp/amp",
+          "checkedAt": "2026-11-03",
+          "note": "The older Mony article links the same package now titled Sumlio; one catalog entry is retained."
+        }
+      ]
     },
     {
       "id": "com.Splitwise.SplitwiseMobile",
@@ -311,7 +529,13 @@
       "sourceSummary": "Split expenses with friends, roommates, group trips, and more",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "org.pixelrush.moneyiq",
@@ -321,7 +545,13 @@
       "sourceSummary": "Spending tracker, money manager, personal and family finances, debts and budget.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.thebudgetingapp.thebudgetingapp",
@@ -331,7 +561,13 @@
       "sourceSummary": "Budget planner and expense tracker to help manage your personal finance.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.thebudgetingapp.thebudgetingapp&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.thebudgetingapp.thebudgetingapp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.zotiger.accountbook",
@@ -341,7 +577,13 @@
       "sourceSummary": "A simple budget app.Cute UI design,No registration,Local storage,More secure!",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.zotiger.accountbook&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.zotiger.accountbook&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.zoho.expense",
@@ -351,7 +593,13 @@
       "sourceSummary": "Receipt Scanner, Mileage & Spend tracker, Business travel and Expense management",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.zoho.expense&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.zoho.expense&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "splid.teamturtle.com.splid",
@@ -361,7 +609,13 @@
       "sourceSummary": "Perfect for vacations with friends, shared flats, and couples 🏖🏠 💑",
       "sourceUrl": "https://play.google.com/store/apps/details?id=splid.teamturtle.com.splid&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=splid.teamturtle.com.splid&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.tribab.tricount.android",
@@ -371,7 +625,13 @@
       "sourceSummary": "Split group bills, track all expenses & settle up easily for any shared cost",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.tribab.tricount.android&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.tribab.tricount.android&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "cz.destil.settleup",
@@ -381,7 +641,13 @@
       "sourceSummary": "Track expenses with friends easily!",
       "sourceUrl": "https://play.google.com/store/apps/details?id=cz.destil.settleup&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=cz.destil.settleup&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "it.wellcode.balance",
@@ -391,7 +657,13 @@
       "sourceSummary": "The fastest couple’s finance, expenses & bills tracker app.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=it.wellcode.balance&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=it.wellcode.balance&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.monarchmoney.mobile",
@@ -401,7 +673,13 @@
       "sourceSummary": "Spending, Net Worth, and Investment Tracker. Achieve Your Financial Goals.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.monarchmoney.mobile&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.monarchmoney.mobile&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.themoneytool.app",
@@ -411,7 +689,13 @@
       "sourceSummary": "Track spending, build wealth & stay private. No logins or ads.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.themoneytool.app&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.themoneytool.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.everydollar.android",
@@ -421,7 +705,13 @@
       "sourceSummary": "Monthly budgets for any money goal: pay off debt, save money & build wealth.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.everydollar.android&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.everydollar.android&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.ivy.wallet",
@@ -431,7 +721,13 @@
       "sourceSummary": "Personal finance and spending tracker app which helps you manage your money.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.ivy.wallet&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.ivy.wallet&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.easyexpense",
@@ -441,7 +737,13 @@
       "sourceSummary": "Expense tracker with AI receipts smart scan. Manage business expenses as a team.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.easyexpense&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.easyexpense&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.youneedabudget.evergreen.app",
@@ -451,7 +753,13 @@
       "sourceSummary": "Never worry about money again",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.youneedabudget.evergreen.app&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.youneedabudget.evergreen.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.pocketguard.android.app",
@@ -461,7 +769,13 @@
       "sourceSummary": "Budgeting app to track spending, manage income, control expenses and save money",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.pocketguard.android.app&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.pocketguard.android.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.truebill",
@@ -471,7 +785,13 @@
       "sourceSummary": "Manage and cancel subscriptions, lower bills, track expenses, create budgets.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.truebill&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.truebill&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "org.me.mobiexpensifyg",
@@ -481,7 +801,13 @@
       "sourceSummary": "Expenses, travel, invoices, bills, and corporate cards at the speed of chat.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=org.me.mobiexpensifyg&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=org.me.mobiexpensifyg&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.dayspringtech.envelopes",
@@ -491,7 +817,13 @@
       "sourceSummary": "Budget with a purpose. Plan for what’s important. Spend without worry.",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.blodhgard.easybudget",
@@ -501,7 +833,13 @@
       "sourceSummary": "Manage your personal finances and easily track your money, expenses, budget",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget&hl=en&gl=US",
       "verifiedAt": "2026-11-02",
-      "httpStatus": 200
+      "httpStatus": 200,
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.mhriley.spendingtracker",
@@ -517,7 +855,13 @@
         "spending tracker",
         "budget planner",
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.mhriley.spendingtracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.finart",
@@ -533,7 +877,13 @@
         "spending tracker",
         "offline expense tracker",
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.finart&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "pw.ninthfi.myincome",
@@ -547,7 +897,13 @@
       "discoveredQueries": [
         "expense tracker",
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=pw.ninthfi.myincome&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.jtnrdev.expensetrackerapp",
@@ -561,7 +917,13 @@
       "discoveredQueries": [
         "expense tracker",
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.jtnrdev.expensetrackerapp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.helferleinsoftware.expenses",
@@ -574,7 +936,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.helferleinsoftware.expenses&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.colpit.diamondcoming.isavemoney",
@@ -588,7 +956,13 @@
       "discoveredQueries": [
         "spending tracker",
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoney&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "money.manager.expense.tracker.budget.finance.wallet",
@@ -601,7 +975,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "spending tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=money.manager.expense.tracker.budget.finance.wallet&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "ru.zenmoney.androidsub",
@@ -614,7 +994,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "spending tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=ru.zenmoney.androidsub&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "br.com.gerenciadorfinanceiro.controller",
@@ -627,7 +1013,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=br.com.gerenciadorfinanceiro.controller&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.danruddev.budgetum",
@@ -640,6 +1032,27 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.danruddev.budgetum&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": true
+      },
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.danruddev.budgetum&hl=en&gl=US"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Budgetum: облік витрат, бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.danruddev.budgetum&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
       ]
     },
     {
@@ -654,7 +1067,13 @@
       "discoveredQueries": [
         "budget planner",
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.nightowl.spendsmart&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.fleurbudget",
@@ -667,7 +1086,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.fleurbudget&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.colpit.diamondcoming.isavemoneygo",
@@ -680,7 +1105,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoneygo&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.benoitletondor.easybudgetapp",
@@ -693,7 +1124,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.benoitletondor.easybudgetapp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.budgetgoal.mobile",
@@ -706,7 +1143,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.budgetgoal.mobile&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.emmaprod",
@@ -719,7 +1162,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.emmaprod&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "money.budget.planner.tracker",
@@ -733,7 +1182,13 @@
       "discoveredQueries": [
         "budget planner",
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=money.budget.planner.tracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "ajl.budget.finzee",
@@ -746,7 +1201,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=ajl.budget.finzee&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.hastik.money_manager",
@@ -759,7 +1220,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "budget planner"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.hastik.money_manager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.wildducklabs.moneymanager",
@@ -772,7 +1239,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.wildducklabs.moneymanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.glgjing.money.manager.bookkeeping.meow",
@@ -785,7 +1258,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.glgjing.money.manager.bookkeeping.meow&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.moneymanagermobile",
@@ -798,7 +1277,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.moneymanagermobile&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.frmobile.moneymanager",
@@ -811,7 +1296,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.frmobile.moneymanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.hrabarchuk.moneymanager",
@@ -824,6 +1315,27 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.hrabarchuk.moneymanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": true
+      },
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.hrabarchuk.moneymanager&hl=en&gl=US"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Money Manager",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.hrabarchuk.moneymanager&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
       ]
     },
     {
@@ -837,7 +1349,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.officialbrain.money_manager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.moneytrack.android",
@@ -850,7 +1368,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "money manager"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.moneytrack.android&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.simplywise.mobile",
@@ -863,7 +1387,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "wb.receipts",
@@ -876,7 +1406,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=wb.receipts&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.receiptbank.android",
@@ -889,7 +1425,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.receiptbank.android&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "zazmic.at.invoice_parser",
@@ -902,7 +1444,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=zazmic.at.invoice_parser&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.receipticus.receiptix",
@@ -915,7 +1463,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.receipticus.receiptix&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.valorbyte.sparkreceipt",
@@ -928,7 +1482,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.valorbyte.sparkreceipt&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "saldo.receiptscanner.app",
@@ -941,6 +1501,28 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=saldo.receiptscanner.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      },
+      "ukrainianOrigin": {
+        "basis": "Official Play identifies publisher Saldo Apps. A founder interview identifies Saldo Apps as a Ukrainian company and describes its Ukrainian founders and product teams.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=saldo.receiptscanner.app",
+          "https://dev.ua/en/news/yak-ukrainets-didzhytalizuie-malyi-ta-serednii-biznes-ssha-azii-i-ukrainy"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Receipt Scanner by Saldo Apps",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=saldo.receiptscanner.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
       ]
     },
     {
@@ -954,7 +1536,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.foreceipt.android.cloud&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.iqboxyinc.iqboxy",
@@ -967,7 +1555,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.fluxai.smartreceipt",
@@ -980,7 +1574,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.fluxai.smartreceipt&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "it.knowledgeworks.bustaexpenses",
@@ -994,7 +1594,13 @@
       "discoveredQueries": [
         "receipt expenses"
       ],
-      "relevanceNote": "Official about text confirms expense receipt records, receipt amount extraction, personal and business filtering, and CSV/PDF expense exports."
+      "relevanceNote": "Official about text confirms expense receipt records, receipt amount extraction, personal and business filtering, and CSV/PDF expense exports.",
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=it.knowledgeworks.bustaexpenses&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.myreceiptscanner.app",
@@ -1007,6 +1613,27 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.myreceiptscanner.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": true
+      },
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.myreceiptscanner.app&hl=en&gl=US"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Receipt Scanner: Expense Log",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.myreceiptscanner.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
       ]
     },
     {
@@ -1020,7 +1647,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.receiptscannr.receiptscannr&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "grocery.tracker.pro",
@@ -1033,7 +1666,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=grocery.tracker.pro&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.jsmar.receiptapp",
@@ -1046,7 +1685,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.jsmar.receiptapp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.app.categorizr",
@@ -1059,7 +1704,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.app.categorizr&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.app.receipt_sync",
@@ -1072,7 +1723,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.app.receipt_sync&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.receni.mobile",
@@ -1085,7 +1742,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.receni.mobile&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "space.inhub.receipt",
@@ -1098,7 +1761,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=space.inhub.receipt&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.soloexpense",
@@ -1111,7 +1780,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "receipt expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.soloexpense&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.app.splytpay",
@@ -1124,7 +1799,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.app.splytpay&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.splital.project",
@@ -1137,7 +1818,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.splital.project&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "io.cordova.splitpal",
@@ -1150,7 +1837,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=io.cordova.splitpal&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.fiberapps.billsplit",
@@ -1163,7 +1856,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.fiberapps.billsplit&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.bsquare.splitkaro",
@@ -1176,7 +1875,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.bsquare.splitkaro&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.bitbox.spliteven",
@@ -1189,7 +1894,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.bitbox.spliteven&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "ai.synergon.hisab",
@@ -1202,7 +1913,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=ai.synergon.hisab&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "isplit.settleup.group.bills",
@@ -1215,7 +1932,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=isplit.settleup.group.bills&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.vuxbyte.SplitMyExpenses",
@@ -1228,7 +1951,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.vuxbyte.SplitMyExpenses&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.splitceipt",
@@ -1241,7 +1970,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.splitceipt&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.satya.splitwise",
@@ -1254,7 +1989,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.satya.splitwise&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.expensecount.groupExpense",
@@ -1268,7 +2009,13 @@
       "discoveredQueries": [
         "bill split",
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.expensecount.groupExpense&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.bytelo.tally",
@@ -1281,7 +2028,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.bytelo.tally&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.vesas.hesap",
@@ -1294,7 +2047,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.vesas.hesap&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.ARGameDevUK.TripSplit",
@@ -1307,7 +2066,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.ARGameDevUK.TripSplit&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.splithappens.split_happens",
@@ -1320,7 +2085,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.splithappens.split_happens&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.splitease.expense",
@@ -1333,7 +2104,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.splitease.expense&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.thegreatdanton.moneysplit.money_split",
@@ -1346,7 +2123,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.thegreatdanton.moneysplit.money_split&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "in.tappstudio.splitup",
@@ -1359,7 +2142,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=in.tappstudio.splitup&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "app.splitro",
@@ -1372,7 +2161,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=app.splitro&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "fun.payupp.app",
@@ -1385,7 +2180,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "bill split"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=fun.payupp.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.anotherwhy.zero",
@@ -1398,7 +2199,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.anotherwhy.zero&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "studio.veerdev.offlineexpensetracker",
@@ -1411,7 +2218,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=studio.veerdev.offlineexpensetracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.aistudio.dailysalesbook.mskrz",
@@ -1425,7 +2238,13 @@
       "discoveredQueries": [
         "offline expense tracker"
       ],
-      "relevanceNote": "Official about text separately confirms recording and categorizing daily business expenses, income, and customer payments."
+      "relevanceNote": "Official about text separately confirms recording and categorizing daily business expenses, income, and customer payments.",
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.aistudio.dailysalesbook.mskrz&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.aistudio.snaptax.x9kp",
@@ -1438,7 +2257,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.aistudio.snaptax.x9kp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.creamsoft.whereismymoney",
@@ -1452,7 +2277,13 @@
       "discoveredQueries": [
         "offline expense tracker",
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.creamsoft.whereismymoney&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.nicoqueijo.android.moneytracker",
@@ -1465,7 +2296,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.nicoqueijo.android.moneytracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.binaryscript.offlinecashbook",
@@ -1478,7 +2315,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.binaryscript.offlinecashbook&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.aravindsrinivas.pocketclear",
@@ -1491,7 +2334,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.aravindsrinivas.pocketclear&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.havabee.pocket",
@@ -1504,7 +2353,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.havabee.pocket&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.fledger.expensemanager",
@@ -1517,7 +2372,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.fledger.expensemanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "expense.tracker.income.receipt.budget",
@@ -1530,7 +2391,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "offline expense tracker"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=expense.tracker.income.receipt.budget&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "tech.jonas.travelbudget",
@@ -1543,7 +2410,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=tech.jonas.travelbudget&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.trabee.exnote.travel",
@@ -1556,7 +2429,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.trabee.exnote.travel&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.tripbudget.tripbudgetapp",
@@ -1569,7 +2448,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.tripbudget.tripbudgetapp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "org.marbot.travel.money.free",
@@ -1582,7 +2467,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=org.marbot.travel.money.free&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.travelbank.app",
@@ -1595,7 +2486,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.travelbank.app&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.reciptix.spentrip",
@@ -1608,7 +2505,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.reciptix.spentrip&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.expenseondemand.soloexpenses",
@@ -1621,7 +2524,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.expenseondemand.soloexpenses&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.kaushikbaruah.quickexpensemanagerfree",
@@ -1634,7 +2543,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.kaushikbaruah.quickexpensemanagerfree&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.ventisize.handtrip",
@@ -1647,7 +2562,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.ventisize.handtrip&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.trueelephant.trexpense.free",
@@ -1660,7 +2581,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.trueelephant.trexpense.free&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.sahoo.tourexpensemanager",
@@ -1673,7 +2600,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "travel expenses"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.sahoo.tourexpensemanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.ehmtech.budget",
@@ -1686,7 +2619,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.ehmtech.budget&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.hoverminds.trackex",
@@ -1699,7 +2638,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.hoverminds.trackex&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.coreorbyte.aiexpensemanager",
@@ -1712,7 +2657,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.coreorbyte.aiexpensemanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.solution_on_it.expense_manager",
@@ -1725,7 +2676,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.solution_on_it.expense_manager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.middark.expense_book",
@@ -1738,7 +2695,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.middark.expense_book&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.pld3v.expensetrackerapp",
@@ -1751,7 +2714,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.pld3v.expensetrackerapp&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.multisoftware.expensetracker",
@@ -1764,7 +2733,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.multisoftware.expensetracker&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.coreline.budgetlens",
@@ -1777,7 +2752,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.coreline.budgetlens&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "com.finance.expanager",
@@ -1790,7 +2771,13 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
-      ]
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.finance.expanager&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
     },
     {
       "id": "net.vertexapps.spendwise",
@@ -1803,6 +2790,678 @@
       "httpStatus": 200,
       "discoveredQueries": [
         "Official-domain web search: expense tracker budget"
+      ],
+      "developerCountryReview": {
+        "checkedAt": "2026-11-03",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=net.vertexapps.spendwise&hl=en&gl=US",
+        "developerSectionPresent": true,
+        "ukraineListed": false
+      }
+    },
+    {
+      "id": "com.saldo.finance",
+      "name": "Saldo - Finance Management App",
+      "developer": "Saldo Apps",
+      "iconUrl": "https://play-lh.googleusercontent.com/-P9UbjX5_wfyX8LVbYxfm4UCjAWsi9WD4JTIvd0t_ZPzd63DraJE51OXI4bHVYT7pvzQRJkoIUQAaZFHIPIt",
+      "sourceSummary": "Income and expense manager & Personal, business, and couple budget planner",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.saldo.finance&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "United States"
+      ],
+      "ukraineListed": false,
+      "ukrainianOrigin": {
+        "basis": "The official Ukrainian Google Play description explicitly says the app was made in Ukraine; Rubryka also identifies the developer as Ukrainian.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.saldo.finance&hl=uk",
+          "https://rubryka.com/article/dlya-kontrolyu-vytrat/"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Saldo: Облік доходів і витрат",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.saldo.finance&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.kindgeek.wisewallet",
+      "name": "WiseWallet – Expense Tracker",
+      "developer": "WiseWallet",
+      "iconUrl": "https://play-lh.googleusercontent.com/VtJ7flkb9ug_vrNrmFwmAPi8SJ7ueHpcJlGst65lWxdmSS4sdtAN1L6zv-_S_N5lpQ50_sPA9zLNP4kTu1jRWg",
+      "sourceSummary": "Personal Finance Manager — payment and cash flow. Save money with split bills",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.kindgeek.wisewallet&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.kindgeek.wisewallet&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "WiseWallet – Трекер витрат",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.kindgeek.wisewallet&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "gryn.dev.myfin",
+      "name": "MyFin: expense tracker",
+      "developer": "Dmytro Gryn",
+      "iconUrl": "https://play-lh.googleusercontent.com/NmJMxUqas4QsnFs7jV91y9wbUMt2mlCUrQ9W0x89X8rhrKjt5Y1nAM2Mn66vFL5Q42HtRMk-pWmKNdZj9VRuAA",
+      "sourceSummary": "Manage your finances easily and efficiently with MyFin!",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=gryn.dev.myfin&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=gryn.dev.myfin&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "MyFin: бюджет і фінанси",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=gryn.dev.myfin&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "ivan.app.moneySpend.money_spend_app",
+      "name": "Spendient: Expense Tracker",
+      "developer": "Spendient",
+      "iconUrl": "https://play-lh.googleusercontent.com/eT-8g7ou0P0tFW3ziRh0tPqZfEVO0UaJkvKWEcZL3j2EHGM0u8bN3Hh5XATOb_5UiXRkXcNa2xdggqwrSJjKGqc",
+      "sourceSummary": "Manage your finances and easily track your money, budget",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=ivan.app.moneySpend.money_spend_app&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=ivan.app.moneySpend.money_spend_app&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Витрати та доходи - Spendient",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=ivan.app.moneySpend.money_spend_app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.handy.coinflow",
+      "name": "Coin Flow: Expense Manager",
+      "developer": "Handy Soft team",
+      "iconUrl": "https://play-lh.googleusercontent.com/1_IWsQ8Hey9u4g5pjCvkYVy1EDRadJzbzzMo1xy7A6d_dY_qDqC91dlRv6kV-jxQQYjdQ0_ZfdcT9vD7bnyKb_k",
+      "sourceSummary": "Finance income expense tracker, family personal budget, money bills organizer",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.handy.coinflow&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.handy.coinflow&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Coin Flow: Витрати і доходи",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.handy.coinflow&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "budjet_client.twa",
+      "name": "Right Budget - Money Tracker",
+      "developer": "TrueAppsCompany",
+      "iconUrl": "https://play-lh.googleusercontent.com/tD15uXwaNZ6R7mP7SolBO9OaX-RAKrN3oM9OqZ30UWB2bOlR61VBmWVi5Ig-4OAlA2aARzsfgtgujEH5pU1D8WA",
+      "sourceSummary": "Right Budget App will help you in planning, controlling and optimizing expenses",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=budjet_client.twa&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=budjet_client.twa&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Right Budget - облік фінансів",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=budjet_client.twa&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.vbrazhnik.obleek",
+      "name": "obleek: expense tracker",
+      "developer": "VBrazhnik",
+      "iconUrl": "https://play-lh.googleusercontent.com/_fdCSHAbcvpKnS6HEoE24u5_ZyX0uHJ63BqrGQZ9LF1UjIGCegyBfwCd-Gowm2EQIMl4piu2nPzT0DJbR_gRsXo",
+      "sourceSummary": "Detects payments from your bank notifications. Budget, debts, 160+ currencies.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.vbrazhnik.obleek&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.vbrazhnik.obleek&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "obleek: трекер витрат",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.vbrazhnik.obleek&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.dimfin",
+      "name": "DimFin: Smart Budget Tracker",
+      "developer": "DimFin",
+      "iconUrl": "https://play-lh.googleusercontent.com/6vez2s9XyYIvtksKuq0T67iNfMnoDRLoKqAbJ_E_T4eGwO7dLAFN8iuhZvIgHHidyahbKKUW36Crcp2237XN",
+      "sourceSummary": "Smart offline budget & expense tracker with savings goals and receipt scanner.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.dimfin&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.dimfin&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "DimFin: Smart Budget Tracker",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.dimfin&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "online.finmap.my",
+      "name": "Finmap",
+      "developer": "Finmap development",
+      "iconUrl": "https://play-lh.googleusercontent.com/qY9zNk4DRZn3zAddj7U73O4cGidK21sXwr4gs4ij2yHSlLLPQ5vkl-AstAJV4GPKLFrqElUEg1cOPAk4ma9J",
+      "sourceSummary": "Effortless Financial Management at Your Fingertips",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=online.finmap.my&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "United Kingdom"
+      ],
+      "ukraineListed": false,
+      "ukrainianOrigin": {
+        "basis": "Finmap co-founder and CEO explicitly describes Finmap as Ukrainian in its official company blog. The UK registration shown on Play does not replace this creator-origin evidence.",
+        "sourceUrls": [
+          "https://finmap.online/ua/blog/google-invested-in-finmap",
+          "https://play.google.com/store/apps/details?id=online.finmap.my"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Finmap",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=online.finmap.my&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.ua.homemoney",
+      "name": "HomeMoney",
+      "developer": "maxfin",
+      "iconUrl": "https://play-lh.googleusercontent.com/l_bNmxFYYDHGThUP0c75DxXVXZMNjFlwor1SSGJFn5SDOdcmyS8_cgG32xpmw8DiiJJY7SCkP1yg_zMaDnro_g",
+      "sourceSummary": "HomeMoney budgeting and money tracking online service",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ua.homemoney&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.ua.homemoney&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Homemoney",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.ua.homemoney&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.groshopys.app",
+      "name": "MoneyScript: Budget & Expenses",
+      "developer": "Anna Niemtseva",
+      "iconUrl": "https://play-lh.googleusercontent.com/zQKz-v2v5ij8-2sHq9hVrEcq3DECM-L22A4b4rD50U67yg0IpTEDIybNT_hHhQF0xJ-zkJWVucsl49gXIauPBg",
+      "sourceSummary": "How much money is yours, how much is credit, and will it last all month",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.groshopys.app&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.groshopys.app&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Грошопис: облік витрат, бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.groshopys.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.buddypay.app",
+      "name": "BuddyPay - Split Expenses",
+      "developer": "Mykhailo Kolosov",
+      "iconUrl": "https://play-lh.googleusercontent.com/I6fbAz_Nd4qvDqNZ8hTLkT7matoUwGbMVJEmQ5EBFTwSxNsXq22FF8fdqKPsvYRoygIzL-xniUFO7X-0_MyF0Q",
+      "sourceSummary": "Track shared expenses with friends, roommates, and groups.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.buddypay.app&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.buddypay.app&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "BuddyPay - трекінг витрат",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.buddypay.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.fineye",
+      "name": "FinEye - Money & Budget",
+      "developer": "Vladyslav Kaida",
+      "iconUrl": "https://play-lh.googleusercontent.com/kiv9zFZzcHZ6EJvLpMGo1z1X5HCKQSeqie-PCNpVelXT1df7eZZGGBi-6Qyq7apMSOLbLxMkmndJsVJ88fDNXGQ",
+      "sourceSummary": "Expense tracker for spending, investing, and net worth in one app.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.fineye&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.fineye&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "FinEye - облік і бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.fineye&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.revup.app",
+      "name": "RevUp: Car Maintenance Tracker",
+      "developer": "RevUp",
+      "iconUrl": "https://play-lh.googleusercontent.com/TJXWpC1jXn3-f1mD2A_RxLOtfRi0uqJW4mcaSSnKfPBIwAemffZWbWUyqapzoGZJmQqJqe6zCrFi9FCZ49wIB0s",
+      "sourceSummary": "Fuel consumption, car maintenance and repairs, expense log, and service manual",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.revup.app&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.revup.app&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "RevUp — облік витрат на авто",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.revup.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.midni.midniapp",
+      "name": "Midni: облік витрат і бюджет",
+      "developer": "Midni LLC",
+      "iconUrl": "https://play-lh.googleusercontent.com/d25aq-U0huZkUBEJHjW19HemwvROavEtY4hi9wks9mrFY8SSeM76ZkDG6ONka6Jb3EbcvT8E5Qk1n5_UPE8x",
+      "sourceSummary": "Cost accounting and budget: monobank, bank statements, family, individual entrepreneur taxes",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.midni.midniapp&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.midni.midniapp&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Midni: облік витрат і бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.midni.midniapp&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.flexvel.monetix",
+      "name": "Monetix: Expense & Budget",
+      "developer": "FlexVel",
+      "iconUrl": "https://play-lh.googleusercontent.com/bH1QjYJrkIelD_CT04mRcFNP-C84drHXanKErItZrIsgcMIXP1pbpHIFQkQ69qsCdWBHnKMal4yFsqmdckDtOA",
+      "sourceSummary": "Track expenses, plan budgets, and manage money with an expense tracker.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.flexvel.monetix&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.flexvel.monetix&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Monetix: Облік витрат і бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.flexvel.monetix&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.blogspot.accountingutilities",
+      "name": "HomeBills — Utility Tracker",
+      "developer": "Artem Krut",
+      "iconUrl": "https://play-lh.googleusercontent.com/mnrZcXYA51xLB1Q9Hfwu5gmPLTSCw08Es_vEAuCBuxliE150B7ZLBFBt52hcmNQFjI--ycRVZhsPcZlwK9s5zw",
+      "sourceSummary": "Track utility bills, meter readings, and monthly expenses",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.blogspot.accountingutilities&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.blogspot.accountingutilities&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Комуналочка — облік витрат",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.blogspot.accountingutilities&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "net.purplewallet.app",
+      "name": "Purple Wallet: Expense Tracker",
+      "developer": "Purple Wallet",
+      "iconUrl": "https://play-lh.googleusercontent.com/5PeUPIfV7RPfKUWyvPev9rZ-XAyA7AJ8MwVRC53yukJGMwkPOU5bZXOiotMaw-UDz1rn0UQXhzwCPQgpNs0KTek",
+      "sourceSummary": "Track expenses and income, plan budgets, sync Monobank, meet AI assistant Finn.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=net.purplewallet.app&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=net.purplewallet.app&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Purple Wallet: облік витрат",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=net.purplewallet.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.gubadoo",
+      "name": "gubadoo: Renovation Accounting",
+      "developer": "gubadoo",
+      "iconUrl": "https://play-lh.googleusercontent.com/wQg5Pcjh8ndqq0_uw8wJHhds4KRqG55JWaL98rQRzFhnqoSVO0XVWU-sL5qmg-2gWN99Zh_sz1qhUBfJ88XkYQ",
+      "sourceSummary": "Application for accounting of finances during repair and construction.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gubadoo&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.gubadoo&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "gubadoo Облік і Фінанси Ремонт",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.gubadoo&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.fealthy.app",
+      "name": "Fealthy",
+      "developer": "Fealthy",
+      "iconUrl": "https://play-lh.googleusercontent.com/P4bbasOJP2eVH5t7DbKOBt11dikuk_ZWV5TnKSRqSIrKGr7z0jJQX4aNnjRfNNUtuNcwOYsenvVU_0ZzuJ47CA0",
+      "sourceSummary": "Manage your finances wisely",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.fealthy.app&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.fealthy.app&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Fealthy",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.fealthy.app&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "com.romanchuk.o",
+      "name": "Oxpense: Daily Budget Tracker",
+      "developer": "Romanchuk",
+      "iconUrl": "https://play-lh.googleusercontent.com/iH5f7CirrfdKTUzkvqs5RDvnLJxXr4voFdyKYFfrdYv8RnzlhzLvlYYkXcBXIDQwGxcPpPGXcY5ieOWEorQ0ZWg",
+      "sourceSummary": "Simple budget and expense tracker that changes financial habits and overspending",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.romanchuk.o&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Ukraine"
+      ],
+      "ukraineListed": true,
+      "ukrainianOrigin": {
+        "basis": "Official Google Play developer profile lists Ukraine as the developer country.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.romanchuk.o&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Oxpense: бюджет і витрати дня",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.romanchuk.o&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ],
+      "previousNames": [
+        {
+          "name": "O - Daily Budget & Expenses",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.romanchuk.o",
+          "checkedAt": "2026-11-03",
+          "note": "Official indexed listing uses O; fresh en-UA public metadata uses Oxpense. Both identify the same package."
+        }
+      ]
+    },
+    {
+      "id": "com.keepcoin",
+      "name": "Kaspo: Budget Expense Tracker",
+      "developer": "MKsln",
+      "iconUrl": "https://play-lh.googleusercontent.com/-B9AJKBlklB5TCh6qezaMURxzeBUgLjCFNYJmCZnSf_MZSzi1SaZ_lyPfLOOH1htr0DoeAnMlDiVV9EfirOo",
+      "sourceSummary": "Log spending by voice, receipt scan, or a few taps. Any currency, on your phone.",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.keepcoin&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "developerCountriesObserved": [
+        "Poland"
+      ],
+      "ukraineListed": false,
+      "localizedNames": [
+        {
+          "name": "Kaspo: Трекер витрат і бюджет",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.keepcoin&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
+      ],
+      "ukrainianOriginReview": {
+        "status": "unresolved",
+        "basis": "Official Play developer country is Poland; no explicit Ukrainian creator-origin evidence established. Included as a general expense tracker without Ukrainian-made tag.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.keepcoin&hl=en&gl=UA"
+        ],
+        "checkedAt": "2026-11-03"
+      }
+    },
+    {
+      "id": "com.monohroshi",
+      "name": "Monohroshi - Expenses & Income",
+      "developer": "LYTVYN ROSTYSLAV",
+      "iconUrl": "https://play-lh.googleusercontent.com/VWC23DLx5Pb827swQDvVsLWJuQHhgmQIby-oMzPx524hUzhFJxZel3VYq7K0647bE9KyyxGWH2sf7d2HTB-K",
+      "sourceSummary": "Shared & Personal Finances",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.monohroshi&hl=en&gl=UA",
+      "verifiedAt": "2026-11-03",
+      "httpStatus": 200,
+      "ukrainianOrigin": {
+        "basis": "Official service terms identify the operator as based in Ukraine.",
+        "sourceUrls": [
+          "https://app.monohroshi.com/terms",
+          "https://app.monohroshi.com/"
+        ],
+        "checkedAt": "2026-11-03"
+      },
+      "localizedNames": [
+        {
+          "name": "Monohroshi - Витрати та Доходи",
+          "locale": "uk-UA",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.monohroshi&hl=uk&gl=UA",
+          "checkedAt": "2026-11-03"
+        }
       ]
     }
   ],
@@ -1810,8 +3469,8 @@
   "lastExpandedAt": "2026-11-03",
   "verificationDates": {
     "originalEntries": "2026-11-02",
-    "newEntries": "2026-11-03",
-    "note": "Only the 99 new additions were verified in this expansion. The original 50 entries were not rechecked."
+    "laterEntries": "2026-11-03",
+    "note": "The original 50 catalog metadata records retain November 2 dates; later additions are dated November 3. Developer-origin reviews and localized-title checks are dated separately and do not rewrite original listing verification dates."
   },
   "discoveryRuns": [
     {
@@ -1887,5 +3546,321 @@
       ],
       "evidence": "The Play Lichy search returned unrelated apps. The official developer page listed Rudolph: Bedtime Stories, Skrynia: bilingual stories, CatCoach - Train your cat!, and Rudolph: Coloring book, with no Lichy listing."
     }
-  ]
+  ],
+  "ukrainianAudit": {
+    "checkedAt": "2026-11-03",
+    "scope": "Ukrainian-created expense, budget, shared-cost, business-expense, vehicle-cost and household-utility expense trackers with public Google Play listings.",
+    "method": [
+      "Reviewed country sections of all 149 existing official Play listings; retained only coarse country evidence, not personal addresses.",
+      "Ran four Ukrainian-language Play searches in the Ukraine storefront and reviewed all 53 returned candidate identities, then checked 39 new leads from search and source roundups.",
+      "Cross-checked Ukrainian product directories, DOU creator announcements, Rubryka, Kosht, SPEKA, official creator sites and company statements.",
+      "Added official Ukrainian listing titles as aliases and matched package IDs across rebrands. A Ukrainian name, interface or storefront alone did not qualify an app."
+    ],
+    "existingDeveloperProfilesReviewed": 149,
+    "existingExplicitUkraineProfiles": 5,
+    "nativeSearches": [
+      {
+        "query": "облік витрат",
+        "locale": "uk-UA",
+        "sourceUrl": "https://play.google.com/store/search?q=%D0%BE%D0%B1%D0%BB%D1%96%D0%BA+%D0%B2%D0%B8%D1%82%D1%80%D0%B0%D1%82&c=apps&hl=uk&gl=UA"
+      },
+      {
+        "query": "сімейний бюджет",
+        "locale": "uk-UA",
+        "sourceUrl": "https://play.google.com/store/search?q=%D1%81%D1%96%D0%BC%D0%B5%D0%B9%D0%BD%D0%B8%D0%B9+%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&c=apps&hl=uk&gl=UA"
+      },
+      {
+        "query": "контроль фінансів",
+        "locale": "uk-UA",
+        "sourceUrl": "https://play.google.com/store/search?q=%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C+%D1%84%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D1%96%D0%B2&c=apps&hl=uk&gl=UA"
+      },
+      {
+        "query": "український бюджет",
+        "locale": "uk-UA",
+        "sourceUrl": "https://play.google.com/store/search?q=%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&c=apps&hl=uk&gl=UA"
+      }
+    ],
+    "nativeSearchCandidateCount": 53,
+    "newGeneralCatalogEntries": 23,
+    "newUkrainianOriginEntries": 22,
+    "totalTagged": 28,
+    "listingDates": "Existing catalog metadata and verifiedAt dates were preserved. Origin evidence and localized-title checks have their own 2026-11-03 dates. New entries were verified on 2026-11-03.",
+    "limitations": "Broad multi-source audit, not an exhaustive registry. Store search rankings omit small or new apps; some creators publish abroad. Absence of Ukraine in a developer profile is not proof of non-Ukrainian origin. Native releases, beta builds, web apps and delisted listings are kept separate.",
+    "sourceUrls": [
+      "https://rubryka.com/article/dlya-kontrolyu-vytrat/",
+      "https://kosht.media/ukrainski-zastosunky-dlia-obliku-finansiv-desiatok-na-vybir-ale-z-synkhronizatsiieiu-vse-sumno/",
+      "https://speka.ua/business/ukrayinski-zastosunki-dlya-obliku-finansiv-oglyad-instrumentiv-po3q14",
+      "https://osyo.app/product/buddypay",
+      "https://osyo.app/product/purple-wallet",
+      "https://dou.ua/forums/topic/60734/",
+      "https://dou.ua/forums/topic/61702/",
+      "https://tykyiv.com/news/ukrayinets-stvoriv-zastosunok-shcho-rakhuie-vitrati-z-usikh-kartok-iak-vin-pratsiuie/",
+      "https://app.monohroshi.com/terms"
+    ],
+    "namedDispositions": [
+      {
+        "name": "Mony",
+        "status": "same-package-rebrand",
+        "catalogId": "com.jojdevx.expense.tracker",
+        "note": "Now Sumlio; added historical aliases instead of duplicating."
+      },
+      {
+        "name": "O",
+        "status": "same-package-rebrand",
+        "catalogId": "com.romanchuk.o",
+        "note": "Fresh listing metadata now says Oxpense; original O title is searchable."
+      },
+      {
+        "name": "Casherwise",
+        "status": "origin-not-established",
+        "catalogId": "com.dimakukhta.diploma",
+        "note": "Official developer profile says Belarus; no Ukrainian-made tag.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.dimakukhta.diploma&hl=uk"
+        ]
+      },
+      {
+        "name": "Kaspo",
+        "status": "origin-unresolved",
+        "catalogId": "com.keepcoin",
+        "note": "Live expense tracker added without origin tag; Play developer country is Poland."
+      },
+      {
+        "name": "Money Manager by Sierra",
+        "status": "unavailable-listing",
+        "note": "Older Kosht roundup links com.sierra.moneymanager; direct official Play request returned HTTP 404.",
+        "sourceUrls": [
+          "https://play.google.com/store/apps/details?id=com.sierra.moneymanager"
+        ]
+      },
+      {
+        "name": "MoneyKeeper",
+        "status": "android-not-released-on-official-site",
+        "note": "Official site labels Google Play coming soon. No Android entry added.",
+        "sourceUrls": [
+          "https://www.moneykeeper.com/ru"
+        ]
+      },
+      {
+        "name": "Pickapocket",
+        "status": "public-play-listing-unverified",
+        "note": "Creator reporting links a Firebase beta; no matching public Play listing verified.",
+        "sourceUrls": [
+          "https://dev.ua/news/pickapocket-1753794791"
+        ]
+      },
+      {
+        "name": "BudgetFamily",
+        "status": "telegram-mini-app",
+        "note": "Directory explicitly describes a Telegram Mini App, not a separately installed store app.",
+        "sourceUrls": [
+          "https://osyo.app/product/budgetfamily"
+        ]
+      },
+      {
+        "name": "Expensa",
+        "status": "ios-only-in-checked-directory",
+        "note": "Checked source lists only iOS; no matching Android listing verified.",
+        "sourceUrls": [
+          "https://osyo.app/product/expensa"
+        ]
+      },
+      {
+        "name": "STATOK",
+        "status": "android-unverified",
+        "note": "Directory lead and official-domain search did not yield a verified Android app listing."
+      },
+      {
+        "name": "WalletApp",
+        "status": "ambiguous-unverified-ukrainian-product",
+        "note": "No specific Ukrainian-created expense tracker identity established; similarly named card-vault and foreign budget apps were not relabeled."
+      },
+      {
+        "name": "Monohroshi",
+        "status": "added-verified-live-android",
+        "catalogId": "com.monohroshi",
+        "note": "Official creator site links this exact Play package; live public listing returned HTTP 200."
+      }
+    ],
+    "otherCandidatesReviewed": [
+      {
+        "id": "app.web.moneydiary",
+        "name": "MoneyBook: Expense Tracker App",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=app.web.moneydiary&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Vietnam"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.gebril.moneytracker",
+        "name": "Money Tracker: Expense Manager",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.gebril.moneytracker&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.annapiekarz.monivo",
+        "name": "Expense Tracker - Monivo",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.annapiekarz.monivo&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Poland"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.lowkeynova.fino",
+        "name": "Fino: Expense Tracker & Budget",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.lowkeynova.fino&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "expense.tracker.budget.ai",
+        "name": "Expense tracker: Budget AI",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=expense.tracker.budget.ai&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.budgeting365.app",
+        "name": "Budget Lock: Expense Tracker",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.budgeting365.app&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "India"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "app.vinztech.budgetit",
+        "name": "Expense Tracker App - BudgetIt",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=app.vinztech.budgetit&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "India"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.framedata.expensetracker",
+        "name": "Drift: Budget Expense Tracker",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.framedata.expensetracker&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "biz.cloudex.android.expense_tracker_pro",
+        "name": "Expense Tracker Pro - Budget",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=biz.cloudex.android.expense_tracker_pro&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.simpleacc",
+        "name": "Family Budget: Expense Tracker",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.simpleacc&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Spain"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "hk.moneon",
+        "name": "Moneon – Budget & Expenses",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=hk.moneon&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.onetwoapps.mybudgetbookpro",
+        "name": "My Budget Book Pro",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.onetwoapps.mybudgetbookpro&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Germany"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.onetwoapps.mh",
+        "name": "My Budget Book",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.onetwoapps.mh&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Germany"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.mybudgety.budgety",
+        "name": "Budgety",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.mybudgety.budgety&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.disrapp.coinkeeper3",
+        "name": "CoinKeeper — expense tracker",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.disrapp.coinkeeper3&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Russia"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "in.usefulapp.timelybills",
+        "name": "Bill Payment Reminder, Budgets",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=in.usefulapp.timelybills&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "India"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.financepro",
+        "name": "Finance Pro: Expense control",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.financepro&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.drossoft.myaccountsandexpenses",
+        "name": "My Accounts and Expenses",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.drossoft.myaccountsandexpenses&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Spain"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.bizce.accountbook",
+        "name": "Account Book - Money Manager",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.bizce.accountbook&hl=en&gl=UA",
+        "developerCountriesObserved": [],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "com.finperssaver",
+        "name": "Expense Tracker - FinancePM",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.finperssaver&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Belarus"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      },
+      {
+        "id": "apps.cradle.familybudget",
+        "name": "Бюджет 2.0",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=apps.cradle.familybudget&hl=en&gl=UA",
+        "developerCountriesObserved": [
+          "Russia"
+        ],
+        "disposition": "Not added during origin audit; Ukrainian origin not established. Localization alone is insufficient."
+      }
+    ],
+    "failures": [
+      {
+        "id": "com.sierra.moneymanager",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.sierra.moneymanager&hl=en&gl=UA",
+        "error": "HTTP 404"
+      }
+    ]
+  }
 }

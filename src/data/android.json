@@ -101,6 +101,24 @@
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "com.buddypay.app",
+    "name": "BuddyPay - Split Expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.buddypay.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/I6fbAz_Nd4qvDqNZ8hTLkT7matoUwGbMVJEmQ5EBFTwSxNsXq22FF8fdqKPsvYRoygIzL-xniUFO7X-0_MyF0Q",
+    "developer": "Mykhailo Kolosov",
+    "tags": [
+      "Shared expenses",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks shared costs and balances for friends, roommates, and groups.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "BuddyPay - трекінг витрат"
+    ]
+  },
+  {
     "id": "com.fin.plan",
     "name": "Budge・Savings & Budget Planner",
     "platform": "android",
@@ -109,10 +127,14 @@
     "developer": "Vladimir Chernysh",
     "tags": [
       "Budgeting",
-      "Expenses"
+      "Expenses",
+      "Ukrainian-made"
     ],
     "description": "Tracks spending and plans monthly budgets and savings.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-02",
+    "aliases": [
+      "Budge: Витрати & бюджет"
+    ]
   },
   {
     "id": "com.ehmtech.budget",
@@ -266,10 +288,14 @@
     "developer": "Danylo Rudenko",
     "tags": [
       "Budgeting",
-      "Expenses"
+      "Expenses",
+      "Ukrainian-made"
     ],
     "description": "Plans monthly or paycheck budgets and tracks expenses and bills.",
-    "verifiedAt": "2026-11-03"
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Budgetum: облік витрат, бюджет"
+    ]
   },
   {
     "id": "cashbook.cashbook",
@@ -327,6 +353,25 @@
     "verifiedAt": "2026-11-03"
   },
   {
+    "id": "com.handy.coinflow",
+    "name": "Coin Flow: Expense Manager",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.handy.coinflow",
+    "iconUrl": "https://play-lh.googleusercontent.com/1_IWsQ8Hey9u4g5pjCvkYVy1EDRadJzbzzMo1xy7A6d_dY_qDqC91dlRv6kV-jxQQYjdQ0_ZfdcT9vD7bnyKb_k",
+    "developer": "Handy Soft team",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Records income and expenses and organizes personal and family budgets.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Coin Flow: Витрати і доходи"
+    ]
+  },
+  {
     "id": "com.budget.cloud",
     "name": "Daily Expense — My Budget",
     "platform": "android",
@@ -366,6 +411,22 @@
       "Business"
     ],
     "description": "Scans receipts and invoices and tracks bookkeeping expenses.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "com.dimfin",
+    "name": "DimFin: Smart Budget Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.dimfin",
+    "iconUrl": "https://play-lh.googleusercontent.com/6vez2s9XyYIvtksKuq0T67iNfMnoDRLoKqAbJ_E_T4eGwO7dLAFN8iuhZvIgHHidyahbKKUW36Crcp2237XN",
+    "developer": "DimFin",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks expenses, budgets, and savings goals offline with receipt scanning.",
     "verifiedAt": "2026-11-03"
   },
   {
@@ -656,6 +717,21 @@
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "com.fealthy.app",
+    "name": "Fealthy",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.fealthy.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/P4bbasOJP2eVH5t7DbKOBt11dikuk_ZWV5TnKSRqSIrKGr7z0jJQX4aNnjRfNNUtuNcwOYsenvVU_0ZzuJ47CA0",
+    "developer": "Fealthy",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks income, expenses, and budgets with bank synchronization.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
     "id": "com.finart",
     "name": "FinArt: AI Expense Tracker",
     "platform": "android",
@@ -667,6 +743,39 @@
       "Expenses"
     ],
     "description": "Uses AI tools to track expenses, budgets, and bills.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "com.fineye",
+    "name": "FinEye - Money & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.fineye",
+    "iconUrl": "https://play-lh.googleusercontent.com/kiv9zFZzcHZ6EJvLpMGo1z1X5HCKQSeqie-PCNpVelXT1df7eZZGGBi-6Qyq7apMSOLbLxMkmndJsVJ88fDNXGQ",
+    "developer": "Vladyslav Kaida",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks spending, budgets, investments, and net worth in one place.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "FinEye - облік і бюджет"
+    ]
+  },
+  {
+    "id": "online.finmap.my",
+    "name": "Finmap",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=online.finmap.my",
+    "iconUrl": "https://play-lh.googleusercontent.com/qY9zNk4DRZn3zAddj7U73O4cGidK21sXwr4gs4ij2yHSlLLPQ5vkl-AstAJV4GPKLFrqElUEg1cOPAk4ma9J",
+    "developer": "Finmap development",
+    "tags": [
+      "Expenses",
+      "Business",
+      "Ukrainian-made"
+    ],
+    "description": "Records business income, expenses, and transfers and tracks account balances.",
     "verifiedAt": "2026-11-03"
   },
   {
@@ -742,6 +851,24 @@
     "verifiedAt": "2026-11-03"
   },
   {
+    "id": "com.gubadoo",
+    "name": "gubadoo: Renovation Accounting",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gubadoo",
+    "iconUrl": "https://play-lh.googleusercontent.com/wQg5Pcjh8ndqq0_uw8wJHhds4KRqG55JWaL98rQRzFhnqoSVO0XVWU-sL5qmg-2gWN99Zh_sz1qhUBfJ88XkYQ",
+    "developer": "gubadoo",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks repair and construction expenses against project budgets.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "gubadoo Облік і Фінанси Ремонт"
+    ]
+  },
+  {
     "id": "com.ventisize.handtrip",
     "name": "handtrip - travel expense",
     "platform": "android",
@@ -767,6 +894,42 @@
     ],
     "description": "Splits bills, tracks expenses, and organizes tax documents.",
     "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "com.blogspot.accountingutilities",
+    "name": "HomeBills — Utility Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.blogspot.accountingutilities",
+    "iconUrl": "https://play-lh.googleusercontent.com/mnrZcXYA51xLB1Q9Hfwu5gmPLTSCw08Es_vEAuCBuxliE150B7ZLBFBt52hcmNQFjI--ycRVZhsPcZlwK9s5zw",
+    "developer": "Artem Krut",
+    "tags": [
+      "Expenses",
+      "Bills",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks utility bills, meter readings, and monthly household costs.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Комуналочка — облік витрат"
+    ]
+  },
+  {
+    "id": "com.ua.homemoney",
+    "name": "HomeMoney",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ua.homemoney",
+    "iconUrl": "https://play-lh.googleusercontent.com/l_bNmxFYYDHGThUP0c75DxXVXZMNjFlwor1SSGJFn5SDOdcmyS8_cgG32xpmw8DiiJJY7SCkP1yg_zMaDnro_g",
+    "developer": "maxfin",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Records income and expenses and syncs with the HomeMoney web service.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Homemoney"
+    ]
   },
   {
     "id": "incomeexpense.incomeexpense",
@@ -808,6 +971,24 @@
     ],
     "description": "Tracks spending and organizes personal finances.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.keepcoin",
+    "name": "Kaspo: Budget Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.keepcoin",
+    "iconUrl": "https://play-lh.googleusercontent.com/-B9AJKBlklB5TCh6qezaMURxzeBUgLjCFNYJmCZnSf_MZSzi1SaZ_lyPfLOOH1htr0DoeAnMlDiVV9EfirOo",
+    "developer": "MKsln",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Receipts"
+    ],
+    "description": "Records spending through voice, receipt scanning, or manual entries.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Kaspo: Трекер витрат і бюджет"
+    ]
   },
   {
     "id": "com.wordpress.kuoyhuot.keepr",
@@ -852,6 +1033,22 @@
     "verifiedAt": "2026-11-03"
   },
   {
+    "id": "com.midni.midniapp",
+    "name": "Midni: облік витрат і бюджет",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.midni.midniapp",
+    "iconUrl": "https://play-lh.googleusercontent.com/d25aq-U0huZkUBEJHjW19HemwvROavEtY4hi9wks9mrFY8SSeM76ZkDG6ONka6Jb3EbcvT8E5Qk1n5_UPE8x",
+    "developer": "Midni LLC",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks personal and family budgets and imports bank transactions.",
+    "verifiedAt": "2026-11-03"
+  },
+  {
     "id": "br.com.gerenciadorfinanceiro.controller",
     "name": "Mobills: Budget Planner",
     "platform": "android",
@@ -892,6 +1089,24 @@
     ],
     "description": "Tracks personal expenses and helps plan a household budget.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.flexvel.monetix",
+    "name": "Monetix: Expense & Budget",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.flexvel.monetix",
+    "iconUrl": "https://play-lh.googleusercontent.com/bH1QjYJrkIelD_CT04mRcFNP-C84drHXanKErItZrIsgcMIXP1pbpHIFQkQ69qsCdWBHnKMal4yFsqmdckDtOA",
+    "developer": "FlexVel",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks expenses and plans personal budgets.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Monetix: Облік витрат і бюджет"
+    ]
   },
   {
     "id": "com.soft.znich.FlowmoPro",
@@ -956,7 +1171,8 @@
     "iconUrl": "https://play-lh.googleusercontent.com/qsimhyhpL1d0AOQ0F7ExR0Zcz5y9YHvmkXBQdWScSc1onH-CjwT43TGSqPTe_zztJBnR_WRa-vdXX0DACb_m",
     "developer": "Oleh H",
     "tags": [
-      "Expenses"
+      "Expenses",
+      "Ukrainian-made"
     ],
     "description": "Records personal income and expenses.",
     "verifiedAt": "2026-11-03"
@@ -1156,6 +1372,24 @@
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "com.groshopys.app",
+    "name": "MoneyScript: Budget & Expenses",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.groshopys.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/zQKz-v2v5ij8-2sHq9hVrEcq3DECM-L22A4b4rD50U67yg0IpTEDIybNT_hHhQF0xJ-zkJWVucsl49gXIauPBg",
+    "developer": "Anna Niemtseva",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks expenses and budgets while separating personal funds from credit.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Грошопис: облік витрат, бюджет"
+    ]
+  },
+  {
     "id": "com.thegreatdanton.moneysplit.money_split",
     "name": "MoneySplit: Budget & Finance",
     "platform": "android",
@@ -1184,6 +1418,25 @@
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "com.monohroshi",
+    "name": "Monohroshi - Expenses & Income",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.monohroshi",
+    "iconUrl": "https://play-lh.googleusercontent.com/VWC23DLx5Pb827swQDvVsLWJuQHhgmQIby-oMzPx524hUzhFJxZel3VYq7K0647bE9KyyxGWH2sf7d2HTB-K",
+    "developer": "LYTVYN ROSTYSLAV",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks personal and shared expenses, income, budgets, and account balances.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Monohroshi - Витрати та Доходи"
+    ]
+  },
+  {
     "id": "com.kaushikbaruah.quickexpensemanagerfree",
     "name": "Monthly Expenses: Manage Money",
     "platform": "android",
@@ -1198,6 +1451,24 @@
     "verifiedAt": "2026-11-03"
   },
   {
+    "id": "gryn.dev.myfin",
+    "name": "MyFin: expense tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=gryn.dev.myfin",
+    "iconUrl": "https://play-lh.googleusercontent.com/NmJMxUqas4QsnFs7jV91y9wbUMt2mlCUrQ9W0x89X8rhrKjt5Y1nAM2Mn66vFL5Q42HtRMk-pWmKNdZj9VRuAA",
+    "developer": "Dmytro Gryn",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks expenses and category budgets with financial reports.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "MyFin: бюджет і фінанси"
+    ]
+  },
+  {
     "id": "com.raha.app.mymoney.free",
     "name": "MyMoney—Track Expense & Budget",
     "platform": "android",
@@ -1210,6 +1481,24 @@
     ],
     "description": "Records daily expenses and helps manage a personal budget.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.vbrazhnik.obleek",
+    "name": "obleek: expense tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.vbrazhnik.obleek",
+    "iconUrl": "https://play-lh.googleusercontent.com/_fdCSHAbcvpKnS6HEoE24u5_ZyX0uHJ63BqrGQZ9LF1UjIGCegyBfwCd-Gowm2EQIMl4piu2nPzT0DJbR_gRsXo",
+    "developer": "VBrazhnik",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Records payments from bank notifications and tracks budgets and debts.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "obleek: трекер витрат"
+    ]
   },
   {
     "id": "com.aistudio.snaptax.x9kp",
@@ -1237,6 +1526,25 @@
     ],
     "description": "Records income and expenses in separate cashbooks with CSV and PDF exports.",
     "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "com.romanchuk.o",
+    "name": "Oxpense: Daily Budget Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.romanchuk.o",
+    "iconUrl": "https://play-lh.googleusercontent.com/iH5f7CirrfdKTUzkvqs5RDvnLJxXr4voFdyKYFfrdYv8RnzlhzLvlYYkXcBXIDQwGxcPpPGXcY5ieOWEorQ0ZWg",
+    "developer": "Romanchuk",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks daily spending and adjusts daily budget allowances.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Oxpense: бюджет і витрати дня",
+      "O - Daily Budget & Expenses"
+    ]
   },
   {
     "id": "app.pefi",
@@ -1295,6 +1603,25 @@
     "verifiedAt": "2026-11-03"
   },
   {
+    "id": "net.purplewallet.app",
+    "name": "Purple Wallet: Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=net.purplewallet.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/5PeUPIfV7RPfKUWyvPev9rZ-XAyA7AJ8MwVRC53yukJGMwkPOU5bZXOiotMaw-UDz1rn0UQXhzwCPQgpNs0KTek",
+    "developer": "Purple Wallet",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks personal and shared expenses, budgets, and recurring payments.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Purple Wallet: облік витрат"
+    ]
+  },
+  {
     "id": "zazmic.at.invoice_parser",
     "name": "Receipt Scanner",
     "platform": "android",
@@ -1317,7 +1644,8 @@
     "developer": "Saldo Apps",
     "tags": [
       "Expenses",
-      "Receipts"
+      "Receipts",
+      "Ukrainian-made"
     ],
     "description": "Scans receipts to create and track expense records.",
     "verifiedAt": "2026-11-03"
@@ -1347,7 +1675,8 @@
     "tags": [
       "Budgeting",
       "Expenses",
-      "Receipts"
+      "Receipts",
+      "Ukrainian-made"
     ],
     "description": "Scans receipts and tracks spending, budgets, and tax records.",
     "verifiedAt": "2026-11-03"
@@ -1439,6 +1768,42 @@
     "verifiedAt": "2026-11-03"
   },
   {
+    "id": "com.revup.app",
+    "name": "RevUp: Car Maintenance Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.revup.app",
+    "iconUrl": "https://play-lh.googleusercontent.com/TJXWpC1jXn3-f1mD2A_RxLOtfRi0uqJW4mcaSSnKfPBIwAemffZWbWUyqapzoGZJmQqJqe6zCrFi9FCZ49wIB0s",
+    "developer": "RevUp",
+    "tags": [
+      "Expenses",
+      "Vehicles",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks vehicle spending, fuel costs, repairs, and maintenance records.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "RevUp — облік витрат на авто"
+    ]
+  },
+  {
+    "id": "budjet_client.twa",
+    "name": "Right Budget - Money Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=budjet_client.twa",
+    "iconUrl": "https://play-lh.googleusercontent.com/tD15uXwaNZ6R7mP7SolBO9OaX-RAKrN3oM9OqZ30UWB2bOlR61VBmWVi5Ig-4OAlA2aARzsfgtgujEH5pU1D8WA",
+    "developer": "TrueAppsCompany",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Plans budgets and tracks spending.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Right Budget - облік фінансів"
+    ]
+  },
+  {
     "id": "com.truebill",
     "name": "Rocket Money - Bills & Budgets",
     "platform": "android",
@@ -1465,6 +1830,26 @@
     ],
     "description": "Tracks spending and savings with budgeting tools.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "com.saldo.finance",
+    "name": "Saldo - Finance Management App",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.saldo.finance",
+    "iconUrl": "https://play-lh.googleusercontent.com/-P9UbjX5_wfyX8LVbYxfm4UCjAWsi9WD4JTIvd0t_ZPzd63DraJE51OXI4bHVYT7pvzQRJkoIUQAaZFHIPIt",
+    "developer": "Saldo Apps",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Business",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks personal, shared household, and business income and expenses.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Saldo: Облік доходів і витрат"
+    ]
   },
   {
     "id": "cz.destil.settleup",
@@ -1582,6 +1967,24 @@
     ],
     "description": "Uses AI tools to help manage expenses and plan spending.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "ivan.app.moneySpend.money_spend_app",
+    "name": "Spendient: Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ivan.app.moneySpend.money_spend_app",
+    "iconUrl": "https://play-lh.googleusercontent.com/eT-8g7ou0P0tFW3ziRh0tPqZfEVO0UaJkvKWEcZL3j2EHGM0u8bN3Hh5XATOb_5UiXRkXcNa2xdggqwrSJjKGqc",
+    "developer": "Spendient",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks spending and organizes personal budgets.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "Витрати та доходи - Spendient"
+    ]
   },
   {
     "id": "com.mhriley.spendingtracker",
@@ -1820,10 +2223,16 @@
     "developer": "Oleksandr Kinakh",
     "tags": [
       "Budgeting",
-      "Expenses"
+      "Expenses",
+      "Ukrainian-made"
     ],
     "description": "Organizes expenses, budgets, and personal finances.",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-02",
+    "aliases": [
+      "Sumlio: Витрати та Бюджет",
+      "Mony",
+      "Mony: Budget & Expense Tracker"
+    ]
   },
   {
     "id": "com.bytelo.tally",
@@ -2054,6 +2463,25 @@
     ],
     "description": "Splits shared spending for trips, parties, and group events.",
     "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "com.kindgeek.wisewallet",
+    "name": "WiseWallet – Expense Tracker",
+    "platform": "android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kindgeek.wisewallet",
+    "iconUrl": "https://play-lh.googleusercontent.com/VtJ7flkb9ug_vrNrmFwmAPi8SJ7ueHpcJlGst65lWxdmSS4sdtAN1L6zv-_S_N5lpQ50_sPA9zLNP4kTu1jRWg",
+    "developer": "WiseWallet",
+    "tags": [
+      "Budgeting",
+      "Expenses",
+      "Shared expenses",
+      "Ukrainian-made"
+    ],
+    "description": "Tracks income, expenses, account balances, and shared bills.",
+    "verifiedAt": "2026-11-03",
+    "aliases": [
+      "WiseWallet – Трекер витрат"
+    ]
   },
   {
     "id": "com.youneedabudget.evergreen.app",
